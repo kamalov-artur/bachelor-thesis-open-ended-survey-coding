@@ -1,0 +1,2097 @@
+caseID,verbatim,1,3,4,11,23,24,95,96,97
+1, //DIRECTOR OF FEMA ,0,0,0,0,0,1,0,0,0
+3, //IR does not recognize the name at all// ,0,0,0,0,0,0,1,0,0
+4, WHO IS GORDON BROWN? ,0,0,0,0,0,0,1,0,0
+5, IR does not have a guess ,0,0,0,0,0,0,1,0,0
+7," IR DOES NOT EVEN KNOW WHO HE IS, CAN NOT GUESS ",0,0,0,0,0,0,1,0,0
+8," IR does not have a guess, IR has heard the name before. not sure ",0,0,0,0,0,0,1,0,1
+9," R HAS NO IDEA, COULD BE A BUS DRIVER FOR ALL SHE KNOWS, NEVER HAS HEARD THAT NAME BEFORE ",0,0,0,0,0,1,1,0,1
+10, R IS NOT FAMILIAR WITH THE NAME OR PERSON//NO ,0,0,0,0,0,0,1,1,0
+11," // R CAN'T MAKE A GUESS, HIS NAME IS TOTALLY UNFAMILIAR TO HER//NO ",0,0,0,0,0,0,1,1,0
+12, RECOGNIZE THE NAME/BUT IR DOES NOT KNOW WHAT OFFICE HE NOW HOLDS ,0,0,0,0,0,0,1,0,1
+13, don't know ,0,0,0,0,0,0,1,0,0
+14, i'm not familiar with him ,0,0,0,0,0,0,1,0,0
+15, DON'T KNOW ,0,0,0,0,0,0,1,0,0
+16, don't remember ,0,0,0,0,0,0,1,0,0
+17, DON'T KNOW ,0,0,0,0,0,0,1,0,0
+18, don't know ,0,0,0,0,0,0,1,0,0
+19, DON'T KNOW ,0,0,0,0,0,0,1,0,0
+20, no idea ,0,0,0,0,0,0,1,0,0
+21, don't know ,0,0,0,0,0,0,1,0,0
+22," IR does not recognize the name, no guess ",0,0,0,0,0,0,1,0,0
+23, senate// ,0,0,0,0,0,1,0,0,0
+24, works in the white House?//James brown relative?// ,0,0,0,0,1,1,0,0,0
+25, judge//   ,0,0,0,0,0,1,0,0,0
+27, no idea// ,0,0,0,0,0,0,1,0,0
+28, congressman// ,0,0,0,0,0,1,0,0,0
+29, financial advisor ,0,0,0,0,0,1,0,0,0
+30, Military ,0,0,0,0,0,1,0,0,0
+31, not a clue ,0,0,0,0,0,0,1,0,0
+32, don't know ,0,0,0,0,0,0,1,0,0
+33, prime minister of Canada ,0,1,0,0,0,0,0,0,0
+34, i don't know ,0,0,0,0,0,0,1,0,0
+35, don't know ,0,0,0,0,0,0,1,0,0
+36, don't know ,0,0,0,0,0,0,1,0,0
+37, senator ,0,0,0,0,0,1,0,0,0
+38, secretary of something ,0,0,0,0,0,1,0,0,0
+39, secretary of defense ,0,0,0,0,0,1,0,0,0
+40, don't know ,0,0,0,0,0,0,1,0,0
+41, I don't know ,0,0,0,0,0,0,1,0,0
+42, democrat ,0,0,0,0,0,1,0,0,0
+43, congressman ,0,0,0,0,0,1,0,0,0
+44, no idea ,0,0,0,0,0,0,1,0,0
+45, judge ,0,0,0,0,0,1,0,0,0
+46, senator ,0,0,0,0,0,1,0,0,0
+47, governor ,0,0,0,0,0,1,0,0,0
+48, prime minister of England ,1,0,0,0,0,0,0,0,0
+49, no clue ,0,0,0,0,0,0,1,0,0
+50, chief justice ,0,0,0,0,0,1,0,0,0
+51, no guess ,0,0,0,0,0,0,1,0,0
+52, judge ,0,0,0,0,0,1,0,0,0
+54, I don't know ,0,0,0,0,0,0,1,0,0
+55, don't know ,0,0,0,0,0,0,1,0,0
+56, senate ,0,0,0,0,0,1,0,0,0
+57, senator ,0,0,0,0,0,1,0,0,0
+59, dn't know ,0,0,0,0,0,0,1,0,0
+60, I don't know ,0,0,0,0,0,0,1,0,0
+61, don't know ,0,0,0,0,0,0,1,0,0
+62, don't know ,0,0,0,0,0,0,1,0,0
+63, don't know ,0,0,0,0,0,0,1,0,0
+64, Senator ,0,0,0,0,0,1,0,0,0
+65, school board ,0,0,0,0,0,1,0,0,0
+66, prime minister of britain ,1,0,0,0,0,0,0,0,0
+67," can't guess i'm sorry, i don't remember ",0,0,0,0,0,0,1,0,1
+68, prime minister of england ,1,0,0,0,0,0,0,0,0
+69, draw a complete blank ,0,0,0,0,0,0,1,0,0
+71, i can't rememe\ber ,0,0,0,0,0,0,1,0,0
+72, house committee supervisor ,0,0,0,0,0,1,0,0,0
+73, i don't know ,0,0,0,0,0,0,1,0,0
+74, don't know ,0,0,0,0,0,0,1,0,0
+75," i don't know but i can guess, house/senate ",0,0,0,0,0,1,1,0,1
+76, chancellor ,0,0,0,0,0,1,0,0,0
+77, prime minister of united kingdom ,1,0,0,0,0,0,0,0,0
+78, supreme court ,0,0,0,0,0,1,0,0,0
+79, congressman ,0,0,0,0,0,1,0,0,0
+80, house minority leadeer ,0,0,0,0,0,1,0,0,0
+81, dk//chief of staff ,0,0,0,0,0,1,1,0,0
+82, senator ,0,0,0,0,0,1,0,0,0
+83, //doesn't ring a bell ,0,0,0,0,0,0,1,0,0
+85," don't know//never heard of him, can't guess ",0,0,0,0,0,0,1,0,0
+86, dk//i have no idea ,0,0,0,0,0,0,1,0,0
+87, don't know ,0,0,0,0,0,0,1,0,0
+88, atty general ,0,0,0,0,0,1,0,0,0
+89, SENATOR ,0,0,0,0,0,1,0,0,0
+90, dk//dk ,0,0,0,0,0,0,1,0,0
+92, dk//governor ,0,0,0,0,0,1,1,0,0
+93, dk// congressman ,0,0,0,0,0,1,1,0,0
+94, dk//dk ,0,0,0,0,0,0,1,0,0
+95," i can not answer that//i couldn't guess, dk ",0,0,0,0,0,0,1,0,0
+96, something having to do w/ the senate ,0,0,0,0,0,1,0,0,0
+98, senator ,0,0,0,0,0,1,0,0,0
+99, dk//us rep ,0,0,0,0,0,1,1,0,0
+101," don't know - doesn't ring a bell// sounds familiar but I DK,part of the cabinet ",0,0,0,0,0,1,1,0,1
+103, i don't know ,0,0,0,0,0,0,1,0,0
+104, prime minister of England ,1,0,0,0,0,0,0,0,0
+105, <RF> ,0,0,0,0,0,0,0,1,0
+106," dk//no, dk ",0,0,0,0,0,0,1,1,0
+107, senate ,0,0,0,0,0,1,0,0,0
+108, senator ,0,0,0,0,0,1,0,0,0
+109, small business organization ,0,0,0,0,0,1,0,0,0
+110, advisor to prsident ,0,0,0,0,0,1,0,0,0
+111, secretary ,0,0,0,0,0,1,0,0,0
+112, demoncratic ,0,0,0,0,0,1,0,0,0
+113, /white house/ i guess ,0,0,0,0,0,1,0,0,1
+114, Really dosnt know/representative/ ,0,0,0,0,0,1,1,0,0
+115, //no idea at all//  ,0,0,0,0,0,0,1,0,0
+116, former director of FEMA ,0,0,0,0,0,1,0,0,0
+117, house of representatives ,0,0,0,0,0,1,0,0,0
+118," i don't know him, // don';t know ",0,0,0,0,0,0,1,0,0
+119, just cant guess ,0,0,0,0,0,0,1,0,0
+120, haven't heard about him  ,0,0,0,0,0,0,1,0,0
+121, i don't know//i never heard the name ,0,0,0,0,0,0,1,0,0
+122, congressman ,0,0,0,0,0,1,0,0,0
+123," i have no idea//i don't know, never heard of him ",0,0,0,0,0,0,1,0,0
+124, secretary of treasury ,0,0,0,0,0,1,0,0,0
+125, don't know//congressw ,0,0,0,0,0,1,1,0,0
+126, don't know ,0,0,0,0,0,0,1,0,0
+127, no idea ,0,0,0,0,0,0,1,0,0
+128, no idea ,0,0,0,0,0,0,1,0,0
+129, don't know and don't care ,0,0,0,0,0,0,1,0,1
+130, senator ,0,0,0,0,0,1,0,0,0
+131, prime minister of English ,1,0,0,0,0,0,0,0,0
+132, prime minister of england ,1,0,0,0,0,0,0,0,0
+133, no idea ,0,0,0,0,0,0,1,0,0
+134, don't know ,0,0,0,0,0,0,1,0,0
+135, speaker of the house ,0,0,0,0,0,1,0,0,0
+137, never heard of the guy. ,0,0,0,0,0,0,1,0,0
+138, no idea ,0,0,0,0,0,0,1,0,0
+139, prime minister of great britain ,1,0,0,0,0,0,0,0,0
+141, prime minister of england ,1,0,0,0,0,0,0,0,0
+144, senator ,0,0,0,0,0,1,0,0,0
+145, no guess ,0,0,0,0,0,0,1,0,0
+146, prime minister of england ,1,0,0,0,0,0,0,0,0
+147, president's press secty ,0,0,0,0,0,1,0,0,0
+148, sect of the treasury ,0,0,0,0,0,1,0,0,0
+149, no guess at all ,0,0,0,0,0,0,1,0,0
+150, prime minister of england ,1,0,0,0,0,0,0,0,0
+151, prime minister of england ,1,0,0,0,0,0,0,0,0
+152, prime minister of england ,1,0,0,0,0,0,0,0,0
+153, prime minister of england ,1,0,0,0,0,0,0,0,0
+155, chairman ,0,0,0,0,0,1,0,0,0
+156, military ,0,0,0,0,0,1,0,0,0
+157, congressman ,0,0,0,0,0,1,0,0,0
+158, he's a congressman ,0,0,0,0,0,1,0,0,0
+160, congress man ,0,0,0,0,0,1,0,0,0
+161, don't know// ,0,0,0,0,0,0,1,0,0
+162, don't know//don't have one ,0,0,0,0,0,0,1,0,0
+163, dont know ,0,0,0,0,0,0,1,0,0
+164, don't know ,0,0,0,0,0,0,1,0,0
+165, don't know//dk ,0,0,0,0,0,0,1,0,0
+166, house of representatives ,0,0,0,0,0,1,0,0,0
+167, don't know who he is ,0,0,0,0,0,0,1,0,0
+168, dk ,0,0,0,0,0,0,1,0,0
+169, dk ,0,0,0,0,0,0,1,0,0
+170, dk ,0,0,0,0,0,0,1,0,0
+171, dk ,0,0,0,0,0,0,1,0,0
+172, don't know ,0,0,0,0,0,0,1,0,0
+173, dk ,0,0,0,0,0,0,1,0,0
+174, don't know//dk ,0,0,0,0,0,0,1,0,0
+175," don't know//majority leader,repulican?// ",0,0,0,0,0,1,1,0,0
+176, don't know//dk ,0,0,0,0,0,0,1,0,0
+177, don't know//no idea ,0,0,0,0,0,0,1,0,0
+178, don't know//dk ,0,0,0,0,0,0,1,0,0
+179, prime minister of great britian ,1,0,0,0,0,0,0,0,0
+180, dont know//dk ,0,0,0,0,0,0,1,0,0
+181, don't know//dk ,0,0,0,0,0,0,1,0,0
+182, don't know//congressman ,0,0,0,0,0,1,1,0,0
+183," its so familiar, don't know, //don't know, have no idea ",0,0,0,0,0,0,1,0,1
+184, i don't know//i don't even know who that is ,0,0,0,0,0,0,1,0,0
+185," dont' know,// maybe a senator ",0,0,0,0,0,1,1,0,0
+186," i don't know//governor, idon't know ",0,0,0,0,0,1,1,0,0
+187, <RF> ,0,0,0,0,0,0,0,1,0
+188, representative ,0,0,0,0,0,1,0,0,0
+189, dk ,0,0,0,0,0,0,1,0,0
+190," don't know, never even heard the name//i wouldn't know, something in the govt ",0,0,0,0,0,1,1,0,0
+192, dk ,0,0,0,0,0,0,1,0,0
+193, don't know ,0,0,0,0,0,0,1,0,0
+194, being silly-dog catcher(really just couldnt guess.  ,0,0,0,0,0,1,1,0,1
+195, supreme courtjudge ,0,0,0,0,0,1,0,0,0
+196, dk ,0,0,0,0,0,0,1,0,0
+197, politics ,0,0,0,0,0,1,0,0,0
+198," don't know//maybe he is a local person, don't know of him on the national level ",0,0,0,0,0,1,1,0,0
+199, congress ,0,0,0,0,0,1,0,0,0
+200, Supreme Court ,0,0,0,0,0,1,0,0,0
+201, republican office//no ,0,0,0,0,0,1,0,1,0
+202, dk ,0,0,0,0,0,0,1,0,0
+203," no clue//superintendent of schools, mayor of somewhere ",0,0,0,0,0,1,1,0,0
+204, dk//congressman ,0,0,0,0,0,1,1,0,0
+205, prime minister of england ,1,0,0,0,0,0,0,0,0
+206, d/k//no ,0,0,0,0,0,0,1,1,0
+207, dk ,0,0,0,0,0,0,1,0,0
+208, dk//dk ,0,0,0,0,0,0,1,0,0
+209, congressman ,0,0,0,0,0,1,0,0,0
+210, dk//dk ,0,0,0,0,0,0,1,0,0
+211, dk ,0,0,0,0,0,0,1,0,0
+213, dont know ,0,0,0,0,0,0,1,0,0
+214, don't know//don't know ,0,0,0,0,0,0,1,0,0
+215, d/k// ,0,0,0,0,0,0,1,0,0
+216, dont know   ,0,0,0,0,0,0,1,0,0
+218, No clue. ,0,0,0,0,0,0,1,0,0
+219, i don't know him//congress ,0,0,0,0,0,1,1,0,0
+220, dk//dk//No ,0,0,0,0,0,0,1,1,0
+221, dont know him ,0,0,0,0,0,0,1,0,0
+222, NO IDEA// ,0,0,0,0,0,0,1,0,0
+223, honestly i don't know// never heard his name ,0,0,0,0,0,0,1,0,1
+225, dk//dk//no ,0,0,0,0,0,0,1,1,0
+226, dk//dk ,0,0,0,0,0,0,1,0,0
+228, congress d/k// ,0,0,0,0,0,1,1,0,0
+229, d/k// ,0,0,0,0,0,0,1,0,0
+230, governor ,0,0,0,0,0,1,0,0,0
+231, DK//NO ,0,0,0,0,0,0,1,1,0
+232, CONGRESMAN ,0,0,0,0,0,1,0,0,0
+233, dk ,0,0,0,0,0,0,1,0,0
+234, obama selected him as attorney general ,0,0,0,0,0,1,0,0,0
+236, Prime Minister of Grat Britian ,1,0,0,0,0,0,0,0,0
+237," don't know him,//prob. a congressman ",0,0,0,0,0,1,1,0,0
+238," sounds so familiar, don't know, i'm thinking governor, but not sure why, my life is school ",0,0,0,0,0,1,1,0,1
+239, dk//dk ,0,0,0,0,0,0,1,0,0
+240, Dk//Senator dk//  ,0,0,0,0,0,1,1,0,0
+241, dk// camident members ,0,0,0,0,0,1,1,0,0
+242, //Economic Advisor ,0,0,0,0,0,1,0,0,0
+243, pRIME mINISTER OF eNGLAND ,1,0,0,0,0,0,0,0,0
+245, DK// DK ,0,0,0,0,0,0,1,0,0
+246, dk//no ,0,0,0,0,0,0,1,1,0
+247, Dk/ dk ,0,0,0,0,0,0,1,0,0
+248, dk// dk ,0,0,0,0,0,0,1,0,0
+249, DK//DK ,0,0,0,0,0,0,1,0,0
+250, dk//dk ,0,0,0,0,0,0,1,0,0
+252, democrat ,0,0,0,0,0,1,0,0,0
+253, dont know ,0,0,0,0,0,0,1,0,0
+254, never heard of him ,0,0,0,0,0,0,1,0,0
+255, no idea at all ,0,0,0,0,0,0,1,0,0
+256, NO IDEA ,0,0,0,0,0,0,1,0,0
+257, prime minister of UK ,1,0,0,0,0,0,0,0,0
+258," dont know, attorney general for CA ",0,0,0,0,0,1,1,0,0
+259, no idea ,0,0,0,0,0,0,1,0,0
+260, SECRETARY ,0,0,0,0,0,1,0,0,0
+261, house of representatives ,0,0,0,0,0,1,0,0,0
+263, no guess i dont knpow thaqt person ,0,0,0,0,0,0,1,0,0
+264, senate ,0,0,0,0,0,1,0,0,0
+265, I HAVE NO IDEA ,0,0,0,0,0,0,1,0,0
+266," NO GUESS, A DEMOCRAT ",0,0,0,0,0,1,1,0,0
+267," i dont know, no guess ",0,0,0,0,0,0,1,0,0
+268, dont know who he is ,0,0,0,0,0,0,1,0,0
+270," i dont know him, no guess ",0,0,0,0,0,0,1,0,0
+271, i dont know ,0,0,0,0,0,0,1,0,0
+272, dont know ,0,0,0,0,0,0,1,0,0
+273, dont know ,0,0,0,0,0,0,1,0,0
+274, congress ,0,0,0,0,0,1,0,0,0
+275, prime minister of england ,1,0,0,0,0,0,0,0,0
+276, prime minister of england ,1,0,0,0,0,0,0,0,0
+277, prime minister of the UK ,1,0,0,0,0,0,0,0,0
+278, mayor ,0,0,0,0,0,1,0,0,0
+279, pm of great britain ,1,0,0,0,0,0,0,0,0
+280, congressman ,0,0,0,0,0,1,0,0,0
+281, i never heard of his name  financial advisor ,0,0,0,0,0,1,1,0,0
+282, never heard of him senator ,0,0,0,0,0,1,1,0,0
+283, washington politician ,0,0,0,0,0,1,0,0,0
+284, treasury ,0,0,0,0,0,1,0,0,0
+286, congress ,0,0,0,0,0,1,0,0,0
+287, prime minister of the united kingdom ,1,0,0,0,0,0,0,0,0
+288, senator maybe ,0,0,0,0,0,1,0,0,0
+289, prime minister of the UK ,1,0,0,0,0,0,0,0,0
+291, financial consultant ,0,0,0,0,0,1,0,0,0
+292, governor ,0,0,0,0,0,1,0,0,0
+293, english prime minister ,1,0,0,0,0,0,0,0,0
+294, congress ,0,0,0,0,0,1,0,0,0
+296, I don't know// no ,0,0,0,0,0,0,1,1,0
+298, i don't know ,0,0,0,0,0,0,1,0,0
+299, I don't know// no ,0,0,0,0,0,0,1,1,0
+300, I don't know much about him ,0,0,0,0,0,0,1,0,0
+301, i don't know him ,0,0,0,0,0,0,1,0,0
+302, I don't know ,0,0,0,0,0,0,1,0,0
+303, i have no idea who that is ,0,0,0,0,0,0,1,0,0
+304," I don't know, no guess ",0,0,0,0,0,0,1,0,0
+305, I don't know him ,0,0,0,0,0,0,1,0,0
+306, I don't know ,0,0,0,0,0,0,1,0,0
+307, idon't know// no ,0,0,0,0,0,0,1,1,0
+308, I don't know him ,0,0,0,0,0,0,1,0,0
+309," I don't have an idea, never heard of him ",0,0,0,0,0,0,1,0,0
+310," I don't know, I haven't heard of him ",0,0,0,0,0,0,1,0,0
+311,  I don't know who it is // somebody in the house of representatives ,0,0,0,0,0,1,1,0,0
+313, i don't know ,0,0,0,0,0,0,1,0,0
+315, i don't know ,0,0,0,0,0,0,1,0,0
+316, no clue ,0,0,0,0,0,0,1,0,0
+317, don't know// never heard of him probably a representative ,0,0,0,0,0,1,1,0,0
+318, I have never heard of him ,0,0,0,0,0,0,1,0,0
+320, i don't know ,0,0,0,0,0,0,1,0,0
+321, I don't know// i don't know ,0,0,0,0,0,0,1,0,0
+323, senator ,0,0,0,0,0,1,0,0,0
+324, no idea//no/no ,0,0,0,0,0,0,1,1,0
+325, don't know//don't know//no ,0,0,0,0,0,0,1,1,0
+326, don't know//democrat political ,0,0,0,0,0,1,1,0,0
+327, don't know//no clue ,0,0,0,0,0,0,1,0,0
+328, don't know//no ,0,0,0,0,0,0,1,1,0
+329, don't know//i idea whatsoever ,0,0,0,0,0,0,1,0,0
+330, don't know//prime minister of england ,1,0,0,0,0,0,1,0,0
+331, no idea//none what so ever//no ,0,0,0,0,0,0,1,1,0
+333, no idea//no ,0,0,0,0,0,0,1,1,0
+334, do idea//no ,0,0,0,0,0,0,1,1,0
+335, no idea//no ,0,0,0,0,0,0,1,1,0
+336, don't know//cheif of staff//no ,0,0,0,0,0,1,1,1,0
+337,      don't know//no ,0,0,0,0,0,0,1,1,0
+338, prime minister of labor party//england ,1,1,0,0,0,0,0,0,0
+339, mayor somewhere//no ,0,0,0,0,0,1,0,1,0
+340, don't know//no ,0,0,0,0,0,0,1,1,0
+341, don't know//minority leader//no ,0,0,0,0,0,1,1,1,0
+342, //no ,0,0,0,0,0,0,0,1,0
+343, Prime Minister of Grrat Britain ,1,0,0,0,0,0,0,0,0
+344, prime minister of england ,1,0,0,0,0,0,0,0,0
+345, barack obama's advisor ,0,0,0,0,0,1,0,0,0
+346, Prime Minister of England ,1,0,0,0,0,0,0,0,0
+347, prime minister of england ,1,0,0,0,0,0,0,0,0
+348," don't know,//don't have one, i don't guess ",0,0,0,0,0,0,1,1,0
+349, congress something ,0,0,0,0,0,1,0,0,0
+350, don't know//never heard that name//no ,0,0,0,0,0,0,1,1,0
+351, democrat ,0,0,0,0,0,1,0,0,0
+352, //no//no ,0,0,0,0,0,0,0,1,0
+353, don't know//  no ,0,0,0,0,0,0,1,1,0
+354, //spokes person for white house ,0,0,0,0,0,1,0,0,0
+355, don't know//no ,0,0,0,0,0,0,1,1,0
+356, undecided ,0,0,0,0,0,0,1,0,0
+357, dk//no ,0,0,0,0,0,0,1,1,0
+358, //justice ,0,0,0,0,0,1,0,0,0
+359, dk//no ,0,0,0,0,0,0,1,1,0
+360, dk//can't answer//no ,0,0,0,0,0,0,1,1,0
+361, dk//no ,0,0,0,0,0,0,1,1,0
+362, //no ,0,0,0,0,0,0,0,1,0
+363, don't know//no ,0,0,0,0,0,0,1,1,0
+364, //no ,0,0,0,0,0,0,0,1,0
+365, //no ,0,0,0,0,0,0,0,1,0
+366, dk//no ,0,0,0,0,0,0,1,1,0
+367, undecided ,0,0,0,0,0,0,1,0,0
+368, no//don't know ,0,0,0,0,0,0,1,1,0
+369, senator ,0,0,0,0,0,1,0,0,0
+370, senate ,0,0,0,0,0,1,0,0,0
+371, undecided ,0,0,0,0,0,0,1,0,0
+373, commerce ,0,0,0,0,0,1,0,0,0
+374, have no idea ,0,0,0,0,0,0,1,0,0
+375, in charge of hud ,0,0,0,0,0,1,0,0,0
+376, undecided ,0,0,0,0,0,0,1,0,0
+377, rep.  public affairs ,0,0,0,0,0,1,0,0,0
+378," can""t recall ",0,0,0,0,0,0,1,0,0
+379, senate ,0,0,0,0,0,1,0,0,0
+380, senate ,0,0,0,0,0,1,0,0,0
+381, cabnet ,0,0,0,0,0,1,0,0,0
+382," ""//"" dept of education ",0,0,0,0,0,1,0,0,0
+383," ""//"" guess congress ",0,0,0,0,0,1,0,0,1
+386, undecided ,0,0,0,0,0,0,1,0,0
+387, i dont know ,0,0,0,0,0,0,1,0,0
+388, no idea ,0,0,0,0,0,0,1,0,0
+389, representive ,0,0,0,0,0,1,0,0,0
+390, couldnt tell you ,0,0,0,0,0,0,1,0,0
+391," ""//"" I don't know ",0,0,0,0,0,0,1,0,0
+392, senator ,0,0,0,0,0,1,0,0,0
+393, senator ,0,0,0,0,0,1,0,0,0
+394, congressman ,0,0,0,0,0,1,0,0,0
+395, prime minister of Britian ,1,0,0,0,0,0,0,0,0
+396, undecided ,0,0,0,0,0,0,1,0,0
+398, //no//no ,0,0,0,0,0,0,0,1,0
+399, //no ,0,0,0,0,0,0,0,1,0
+400, dk//no ,0,0,0,0,0,0,1,1,0
+401, //no ,0,0,0,0,0,0,0,1,0
+402, //no ,0,0,0,0,0,0,0,1,0
+403, don't know ,0,0,0,0,0,0,1,0,0
+404, //don't know//no ,0,0,0,0,0,0,1,1,0
+405, //don't know//no ,0,0,0,0,0,0,1,1,0
+406, prime minister of england ,1,0,0,0,0,0,0,0,0
+407, //neverheard//no ,0,0,0,0,0,0,1,1,0
+408, education ,0,0,0,0,0,1,0,0,0
+409, prime minister of britain ,1,0,0,0,0,0,0,0,0
+410, don't know//no ,0,0,0,0,0,0,1,1,0
+411, //no ,0,0,0,0,0,0,0,1,0
+412, //no ,0,0,0,0,0,0,0,1,0
+413, dk//dk ,0,0,0,0,0,0,1,0,0
+414, dk ,0,0,0,0,0,0,1,0,0
+415, dk//congress? ,0,0,0,0,0,1,1,0,0
+416, dk--never heard the name ,0,0,0,0,0,0,1,0,0
+417, dk ,0,0,0,0,0,0,1,0,0
+418, dk//senator ,0,0,0,0,0,1,1,0,0
+420, dk//dk name ,0,0,0,0,0,0,1,0,0
+421, dk//dk ,0,0,0,0,0,0,1,0,0
+422, I'LL SAY A BUM ,0,0,0,0,0,1,0,0,1
+423, dk//dk ,0,0,0,0,0,0,1,0,0
+424," English, isn't he?  Prime minister (prompted by husband) ",0,0,1,0,0,1,0,0,1
+425, dk//treasury? ,0,0,0,0,0,1,1,0,0
+426," treasury, secretary of hte treasury ",0,0,0,0,0,1,0,0,0
+427, dk//dk ,0,0,0,0,0,0,1,0,0
+428, dk//dk ,0,0,0,0,0,0,1,0,0
+429, dk// ,0,0,0,0,0,0,1,0,0
+430," dk, never heard of him ",0,0,0,0,0,0,1,0,0
+431," england, tony blair's position Prime minister? ",0,0,1,0,0,1,0,0,0
+432," federal office, no idea ",0,0,0,0,0,1,1,0,0
+433, trying to run for district senate? ,0,0,0,0,1,0,0,0,0
+434, congressman ,0,0,0,0,0,1,0,0,0
+435, dk ,0,0,0,0,0,0,1,0,0
+436, supreme court judge ,0,0,0,0,0,1,0,0,0
+437, governor?  DK ,0,0,0,0,0,1,1,0,0
+438, dk ,0,0,0,0,0,0,1,0,0
+439, dk//somebody fro city council? ,0,0,0,0,0,1,1,0,0
+440, dk//never heard of him ,0,0,0,0,0,0,1,0,0
+441, dk// ,0,0,0,0,0,0,1,0,0
+442, dont know who he is ,0,0,0,0,0,0,1,0,0
+443, dk//dk/ ,0,0,0,0,0,0,1,0,0
+444, dk//dk ,0,0,0,0,0,0,1,0,0
+446, dk//dk ,0,0,0,0,0,0,1,0,0
+447, prime minister of britain ,1,0,0,0,0,0,0,0,0
+448, dk//a judge? ,0,0,0,0,0,1,1,0,0
+449, dk//treasury person?  DK ,0,0,0,0,0,1,1,0,0
+450, dk//dk ,0,0,0,0,0,0,1,0,0
+451, respondent does not know ,0,0,0,0,0,0,1,0,0
+453, supreme court justice ,0,0,0,0,0,1,0,0,0
+454, prime minister of Great Britain ,1,0,0,0,0,0,0,0,0
+455, respondent has no idea\\no ,0,0,0,0,0,0,1,1,0
+456, respondent has no clue ,0,0,0,0,0,0,1,0,0
+457, respondent has no clue ,0,0,0,0,0,0,1,0,0
+458, don't know//no ,0,0,0,0,0,0,1,1,0
+459, //don't know//no ,0,0,0,0,0,0,1,1,0
+460, //don't know//no ,0,0,0,0,0,0,1,1,0
+461, don't know. ,0,0,0,0,0,0,1,0,0
+462, respondent does not know this answer ,0,0,0,0,0,0,1,0,0
+463, respondent does not recogonize this name ,0,0,0,0,0,0,1,0,0
+464, don't know//no ,0,0,0,0,0,0,1,1,0
+466, senate ,0,0,0,0,0,1,0,0,0
+467, //don't know. ,0,0,0,0,0,0,1,0,0
+470, //i don't know. ,0,0,0,0,0,0,1,0,0
+471, //don't know//no ,0,0,0,0,0,0,1,1,0
+472, //never heard of him. ,0,0,0,0,0,0,1,0,0
+473," //don't remember, don't know. ",0,0,0,0,0,0,1,0,0
+475, //cabinet member//no ,0,0,0,0,0,1,0,1,0
+476, //don't know him at all// ,0,0,0,0,0,0,1,0,0
+477, //he handles the finances ,0,0,0,0,1,0,0,0,0
+478, //senator ,0,0,0,0,0,1,0,0,0
+479, money ,0,0,0,0,0,1,0,0,0
+480, //i don't know. ,0,0,0,0,0,0,1,0,0
+481, house of representatives ,0,0,0,0,0,1,0,0,0
+482, democrat ,0,0,0,0,0,1,0,0,0
+483, senator ,0,0,0,0,0,1,0,0,0
+484, dont know ,0,0,0,0,0,0,1,0,0
+485, someone in administration ,0,0,0,0,0,1,0,0,0
+487, don't know ,0,0,0,0,0,0,1,0,0
+488, senate ,0,0,0,0,0,1,0,0,0
+489, don't know ,0,0,0,0,0,0,1,0,0
+490, prime minister of england ,1,0,0,0,0,0,0,0,0
+491, don't know ,0,0,0,0,0,0,1,0,0
+492, don't know ,0,0,0,0,0,0,1,0,0
+493, don't know him ,0,0,0,0,0,0,1,0,0
+494, never heard of him ,0,0,0,0,0,0,1,0,0
+495, mayor of something//blind man from NY??//black??  just took office because his predecessor did some kind of crime//no ,0,0,0,0,1,1,0,1,0
+496, political office - R does not know ,0,0,0,0,0,1,1,0,0
+497, will have to come back to this one//no ,0,0,0,0,0,0,0,1,0
+498, mayor?? ,0,0,0,0,0,1,0,0,0
+499,  DOES NOT RECOGNIZE EVEN AFTER PROBING  ,0,0,0,0,0,0,1,0,0
+500,  R doesn't know. ,0,0,0,0,0,0,1,0,0
+501, REPUBLICAN???? ,0,0,0,0,0,1,0,0,0
+502, doesn't know anything about him.  she is not familiar with him ,0,0,0,0,0,0,1,0,0
+503, secretary of defense ,0,0,0,0,0,1,0,0,0
+504, R does not know - even after probing ,0,0,0,0,0,0,1,0,0
+505, DOESN'T KNOW HIM//CITY COUNCIL PERSON ,0,0,0,0,0,1,1,0,0
+506, democrat//doesn't know after probing ,0,0,0,0,0,1,1,0,0
+508, does not know who he is// is he in government// Dk even after probe ,0,0,0,0,0,1,1,0,0
+509, democrat party//no ,0,0,0,0,0,1,0,1,0
+510, city council?? ,0,0,0,0,0,1,0,0,0
+511,  does not know even after probing ,0,0,0,0,0,0,1,0,0
+512, never heard of him//DC senator ,0,0,0,0,0,1,1,0,0
+513, never heard his name//i don't know//no ,0,0,0,0,0,0,1,1,0
+514, doesn't have a clue//doesn't even recognize the name//no ,0,0,0,0,0,0,1,1,0
+515, DON'T KNOW WHO HE IS//DON'T KNOW WHO HE IS ,0,0,0,0,0,0,1,0,0
+516," NO IDEA//OWNS ALOCAL MCDONALD'S//NEVER HEARD THE NAME//I DON'T KNOW, NO IDEA WHAT POLITICAL OFFICE HE HOLDS//STOP ",0,0,0,0,0,1,1,1,0
+517, REPRESENTATIVE ,0,0,0,0,0,1,0,0,0
+518, DON'T KNOW WHO HE IS//SECRETARY OF DEFENSE ,0,0,0,0,0,1,1,0,0
+519," DON'T KNOW//NEVER HEARD OF HIM, EVER//CONGRESS ",0,0,0,0,0,1,1,0,0
+520, HOUSE REPRESENTATIVE ,0,0,0,0,0,1,0,0,0
+521, DON'T KNOW// DON'T KNOW WHO HE IS ,0,0,0,0,0,0,1,0,0
+522, I DON'T KNOW// SECRETARY ,0,0,0,0,0,1,1,0,0
+523," NO IDEA//NO IDEA// CONGRESSMAN, I DON'T KNOW ",0,0,0,0,0,1,1,0,0
+524, I DON'T KNOW// I REALLY HAVE NO IDEA//STOP ,0,0,0,0,0,0,1,1,0
+525, HE IS IN CONGRESS OR SOME PLACE BUT I DON'T KNOW ,0,0,0,0,0,1,1,0,0
+526, i don't know//um a name like that i should remmeber // I don;'t know  ,0,0,0,0,0,0,1,0,1
+528, dont know//no ,0,0,0,0,0,0,1,1,0
+529, dont know/o ,0,0,0,0,0,0,1,0,0
+530, prime minister ,0,0,1,0,0,0,0,0,0
+531, he runs the outhouses. ,0,0,0,0,1,0,0,0,0
+532, idon't know//i do know ,0,0,0,0,0,0,1,0,1
+533, i dont know//no ,0,0,0,0,0,0,1,1,0
+534, first seat in congress ,0,0,0,0,0,1,0,0,0
+535, no idea//the one obama selected as sec of state//if not i dont know ,0,0,0,0,0,1,1,0,0
+536, i dont know ,0,0,0,0,0,0,1,0,0
+537, dont kno ,0,0,0,0,0,0,1,0,0
+538, house of representatives ,0,0,0,0,0,1,0,0,0
+539, i do'nt know // I don't have 1 ,0,0,0,0,0,0,1,0,0
+540, i ndont know//no ,0,0,0,0,0,0,1,1,0
+541, he is the prime min of eng ,1,0,0,0,0,0,0,0,0
+543, i dont know/i dont know/no ,0,0,0,0,0,0,1,1,0
+545, newly elected staff for barack obama ,0,0,0,0,0,1,0,0,0
+546, i don't kn ow //i don't know ,0,0,0,0,0,0,1,0,0
+547, i dont know//in the senate or the house? ,0,0,0,0,0,1,1,0,0
+548, //house of representatives ,0,0,0,0,0,1,0,0,0
+549, i don't know who that is//i really wouldn't know what to say ,0,0,0,0,0,0,1,0,0
+550, i dont know//clueless//no ,0,0,0,0,0,0,1,1,0
+551, dont know/ ,0,0,0,0,0,0,1,0,0
+552, i have no idea//no ,0,0,0,0,0,0,1,1,0
+553, never heard of//i have know idea ,0,0,0,0,0,0,1,0,0
+554, not familiar with ,0,0,0,0,0,0,1,0,0
+555, //financial advisor ,0,0,0,0,0,1,0,0,0
+556, i dont even know who he is. ,0,0,0,0,0,0,1,0,0
+557, dont know//i have no idea//no ,0,0,0,0,0,0,1,1,0
+558,  representative/no ,0,0,0,0,0,1,0,1,0
+559, i dont know//i dont know who he his//no ,0,0,0,0,0,0,1,1,0
+560, i dont know// ,0,0,0,0,0,0,1,0,0
+561, i dont know//no ,0,0,0,0,0,0,1,1,0
+562, i have npo idea // i have no idea ,0,0,0,0,0,0,1,0,0
+563, dont know ,0,0,0,0,0,0,1,0,0
+564, i don't know//he is a adviewer not wicth way  ,0,0,0,0,0,1,1,0,1
+565, i don't know// idon't know  ,0,0,0,0,0,0,1,0,0
+566, i don't have a clue // he holds a office some where ,0,0,0,0,0,1,1,0,0
+568, i 'm not sure // senaater ,0,0,0,0,0,1,1,0,0
+569,  dont know//one of the cabinet people for obama ,0,0,0,0,0,1,1,0,0
+570, i do know//i don't know ,0,0,0,0,0,0,1,0,0
+571, i don't know//sec of state ,0,0,0,0,0,1,1,0,0
+572, prime minister ,0,0,1,0,0,0,0,0,0
+573, he is the sec of enconic affairs ,0,0,0,0,0,1,0,0,0
+574, i don';t know//i don't have a guess ,0,0,0,0,0,0,1,0,0
+575, um idon't know // coneress ,0,0,0,0,0,1,1,0,0
+576, i don;t know//leadin rep in the house ,0,0,0,0,0,1,1,0,0
+577, i have no idea// sec of def ,0,0,0,0,0,1,1,0,0
+578, i do'nt know a\/ and have no guess ,0,0,0,0,0,0,1,0,0
+579, no idea//houe of rep ,0,0,0,0,0,1,1,0,0
+580, dont know afraid not best man for the position ,0,0,0,0,0,0,1,0,1
+581, no doesnt ring a bell ,0,0,0,0,0,0,1,0,0
+582, no ,0,0,0,0,0,0,0,1,0
+583, never heard of him //  ,0,0,0,0,0,0,1,0,0
+584, nope ,0,0,0,0,0,0,0,1,0
+585, dont recognize that name ,0,0,0,0,0,0,1,0,0
+586, sounds failiar  ,0,0,0,0,0,0,0,0,1
+587, heard the name but cnat recall him senator ? ,0,0,0,0,0,1,1,0,1
+588, never heard of hims ,0,0,0,0,0,0,1,0,0
+589, cant recognise ,0,0,0,0,0,0,1,0,0
+590, don't know// u.s. cogress// military guy// first black general//na ,0,0,0,0,0,1,1,1,0
+591, no ,0,0,0,0,0,0,0,1,0
+592, don't know who is// ginny whie's old man//na ,0,0,0,0,0,1,1,1,0
+593, idont know ,0,0,0,0,0,0,1,0,0
+595, nope ,0,0,0,0,0,0,0,1,0
+596, dont know ,0,0,0,0,0,0,1,0,0
+597, prime minister of england//na ,1,0,0,0,0,0,0,1,0
+598, senator ,0,0,0,0,0,1,0,0,0
+599, don't know// na ,0,0,0,0,0,0,1,1,0
+600, prime minister of great britain ,1,0,0,0,0,0,0,0,0
+602, secretary of defense ,0,0,0,0,0,1,0,0,0
+603, guessed the prime minister ,0,0,1,0,0,0,0,0,1
+604, no idea who it is // sarcastic chief at whie house/ ,0,0,0,0,0,1,1,0,0
+605, never heard the name ,0,0,0,0,0,0,1,0,0
+606, dont know the name  ,0,0,0,0,0,0,1,0,0
+607, ni dea//na ,0,0,0,0,0,0,1,1,0
+608, replaced tony blair prime minister of great britain ,1,0,0,0,0,1,0,0,0
+609, prime miinister of great britain ,1,0,0,0,0,0,0,0,0
+611, dont know ,0,0,0,0,0,0,1,0,0
+613, prime minister of great britain ,1,0,0,0,0,0,0,0,0
+614, DON'T KNOW//DON'T KNOW WHO HE IS//DON'T KNOW WHO HE IS//STOP ,0,0,0,0,0,0,1,1,0
+615, SENATOR? ,0,0,0,0,0,1,0,0,0
+616, <RF> ,0,0,0,0,0,0,0,1,0
+617, dk ,0,0,0,0,0,0,1,0,0
+618, <RF> ,0,0,0,0,0,0,0,1,0
+622, <RF> ,0,0,0,0,0,0,0,1,0
+623, dont know ,0,0,0,0,0,0,1,0,0
+624, DON'T KNOW//REPRESENTATIVE OF THE HOUSE ,0,0,0,0,0,1,1,0,0
+625, I DON'T KNOW ,0,0,0,0,0,0,1,0,0
+626, PRESS SECRETARY ,0,0,0,0,0,1,0,0,0
+627, I DON'T KNOW//MAYOR//STOP ,0,0,0,0,0,1,1,1,0
+629, DON'T KNOW HIM//NO CLUE//I'M SORRY//STOP ,0,0,0,0,0,0,1,1,1
+630, DON'T KNOW//TREASURER ,0,0,0,0,0,1,1,0,0
+631," NO CLUE//NO IDEA//I DON'T KNOW, NO IDEA//STOP ",0,0,0,0,0,0,1,1,0
+632, DON'T KNOW//SENATOR ,0,0,0,0,0,1,1,0,0
+633, NO CLUE//I HAVE NO GUESS ,0,0,0,0,0,0,1,0,0
+634, DON'T REMEMBER//DON'T KNOW//STOP ,0,0,0,0,0,0,1,1,0
+636, DON'T KNOW//SENATOR ,0,0,0,0,0,1,1,0,0
+637, DON'T KNOW WHO HE IS//I HAVE NO IDEA ,0,0,0,0,0,0,1,0,0
+638," DON'T KNOW//CONGRESS I THINK, SOMETHING FINANCE...  ",0,0,0,0,0,1,1,0,1
+639," DON'T KNOW HIM//I DON'T KNOW WHO HE IS//I DON'T KNOW HIM//I DON'T KNOW//I HAVE NEVER HEARD OF HIM, DON'T KNOW HIM//STOP ",0,0,0,0,0,0,1,1,0
+640, DON'T KNOW//SENATOR//STOP ,0,0,0,0,0,1,1,1,0
+641, congress ,0,0,0,0,0,1,0,0,0
+642, senate ,0,0,0,0,0,1,0,0,0
+643, don't know//no guess/ could be head of sanitation//na ,0,0,0,0,0,1,1,1,0
+644, senator ,0,0,0,0,0,1,0,0,0
+648, congressman ,0,0,0,0,0,1,0,0,0
+649, congressman ,0,0,0,0,0,1,0,0,0
+650, no clue// don't even waant to//na ,0,0,0,0,0,0,1,1,0
+651, no guess ,0,0,0,0,0,0,1,0,0
+652, do n't know // still on dick cheney// na ,0,0,0,0,0,0,1,1,1
+653, judge ,0,0,0,0,0,1,0,0,0
+654, chief commissioner ,0,0,0,0,0,1,0,0,0
+655, don't know him ,0,0,0,0,0,0,1,0,0
+656, prime minister england ,1,0,0,0,0,0,0,0,0
+657, don't know the name// na ,0,0,0,0,0,0,1,1,0
+658, never heard of him/ no//na ,0,0,0,0,0,0,1,1,0
+659, house of representaives ,0,0,0,0,0,1,0,0,0
+660, treasury ,0,0,0,0,0,1,0,0,0
+661, car dealership ,0,0,0,0,0,1,0,0,0
+662, prime minister of england ,1,0,0,0,0,0,0,0,0
+664, no idea // na ,0,0,0,0,0,0,1,1,0
+665, don't kbnow// na ,0,0,0,0,0,0,1,1,0
+666, heard oh him ,0,0,0,0,0,0,0,0,1
+667, have no idea ,0,0,0,0,0,0,1,0,0
+668, foriegn affairs ,0,0,0,0,0,1,0,0,0
+669, no idea who that is//doesn't even ring a bell//na ,0,0,0,0,0,0,1,1,0
+670, supreme court justices ,0,0,0,0,0,1,0,0,0
+671, never heard of him ,0,0,0,0,0,0,1,0,0
+672, have no idea ,0,0,0,0,0,0,1,0,0
+673, have no idea ,0,0,0,0,0,0,1,0,0
+674, dont know ,0,0,0,0,0,0,1,0,0
+675,  prime minister of england ,1,0,0,0,0,0,0,0,0
+676, not sure british prime minister ,1,0,0,0,0,0,1,0,0
+678, dont know ,0,0,0,0,0,0,1,0,0
+679, educatoion ,0,0,0,0,0,1,0,0,0
+680, not familiar  ,0,0,0,0,0,0,1,0,0
+681, prime minister of britian ,1,0,0,0,0,0,0,0,0
+682, never heard of him ,0,0,0,0,0,0,1,0,0
+683, escapes me  ,0,0,0,0,0,0,1,0,0
+684, no idea ,0,0,0,0,0,0,1,0,0
+685, prime mininister ,0,0,1,0,0,0,0,0,0
+686, dont remember ,0,0,0,0,0,0,1,0,0
+688," I have no idea, no I don'[t know/////I have no idea, Gordon Brown ",0,0,0,0,0,1,1,0,0
+689, Don't know....Member of the Cabinet ,0,0,0,0,0,1,1,0,0
+690, CONGRESSMAN ,0,0,0,0,0,1,0,0,0
+691, I don't know///I would gues I don't know ,0,0,0,0,0,0,1,0,1
+692, Don't know\////no guess ,0,0,0,0,0,0,1,0,0
+693," He is one of the Secretaries, Homeland Security ",0,0,0,0,0,1,0,0,0
+694, Not sure...///FBI Director ,0,0,0,0,0,1,1,0,0
+695, The Governor of something somewhere ,0,0,0,0,0,1,0,0,0
+696," I want to say he is in one of the finance positions, but can not lock in on it! ",0,0,0,0,0,1,1,0,1
+697, Foreign Affairs man ,0,0,0,0,0,1,0,0,0
+698," Don't know, don't have any best guess... ",0,0,0,0,0,0,1,0,0
+699," What is he?  All of a sudden, the name, I don't know....no idea ",0,0,0,0,0,0,1,0,0
+700, /////Somewhere in the cabinet of George Bush ,0,0,0,0,0,1,0,0,0
+701, Democrate and advisor to the president ,0,0,0,0,0,1,0,0,0
+702, DEPFENSE SECRETARY ,0,0,0,0,0,1,0,0,0
+703, Security Officer ,0,0,0,0,0,1,0,0,0
+704," Wanted to say he was Minority Leader, but don't know that./////I think he is the minority leader ",0,0,0,0,0,1,1,0,1
+705, can't place it// your best guess// i have no idea// no ,0,0,0,0,0,0,1,1,1
+706, \\he is perhaps a finance committe; i guess ,0,0,0,0,0,1,0,0,1
+707, senator ,0,0,0,0,0,1,0,0,0
+708, i don't know// your best guess// senate seat ,0,0,0,0,0,1,1,0,1
+709, the state ,0,0,0,0,0,1,0,0,0
+710, don't know ,0,0,0,0,0,0,1,0,0
+711, i am not for sure// your best guess// would be congress// NO ,0,0,0,0,0,1,1,1,1
+712, commissioner ,0,0,0,0,0,1,0,0,0
+713, dont know him ,0,0,0,0,0,0,1,0,0
+714, congress ,0,0,0,0,0,1,0,0,0
+715, not sure ,0,0,0,0,0,0,1,0,0
+716, i dont' know// best guess// don't know//NO ,0,0,0,0,0,0,1,1,1
+718, i am not sure// your best guess// I have no earthly idea//NO ,0,0,0,0,0,0,1,1,1
+720, republican ,0,0,0,0,0,1,0,0,0
+721, don't know ,0,0,0,0,0,0,1,0,0
+722, don't know ,0,0,0,0,0,0,1,0,0
+724, i don't have a guess ,0,0,0,0,0,0,1,0,0
+725, not sure// what' your best guess//congress ,0,0,0,0,0,1,1,0,1
+727, no clue ,0,0,0,0,0,0,1,0,0
+729, senate ,0,0,0,0,0,1,0,0,0
+731, dk/no idea ,0,0,0,0,0,0,1,0,0
+732, //dk// no idea// ,0,0,0,0,0,0,1,0,0
+733, dk//no idea ,0,0,0,0,0,0,1,0,0
+734, dk/ no idea ,0,0,0,0,0,0,1,0,0
+735, don't know no idea ,0,0,0,0,0,0,1,0,0
+736, // no  ,0,0,0,0,0,0,0,1,0
+738, dk// no idea ,0,0,0,0,0,0,1,0,0
+739, dk no idea ,0,0,0,0,0,0,1,0,0
+740, //dk//no idea ,0,0,0,0,0,0,1,0,0
+741, dk// idk// is he a good man?// no ,0,0,0,0,0,1,1,1,0
+742, dk// no clue// ,0,0,0,0,0,0,1,0,0
+743, dk no idea ,0,0,0,0,0,0,1,0,0
+744, //dk//can't remember ,0,0,0,0,0,0,1,0,0
+746, dk/no idea ,0,0,0,0,0,0,1,0,0
+747, dk no idea ,0,0,0,0,0,0,1,0,0
+748, //dk//no idea ,0,0,0,0,0,0,1,0,0
+749, i have no ideaer ,0,0,0,0,0,0,1,0,0
+750, claler on canada ,0,0,0,0,0,1,0,0,0
+751, I do'nt know ,0,0,0,0,0,0,1,0,0
+752, I have no idea ,0,0,0,0,0,0,1,0,0
+753, i don't know ,0,0,0,0,0,0,1,0,0
+754, i don't know ,0,0,0,0,0,0,1,0,0
+756, i have no idea//his is like the madie man for the white house //  ,0,0,0,0,0,1,1,0,0
+757, i don't even know who that is // cabanet ,0,0,0,0,0,1,1,0,0
+758, i do'not know but i know that name  // aomething to do w/ the sen ,0,0,0,0,0,1,1,0,1
+759, i don't know ,0,0,0,0,0,0,1,0,0
+760, dk no ideaa ,0,0,0,0,0,0,1,0,0
+761, i don't know// i don't have 1 ,0,0,0,0,0,0,1,0,0
+762, i don't know // and i don't have guess ,0,0,0,0,0,0,1,0,0
+763, i have no idea// i bum ,0,0,0,0,0,0,1,0,1
+764, // I DONT KNOW// I DONT RECOGNIZE// YOUR BEST GUESS// I DONT KNOW ,0,0,0,0,0,0,1,0,1
+765, i don't know; best guess; is he a supreme court justice ,0,0,0,0,0,1,1,0,1
+766, I don't know//no ,0,0,0,0,0,0,1,1,0
+767, in the cabinet.//no ,0,0,0,0,0,1,0,1,0
+768, don't know//Congressman ,0,0,0,0,0,1,1,0,0
+769, state representive// ,0,0,0,0,0,1,0,0,0
+770," don't know//"" is he Black It's a Black man""  - don't know ",0,0,0,0,0,1,1,0,0
+772, Don't know//state representative ,0,0,0,0,0,1,1,0,0
+774," not sure,//not sure ",0,0,0,0,0,0,1,0,0
+775, don't know//don't know him  ,0,0,0,0,0,0,1,0,0
+776, white house press secatary// ,0,0,0,0,0,1,0,0,0
+777, don't know any of the candidates running//don't know ,0,0,0,0,0,0,1,0,0
+778, dON'T KNOW HIM//DON'T KNOW HIM ,0,0,0,0,0,0,1,0,0
+779, Dont NO//DK ,0,0,0,0,0,0,1,0,0
+780, don't know//DK ,0,0,0,0,0,0,1,0,0
+781, don't know//don't know ,0,0,0,0,0,0,1,0,0
+782, I don't know. //Um governor ,0,0,0,0,0,1,1,0,0
+783, Don't know//maybe military ,0,0,0,0,0,1,1,0,0
+784, don't know//maybe a cabinet member for the president ,0,0,0,0,0,1,1,0,0
+785, heard that one too;Don't know//Secretary of defense ,0,0,0,0,0,1,1,0,1
+786, don't know//borden's milk ,0,0,0,0,0,1,1,0,0
+787, don't know//no  ,0,0,0,0,0,0,1,1,0
+788, Don't remember//Secretary of Education ,0,0,0,0,0,1,1,0,0
+789, don't know//don't know ,0,0,0,0,0,0,1,0,0
+790, Governmental. Is he even a person? I don't know if he holds a governmebt position ,0,0,0,0,0,1,1,0,0
+791, Don't know//Don't know ,0,0,0,0,0,0,1,0,0
+792, democrat. ONE OF THE NEW PEOPLE ON bARACK'S TRANSITION TEAM ,0,0,0,0,0,1,0,0,0
+793, not sure//congressman ,0,0,0,0,0,1,1,0,0
+795, Don't know./No best guess./Probably a big shot up there.// ,0,0,0,0,0,1,1,0,0
+797, Don't know./no guess.// ,0,0,0,0,0,0,1,0,0
+798, Don't know./No best guess.// ,0,0,0,0,0,0,1,0,0
+799, Don't know./No guess.// ,0,0,0,0,0,0,1,0,0
+800, No idea./Not even familiar with then name.// ,0,0,0,0,0,0,1,0,0
+801, Treasurer.// ,0,0,0,0,0,1,0,0,0
+802, I don't know./Head of FBI.// ,0,0,0,0,0,1,1,0,0
+803, No idea/Dogcatcher.// ,0,0,0,0,0,1,1,0,0
+804, I haven't heard his name./no guess.// ,0,0,0,0,0,0,1,0,0
+805, Not sure./Democrat in Senate.// ,0,0,0,0,0,1,1,0,0
+806, Don't recognize that name./no guesses.// ,0,0,0,0,0,0,1,0,0
+807, No idea./No guesses.// ,0,0,0,0,0,0,1,0,0
+808, no clue/ ,0,0,0,0,0,0,1,0,0
+809, Don't know./I really don't have a guess; the name doesn't ring a bell.// ,0,0,0,0,0,0,1,0,0
+810, Don't know.//I really don't know.// ,0,0,0,0,0,0,1,0,0
+812, dont know ,0,0,0,0,0,0,1,0,0
+813, dont know ,0,0,0,0,0,0,1,0,0
+814, I have no idea and no guess!// ,0,0,0,0,0,0,1,0,0
+815, NOT NO//NEVER HEARD OF HIM// ,0,0,0,0,0,0,1,0,0
+816, dont know who he is// ,0,0,0,0,0,0,1,0,0
+818, Don't know.//No best guess.// ,0,0,0,0,0,0,1,0,0
+819, dont know/ ,0,0,0,0,0,0,1,0,0
+821, dont rember ,0,0,0,0,0,0,1,0,0
+822, Secretary of the Treasury./ ,0,0,0,0,0,1,0,0,0
+823, no/ ,0,0,0,0,0,0,0,1,0
+825, //US senate ,0,0,0,0,0,1,0,0,0
+826, //don't know//no ,0,0,0,0,0,0,1,1,0
+827, //i couldn't tell you//ok ,0,0,0,0,0,0,1,0,1
+828, prime minister of UK ,1,0,0,0,0,0,0,0,0
+829, //don't know ,0,0,0,0,0,0,1,0,0
+830, //don't know//don't know ,0,0,0,0,0,0,1,0,0
+831, //don't know ,0,0,0,0,0,0,1,0,0
+832, //don't know ,0,0,0,0,0,0,1,0,0
+833, //DON'T KNOW// ,0,0,0,0,0,0,1,0,0
+834, //don't know ,0,0,0,0,0,0,1,0,0
+835, //never heard of him//ok ,0,0,0,0,0,0,1,0,1
+836, house speaker ,0,0,0,0,0,1,0,0,0
+837, //don't know// ,0,0,0,0,0,0,1,0,0
+838, //don't know ,0,0,0,0,0,0,1,0,0
+839, //don't know// ,0,0,0,0,0,0,1,0,0
+840, //don't know ,0,0,0,0,0,0,1,0,0
+842, //no ideal ,0,0,0,0,0,0,1,0,0
+843, //don't know the name ,0,0,0,0,0,0,1,0,0
+844, // don't know// don't know ,0,0,0,0,0,0,1,0,0
+845, //don't know ,0,0,0,0,0,0,1,0,0
+846, //don't know// ok ,0,0,0,0,0,0,1,0,1
+847, Don't know./Chamber of Commerce.// ,0,0,0,0,0,1,1,0,0
+848, Treasury// ,0,0,0,0,0,1,0,0,0
+849, //never heard of him ,0,0,0,0,0,0,1,0,0
+850, state represenative ,0,0,0,0,0,1,0,0,0
+851, dont know could be in senate ,0,0,0,0,0,1,1,0,0
+852, probably a repesantive no idea ,0,0,0,0,0,1,1,0,0
+853, represenative ,0,0,0,0,0,1,0,0,0
+854, 1 he doesnt know any of these people ,0,0,0,0,0,0,1,0,0
+855,       shhe doesnt know ,0,0,0,0,0,0,1,0,0
+857, dont know what offices are ,0,0,0,0,0,0,1,0,0
+858, congressman dont really know ,0,0,0,0,0,1,1,0,0
+859, SENATOR//NEVER HEARD OF HIM//DON'T KNOW ,0,0,0,0,0,1,1,0,0
+861, dont know dont even have a guess ,0,0,0,0,0,0,1,0,0
+862, doesnt even ring a bell ,0,0,0,0,0,0,1,0,0
+863, judge ,0,0,0,0,0,1,0,0,0
+864, prime primenistor ,0,0,1,0,0,0,0,0,0
+865, JUDGE BUT SHE REALLY DOESN'T KNOW//NO ,0,0,0,0,0,1,1,1,0
+866, MEMBER OF THE HOUSE OF REPRESENTATIVES ,0,0,0,0,0,1,0,0,0
+867, SENATE ,0,0,0,0,0,1,0,0,0
+868, SUPREME COURT JUSTICE ,0,0,0,0,0,1,0,0,0
+869, GOVERNOR OF FLORIDA//I HAVE NO IDEA//NO ,0,0,0,0,0,1,1,1,0
+870, TREASURER ,0,0,0,0,0,1,0,0,0
+871, PRIME MINISTER OF GREAT BRITAIN ,1,0,0,0,0,0,0,0,0
+872, I THINK HE IS A SENATOR ,0,0,0,0,0,1,0,0,1
+873, DEFENSE SECRETARY ,0,0,0,0,0,1,0,0,0
+874," HOUSE OF REPRESENTATIVE//BUT DON'T REALLY KNOW, JUST A GUESS//NO ",0,0,0,0,0,1,1,1,1
+876," HE IS IN PRESIDENT'S CABINET AS A SECRETARY OF SOMETHING, PROBABLY EDUCATION. ",0,0,0,0,0,1,0,0,0
+877, CONGRESSMAN//BUT DON'T HAVE ANY IDEA//NO ,0,0,0,0,0,1,1,1,0
+879," don't know// best quess//I quess he is doing some street matter, I do not know ",0,0,0,0,1,0,1,0,1
+880, //no quess// ,0,0,0,0,0,0,1,0,0
+881, donot know//best guess/ dontknow ,0,0,0,0,0,0,1,0,1
+882, //sec of treasury or something like that ,0,0,0,0,0,1,0,0,0
+883, //senate or governor ,0,0,0,0,0,1,0,0,0
+884, donot know//don't know ,0,0,0,0,0,0,1,0,0
+885, donot know//no ,0,0,0,0,0,0,1,1,0
+887, donot know//best guess//do not know ,0,0,0,0,0,0,1,0,1
+888, //do not know//primister of a country ,0,0,1,0,0,0,1,0,0
+889, no idea//no quess// no ,0,0,0,0,0,0,1,1,0
+890, donot know ,0,0,0,0,0,0,1,0,0
+891, dont know//best guess//donot know ,0,0,0,0,0,0,1,0,1
+892, don't know//just don't know ,0,0,0,0,0,0,1,0,0
+893, donot know//best guess//donot know ,0,0,0,0,0,0,1,0,1
+894, never heard of that//best guess//ms ,0,0,0,0,0,0,1,0,1
+895, don't know//no quess ,0,0,0,0,0,0,1,0,0
+896, don't know//governor ,0,0,0,0,0,1,1,0,0
+897, donot know//best guess//the military man ,0,0,0,0,0,1,1,0,1
+898, do not know ,0,0,0,0,0,0,1,0,0
+900, donot know//best guess// sec of state ,0,0,0,0,0,1,1,0,1
+901, donot know ,0,0,0,0,0,0,1,0,0
+902, never heard of him//best guess//donot know ,0,0,0,0,0,0,1,0,1
+903, dont' know// in the whitehouse ,0,0,0,0,0,1,1,0,0
+904, //I do not know ,0,0,0,0,0,0,1,0,0
+905, //senator ,0,0,0,0,0,1,0,0,0
+906, donot know//best guess//donot know ,0,0,0,0,0,0,1,0,1
+907, donot know//best guess/do not know ,0,0,0,0,0,0,1,0,1
+908, donot know the name//best guess//a senator ,0,0,0,0,0,1,1,0,1
+911, donot know//best guess/ no ,0,0,0,0,0,0,1,1,1
+912," //never heard of him//best quess// no, never heard of him ",0,0,0,0,0,0,1,1,1
+913, donot know ,0,0,0,0,0,0,1,0,0
+914, //dont' know//someone who works in bush administration// ,0,0,0,0,1,0,1,0,0
+915, donot know// ,0,0,0,0,0,0,1,0,0
+916, donot know// best guess// dont know ,0,0,0,0,0,0,1,0,1
+917, do not know at all//best guess//do not know ,0,0,0,0,0,0,1,0,1
+918, director of federal affairs ,0,0,0,0,0,1,0,0,0
+919, //I do not know//quess//sec of state// I have no idea//that is all ,0,0,0,0,0,1,1,1,1
+920, no not know ,0,0,0,0,0,0,1,1,0
+921, donot know//best guess/do not know ,0,0,0,0,0,0,1,0,1
+922, donot know//best guess//donotknow ,0,0,0,0,0,0,1,0,1
+923, donot know//best guess//donot know ,0,0,0,0,0,0,1,0,1
+924, no sure ,0,0,0,0,0,0,1,0,0
+925, donot know//best guess//someone dealing with the war ,0,0,0,0,1,0,1,0,1
+926, //no idea// best quess//no idea ,0,0,0,0,0,0,1,0,1
+927, //best quess//i dont know// ,0,0,0,0,0,0,1,0,1
+929, donot know//donot know ,0,0,0,0,0,0,1,0,0
+930,  donot know//best guess//donot know ,0,0,0,0,0,0,1,0,1
+931, //do not know//best quess// someone who is important ,0,0,0,0,0,1,1,0,1
+932, donot know//donot know ,0,0,0,0,0,0,1,0,0
+934, <RF> ,0,0,0,0,0,0,0,1,0
+935, <RF> ,0,0,0,0,0,0,0,1,0
+936, <RF> ,0,0,0,0,0,0,0,1,0
+937, run financial advisor ,0,0,0,0,1,0,0,0,0
+939, dont no him ,0,0,0,0,0,0,1,0,0
+940, <RF> ,0,0,0,0,0,0,0,1,0
+941, <RF> ,0,0,0,0,0,0,0,1,0
+943, dont no him ,0,0,0,0,0,0,1,0,0
+944, prime minister ,0,0,1,0,0,0,0,0,0
+945, <RF> ,0,0,0,0,0,0,0,1,0
+946, <RF> ,0,0,0,0,0,0,0,1,0
+947, dont no him ,0,0,0,0,0,0,1,0,0
+948, <RF> ,0,0,0,0,0,0,0,1,0
+949, <RF> ,0,0,0,0,0,0,0,1,0
+950, <RF> ,0,0,0,0,0,0,0,1,0
+951, <RF> ,0,0,0,0,0,0,0,1,0
+952, <RF> ,0,0,0,0,0,0,0,1,0
+953, <RF> ,0,0,0,0,0,0,0,1,0
+954, <RF> ,0,0,0,0,0,0,0,1,0
+955, <RF> ,0,0,0,0,0,0,0,1,0
+956, <RF> ,0,0,0,0,0,0,0,1,0
+957, <RF> ,0,0,0,0,0,0,0,1,0
+958, <RF> ,0,0,0,0,0,0,0,1,0
+959, <RF> ,0,0,0,0,0,0,0,1,0
+960, <RF> ,0,0,0,0,0,0,0,1,0
+961, no idea who he is?n ,0,0,0,0,0,0,1,0,0
+962, /head of defense/n ,0,0,0,0,0,1,0,1,0
+963, don't know ,0,0,0,0,0,0,1,0,0
+964, don't know his name ,0,0,0,0,0,0,1,0,0
+965, never heard of him? ,0,0,0,0,0,0,1,0,0
+966, don't know ,0,0,0,0,0,0,1,0,0
+967, /senator or representative ,0,0,0,0,0,1,0,0,0
+968, no idea/no ,0,0,0,0,0,0,1,1,0
+969, prime minister in uk ,1,0,0,0,0,0,0,0,0
+972, prime minister UK ,1,0,0,0,0,0,0,0,0
+973, congressman ,0,0,0,0,0,1,0,0,0
+974, <RF> ,0,0,0,0,0,0,0,1,0
+975, english prime minister ,1,0,0,0,0,0,0,0,0
+976, <RF> ,0,0,0,0,0,0,0,1,0
+977, political figure ,0,0,0,0,0,1,0,0,0
+978, no idea ,0,0,0,0,0,0,1,0,0
+979, prime minister of england ,1,0,0,0,0,0,0,0,0
+980, congressman ,0,0,0,0,0,1,0,0,0
+982, REPRESENTATIVE ,0,0,0,0,0,1,0,0,0
+983, don't know ,0,0,0,0,0,0,1,0,0
+984, english prime minister ,1,0,0,0,0,0,0,0,0
+985, don't know ,0,0,0,0,0,0,1,0,0
+986, don't know//no//  ,0,0,0,0,0,0,1,1,0
+987, dont know  ,0,0,0,0,0,0,1,0,0
+988, sounds like a judge// don't know// ,0,0,0,0,0,1,1,0,0
+989, dont know ,0,0,0,0,0,0,1,0,0
+990, I cant tell you// I wont quess// ,0,0,0,0,0,0,0,1,0
+991, i have no idea// never heard of him//no ,0,0,0,0,0,0,1,1,0
+992, //no quess// ,0,0,0,0,0,0,1,0,0
+993, I dont even know the name//no ,0,0,0,0,0,0,1,1,0
+994, //dont know//never heard of him// ,0,0,0,0,0,0,1,0,0
+995, i have no clue ,0,0,0,0,0,0,1,0,0
+996, dont know ,0,0,0,0,0,0,1,0,0
+998, dont know ,0,0,0,0,0,0,1,0,0
+999, don't know ,0,0,0,0,0,0,1,0,0
+1000, don't know ,0,0,0,0,0,0,1,0,0
+1001, doin't know ,0,0,0,0,0,0,1,0,0
+1002, don't know ,0,0,0,0,0,0,1,0,0
+1003, senate ,0,0,0,0,0,1,0,0,0
+1005, don't know ,0,0,0,0,0,0,1,0,0
+1006, sheriff ,0,0,0,0,0,1,0,0,0
+1008, dont' know ,0,0,0,0,0,0,1,0,0
+1009, senate ,0,0,0,0,0,1,0,0,0
+1010, i don't know him// your best guess// i don't know/  could not say// NO ,0,0,0,0,0,0,1,1,1
+1011, don't know ,0,0,0,0,0,0,1,0,0
+1012, don't know ,0,0,0,0,0,0,1,0,0
+1013, don't know ,0,0,0,0,0,0,1,0,0
+1014, don't know ,0,0,0,0,0,0,1,0,0
+1015, don't know ,0,0,0,0,0,0,1,0,0
+1017, don't know///press secretary ,0,0,0,0,0,1,1,0,0
+1018, don't know` ,0,0,0,0,0,0,1,0,0
+1020, don't know ,0,0,0,0,0,0,1,0,0
+1021, attorney general ,0,0,0,0,0,1,0,0,0
+1022, assistant to something  ,0,0,0,0,0,1,0,0,0
+1023, press secretary ,0,0,0,0,0,1,0,0,0
+1025, in the house ,0,0,0,0,0,1,0,0,0
+1026, don't know ,0,0,0,0,0,0,1,0,0
+1027, senate ,0,0,0,0,0,1,0,0,0
+1028, don't know ,0,0,0,0,0,0,1,0,0
+1029, govenmental ,0,0,0,0,0,1,0,0,0
+1030, house of rep ,0,0,0,0,0,1,0,0,0
+1031, don't know ,0,0,0,0,0,0,1,0,0
+1032, represenative ,0,0,0,0,0,1,0,0,0
+1034, congress ,0,0,0,0,0,1,0,0,0
+1035, foriegn affairs ,0,0,0,0,0,1,0,0,0
+1036, cheif of staff ,0,0,0,0,0,1,0,0,0
+1037, govener ,0,0,0,0,0,1,0,0,0
+1038, don't know ,0,0,0,0,0,0,1,0,0
+1039, house of represenatives ,0,0,0,0,0,1,0,0,0
+1040, senator ,0,0,0,0,0,1,0,0,0
+1041, don't know ,0,0,0,0,0,0,1,0,0
+1043, state rep ,0,0,0,0,0,1,0,0,0
+1044, don't know ,0,0,0,0,0,0,1,0,0
+1045, don't know ,0,0,0,0,0,0,1,0,0
+1046, dont know ,0,0,0,0,0,0,1,0,0
+1047, U. s. senate. ,0,0,0,0,0,1,0,0,0
+1048, I don't know. // No. ,0,0,0,0,0,0,1,1,0
+1050, Never heard of him. // No. ,0,0,0,0,0,0,1,1,0
+1051, I don'tknow. // no. ,0,0,0,0,0,0,1,1,0
+1052, // Don't know. // No. ,0,0,0,0,0,0,1,1,0
+1053, dont know ,0,0,0,0,0,0,1,0,0
+1055, I do not know. //NO. ,0,0,0,0,0,0,1,1,0
+1056, // a sit in the house. ,0,0,0,0,0,1,0,0,0
+1057, Don't know. // In congress. ,0,0,0,0,0,1,1,0,0
+1058, // I just don't know. ,0,0,0,0,0,0,1,0,0
+1059, A major. ,0,0,0,0,0,1,0,0,0
+1060, Don't know him. // No. ,0,0,0,0,0,0,1,1,0
+1061, Don't know. // No. ,0,0,0,0,0,0,1,1,0
+1063, I don't know him. // No. ,0,0,0,0,0,0,1,1,0
+1064, I don't even know. // I don't know. ,0,0,0,0,0,0,1,0,0
+1067, I don't know who he is. // A senator. ,0,0,0,0,0,1,1,0,0
+1068, I don't know. // With the senate. ,0,0,0,0,0,1,1,0,0
+1069, I don't know. // Prime minister of great britian ,1,0,0,0,0,0,1,0,0
+1070, I don't know. // No. ,0,0,0,0,0,0,1,1,0
+1071, don't know. // no. ,0,0,0,0,0,0,1,1,0
+1072, I don't know who he is. // No. ,0,0,0,0,0,0,1,1,0
+1073, I don't know him.// No. ,0,0,0,0,0,0,1,1,0
+1074, I don't know who he is. // no. ,0,0,0,0,0,0,1,1,0
+1075, dont know no idea ,0,0,0,0,0,0,1,0,0
+1076, prime minister of england ,1,0,0,0,0,0,0,0,0
+1077, senate ,0,0,0,0,0,1,0,0,0
+1078, DONT KNOW ,0,0,0,0,0,0,1,0,0
+1079, congress ,0,0,0,0,0,1,0,0,0
+1080, dont know ,0,0,0,0,0,0,1,0,0
+1081, congress ,0,0,0,0,0,1,0,0,0
+1082, governor ,0,0,0,0,0,1,0,0,0
+1084, dont know ,0,0,0,0,0,0,1,0,0
+1085, dont know ,0,0,0,0,0,0,1,0,0
+1086, defense ,0,0,0,0,0,1,0,0,0
+1087, representative ,0,0,0,0,0,1,0,0,0
+1088, I dont know the names ,0,0,0,0,0,0,1,0,0
+1089, hes at the head of govenment in the british isles ,0,0,0,1,0,0,0,0,0
+1090, SENATE ,0,0,0,0,0,1,0,0,0
+1091, senator ,0,0,0,0,0,1,0,0,0
+1092, DONT  KNOW ,0,0,0,0,0,0,1,0,0
+1093, house of reps. ,0,0,0,0,0,1,0,0,0
+1094, do not know ,0,0,0,0,0,0,1,0,0
+1095, don't know` ,0,0,0,0,0,0,1,0,0
+1096, don't know ,0,0,0,0,0,0,1,0,0
+1097, // I don't know -- I have never heard of him ,0,0,0,0,0,0,1,0,0
+1098," //House Minority Leader, but I'm not sure ",0,0,0,0,0,1,1,0,0
+1100, no idea// Congress ,0,0,0,0,0,1,1,0,0
+1101, Prime Minister of the UK/ Britain ,1,0,0,0,0,0,0,0,0
+1102," no clue // the head of foreign affairs, no idea ",0,0,0,0,0,1,1,0,0
+1103, //I think Senate -- I'm totally guessing ,0,0,0,0,0,1,0,0,1
+1104, I don't think I've heard the name before -- Congressman? ,0,0,0,0,0,1,1,0,0
+1105, // senator ,0,0,0,0,0,1,0,0,0
+1106, is he a politician in England?  // British politician//  probably the Prime Minister ,0,0,1,0,0,1,0,0,0
+1107, // I really don't know that -- I don't know who Gordon Brown is ,0,0,0,0,0,0,1,0,0
+1108, I don't know// don't know ,0,0,0,0,0,0,1,0,0
+1109, don't know// something in Australia ,0,0,0,0,0,1,1,0,0
+1110, //I don't recall the name// Chief of Staff for Bush ,0,0,0,0,0,1,1,0,0
+1111, Secretary of Education ,0,0,0,0,0,1,0,0,0
+1112, Prime Minister of Great Britain ,1,0,0,0,0,0,0,0,0
+1113, don't know// something to do with finance ,0,0,0,0,0,1,1,0,0
+1114," // education secretary, but I'm not at all sure; I've heard of his name though ",0,0,0,0,0,1,1,0,1
+1115, a mayor ,0,0,0,0,0,1,0,0,0
+1116," i don't know.//boy,a senator ",0,0,0,0,0,0,1,0,1
+1117, //cabinet position ,0,0,0,0,0,1,0,0,0
+1118, //I don't know // I don't know ,0,0,0,0,0,0,1,0,0
+1119, i don't know ,0,0,0,0,0,0,1,0,0
+1120, // secretary treasurer -- I'm drawing a blank ,0,0,0,0,0,1,1,0,0
+1121, //homeland security ,0,0,0,0,0,1,0,0,0
+1122, dont know ,0,0,0,0,0,0,1,0,0
+1123, congressman ,0,0,0,0,0,1,0,0,0
+1124, does not remember ,0,0,0,0,0,0,1,0,0
+1126, congressman ,0,0,0,0,0,1,0,0,0
+1127, prime minister of England ,1,0,0,0,0,0,0,0,0
+1128, senate ,0,0,0,0,0,1,0,0,0
+1129, i don't have a clue ,0,0,0,0,0,0,1,0,0
+1130, house of representatives ,0,0,0,0,0,1,0,0,0
+1131, no name comes to me i really don't know// ,0,0,0,0,0,0,1,0,0
+1132, government employee ,0,0,0,0,0,1,0,0,0
+1133, incoming attorney general ,0,0,0,0,0,1,0,0,0
+1134, doesn't know doesn't keep up with that ,0,0,0,0,0,0,1,0,1
+1135, senator ,0,0,0,0,0,1,0,0,0
+1136, treasury ,0,0,0,0,0,1,0,0,0
+1137, never heard of him ,0,0,0,0,0,0,1,0,0
+1138, dont no ,0,0,0,0,0,0,1,0,0
+1139, congressman ,0,0,0,0,0,1,0,0,0
+1140, prime minister ,0,0,1,0,0,0,0,0,0
+1141, dont know ,0,0,0,0,0,0,1,0,0
+1142, //White house staff ,0,0,0,0,0,1,0,0,0
+1143, <RF> ,0,0,0,0,0,0,0,1,0
+1144, dont no him ,0,0,0,0,0,0,1,0,0
+1146, republican leader ,0,0,0,0,0,1,0,0,0
+1147, <RF> ,0,0,0,0,0,0,0,1,0
+1148, dont know ,0,0,0,0,0,0,1,0,0
+1149, Senate ,0,0,0,0,0,1,0,0,0
+1150, Secretary ,0,0,0,0,0,1,0,0,0
+1151, dont know ,0,0,0,0,0,0,1,0,0
+1152, secretary ,0,0,0,0,0,1,0,0,0
+1153, Senator ,0,0,0,0,0,1,0,0,0
+1154, I dont know what to say//dont kmow ,0,0,0,0,0,0,1,0,0
+1155, //Some member of the House of Representatives ,0,0,0,0,0,1,0,0,0
+1156," //Dont know nothing about him,  I have never heard of him ",0,0,0,0,0,0,1,0,0
+1157, //I dont have one ,0,0,0,0,0,0,1,0,0
+1158, dont know ,0,0,0,0,0,0,1,0,0
+1159, dont know ,0,0,0,0,0,0,1,0,0
+1160, supreme ct ,0,0,0,0,0,1,0,0,0
+1161, dont know ,0,0,0,0,0,0,1,0,0
+1162, dont know ,0,0,0,0,0,0,1,0,0
+1163, 1 dont know ,0,0,0,0,0,0,1,0,0
+1164, never heard of him ,0,0,0,0,0,0,1,0,0
+1165, dont know ,0,0,0,0,0,0,1,0,0
+1166, dont know ,0,0,0,0,0,0,1,0,0
+1167, dot know ,0,0,0,0,0,0,1,0,0
+1169, dont know ,0,0,0,0,0,0,1,0,0
+1170, goverment worker ,0,0,0,0,0,1,0,0,0
+1171, dont know ,0,0,0,0,0,0,1,0,0
+1172, //Senator ,0,0,0,0,0,1,0,0,0
+1173, dont know ,0,0,0,0,0,0,1,0,0
+1174, dont know ,0,0,0,0,0,0,1,0,0
+1176, dont know ,0,0,0,0,0,0,1,0,0
+1177, treasure sec ,0,0,0,0,0,1,0,0,0
+1178, dont know ,0,0,0,0,0,0,1,0,0
+1179, dont know ,0,0,0,0,0,0,1,0,0
+1180, dont know ,0,0,0,0,0,0,1,0,0
+1181, dont know ,0,0,0,0,0,0,1,0,0
+1182, dont know ,0,0,0,0,0,0,1,0,0
+1183, senator ,0,0,0,0,0,1,0,0,0
+1184, speaker of the house ,0,0,0,0,0,1,0,0,0
+1185, don't recognize name at all ,0,0,0,0,0,0,1,0,0
+1186, haven't heard of him at all ,0,0,0,0,0,0,1,0,0
+1187, judge ,0,0,0,0,0,1,0,0,0
+1189, never heard of him ,0,0,0,0,0,0,1,0,0
+1190, no clue ,0,0,0,0,0,0,1,0,0
+1191, press secretary ,0,0,0,0,0,1,0,0,0
+1192, can't guess ,0,0,0,0,0,0,1,0,0
+1193, never heard the name ,0,0,0,0,0,0,1,0,0
+1194, senator ,0,0,0,0,0,1,0,0,0
+1195," ways and means or finance, can't remember ",0,0,0,0,0,1,1,0,0
+1196, no clue ,0,0,0,0,0,0,1,0,0
+1197, don't recognize the name ,0,0,0,0,0,0,1,0,0
+1198, dk/dk ,0,0,0,0,0,0,1,0,0
+1199, dk/dk/no ,0,0,0,0,0,0,1,1,0
+1200, republican ,0,0,0,0,0,1,0,0,0
+1201, dk/governor ,0,0,0,0,0,1,1,0,0
+1202, dk/republican/no ,0,0,0,0,0,1,1,1,0
+1204, dk/senator ,0,0,0,0,0,1,1,0,0
+1205, dk/dk ,0,0,0,0,0,0,1,0,0
+1206, dk/congressman ,0,0,0,0,0,1,1,0,0
+1207, dk/dk ,0,0,0,0,0,0,1,0,0
+1208, dk/dk/no ,0,0,0,0,0,0,1,1,0
+1209, dk/secretary of state ,0,0,0,0,0,1,1,0,0
+1210, dk/dk/no ,0,0,0,0,0,0,1,1,0
+1211, dk/public official ,0,0,0,0,0,1,1,0,0
+1212, dk/dk ,0,0,0,0,0,0,1,0,0
+1213, dk/dk/no ,0,0,0,0,0,0,1,1,0
+1216, dk/dk ,0,0,0,0,0,0,1,0,0
+1217, dk/dk/no ,0,0,0,0,0,0,1,1,0
+1218, dk/dk/no ,0,0,0,0,0,0,1,1,0
+1219, dk/congress ,0,0,0,0,0,1,1,0,0
+1220, dk/senator ,0,0,0,0,0,1,1,0,0
+1221, dk/leader nof the repulicans ,0,0,0,0,0,1,1,0,0
+1222, dk/dk ,0,0,0,0,0,0,1,0,0
+1223, dk/mayor ,0,0,0,0,0,1,1,0,0
+1224, dk/dk/ ,0,0,0,0,0,0,1,0,0
+1225, dk/dk/no ,0,0,0,0,0,0,1,1,0
+1226, member of congress//not sure//no ,0,0,0,0,0,1,1,1,0
+1227, democrat ,0,0,0,0,0,1,0,0,0
+1228, i don't know an answer.//no ,0,0,0,0,0,0,1,1,0
+1230, senator//no ,0,0,0,0,0,1,0,1,0
+1231, don't know//unable to say// refuse to answer.//no ,0,0,0,0,0,0,1,1,0
+1232, never heard of hin ,0,0,0,0,0,0,1,0,0
+1233, secretary of defense. ,0,0,0,0,0,1,0,0,0
+1234, senate/no ,0,0,0,0,0,1,0,1,0
+1236, congress//no ,0,0,0,0,0,1,0,1,0
+1237, he has no idea ,0,0,0,0,0,0,1,0,0
+1238, have no guess ,0,0,0,0,0,0,1,0,0
+1239, judge or something ,0,0,0,0,0,1,0,0,0
+1240, prime minister of england ,1,0,0,0,0,0,0,0,0
+1242, do not know ,0,0,0,0,0,0,1,0,0
+1243, prime minister of great brittian ,1,0,0,0,0,0,0,0,0
+1244, have no idea ,0,0,0,0,0,0,1,0,0
+1245, have no guess ,0,0,0,0,0,0,1,0,0
+1246, do not have a guess ,0,0,0,0,0,0,1,0,0
+1247, no guess ,0,0,0,0,0,0,1,0,0
+1248, do no have any idea ,0,0,0,0,0,0,1,0,0
+1249, dk/dk/no ,0,0,0,0,0,0,1,1,0
+1251," canadian prime minister,I believe ",0,1,0,0,0,0,0,0,1
+1252, //i've never heard of him//no guess//probably the secretary of defense but i don't know//no ,0,0,0,0,0,1,1,1,0
+1253, secretary of state//or is he homeland security//no ,0,0,0,0,0,1,0,1,0
+1254, //i don't know that name//i've never heard that name//no ,0,0,0,0,0,0,1,1,0
+1255," //he's a cabinet member I believe,i think bush just appointed him to something but i really don't know ",0,0,0,0,0,1,1,0,1
+1256, //i don not know//no clue ,0,0,0,0,0,0,1,0,0
+1257, //i don't know him//no ,0,0,0,0,0,0,1,1,0
+1258," //don't you have a list i can choose a,b,or c-i have no ides//no ",0,0,0,0,0,0,1,1,1
+1259," //i wouldn't have a guess,i have no idea//no ",0,0,0,0,0,0,1,1,0
+1260, //i don't know right off the bat//i've heard the name but don't know//no ,0,0,0,0,0,0,1,1,1
+1261, //i'd don't know//i wonder if he is the minority whip//no ,0,0,0,0,0,1,1,1,1
+1262, //never heard of him//maybe on the supreme court//no ,0,0,0,0,0,1,1,1,0
+1263, //don't know//is he a supreme court justice//no ,0,0,0,0,0,1,1,1,0
+1264, sec of treasury ,0,0,0,0,0,1,0,0,0
+1265, //he's the treasury secretary//no ,0,0,0,0,0,1,0,1,0
+1266, no guess ,0,0,0,0,0,0,1,0,0
+1267, no clue as to who he is ,0,0,0,0,0,0,1,0,0
+1268, prime minister of england ,1,0,0,0,0,0,0,0,0
+1269, he's the prime minister of Britan-very very intellegent but little carisma ,1,0,0,0,0,1,0,0,0
+1271, dont have a guess ,0,0,0,0,0,0,1,0,0
+1272, i dont know ,0,0,0,0,0,0,1,0,0
+1273," //again, i don't know//i don't have a guess//no the slightest idea//no ",0,0,0,0,0,0,1,1,0
+1274, governor ,0,0,0,0,0,1,0,0,0
+1275, house of representatives ,0,0,0,0,0,1,0,0,0
+1276, i dont know ,0,0,0,0,0,0,1,0,0
+1277, congress ,0,0,0,0,0,1,0,0,0
+1279, //don't know//no ,0,0,0,0,0,0,1,1,0
+1280, political analyst on a news channel ,0,0,0,0,0,1,0,0,0
+1281, dont know how to answer ,0,0,0,0,0,0,1,0,0
+1282, senate ,0,0,0,0,0,1,0,0,0
+1283, secretary of state ,0,0,0,0,0,1,0,0,0
+1284, secretary of commerce ,0,0,0,0,0,1,0,0,0
+1285, cabinet member ,0,0,0,0,0,1,0,0,0
+1286, presidential press secretary ,0,0,0,0,0,1,0,0,0
+1287, dont have an answer ,0,0,0,0,0,0,1,0,0
+1288, //he is the prime minister of england//no ,1,0,0,0,0,0,0,1,0
+1289, no clue ,0,0,0,0,0,0,1,0,0
+1290, don't know ,0,0,0,0,0,0,1,0,0
+1291, i think he is prime minister of london ,0,1,0,0,0,0,0,0,1
+1292, no clue// ,0,0,0,0,0,0,1,0,0
+1293, don't know ,0,0,0,0,0,0,1,0,0
+1294, don't know the guy ,0,0,0,0,0,0,1,0,0
+1295, prime minister of london ,0,1,0,0,0,0,0,0,0
+1296, freeholder ,0,0,0,0,0,1,0,0,0
+1297, I don't know//no ,0,0,0,0,0,0,1,1,0
+1298, don't know//no ,0,0,0,0,0,0,1,1,0
+1299, don't know ,0,0,0,0,0,0,1,0,0
+1300, don't know ,0,0,0,0,0,0,1,0,0
+1301, I don't know that either//no ,0,0,0,0,0,0,1,1,0
+1302, I do not know ,0,0,0,0,0,0,1,0,0
+1303, not sure ,0,0,0,0,0,0,1,0,0
+1305, don't know ,0,0,0,0,0,0,1,0,0
+1306, clinton administration ,0,0,0,0,0,1,0,0,0
+1307, press secretary ,0,0,0,0,0,1,0,0,0
+1308, senator ,0,0,0,0,0,1,0,0,0
+1309, congressman ,0,0,0,0,0,1,0,0,0
+1310, senator ,0,0,0,0,0,1,0,0,0
+1311, miltary affairs ,0,0,0,0,0,1,0,0,0
+1312," ""dont know""// ",0,0,0,0,0,0,1,0,0
+1313," ""dont know""// ",0,0,0,0,0,0,1,0,0
+1314," ""dont kn ow//"" ",0,0,0,0,0,0,1,0,0
+1315," ""dont know him""// ",0,0,0,0,0,0,1,0,0
+1316," ""dont know""// ",0,0,0,0,0,0,1,0,0
+1318, US SENATE ,0,0,0,0,0,1,0,0,0
+1319," ""not a clue""// ",0,0,0,0,0,0,1,0,0
+1320, SENATE? ,0,0,0,0,0,1,0,0,0
+1321," ""press secretary""// ",0,0,0,0,0,1,0,0,0
+1323," ""dont know""// ",0,0,0,0,0,0,1,0,0
+1324," ""dont know""// ",0,0,0,0,0,0,1,0,0
+1325," ""dont know""// ",0,0,0,0,0,0,1,0,0
+1326," ""cant remember""// ",0,0,0,0,0,0,1,0,0
+1327," ""dont know""// ",0,0,0,0,0,0,1,0,0
+1328," ""dont know""// ",0,0,0,0,0,0,1,0,0
+1329, I DON'T KNOW//NO GUESS//STOP ,0,0,0,0,0,0,1,1,0
+1330, DON'T KNOW//DON'T KNOW//NOTHING COMES TO MIND//STOP ,0,0,0,0,0,0,1,1,0
+1331," 'fema head""// ",0,0,0,0,0,1,0,0,0
+1332, DON'T KNOW//DON'T KNOW//STOP ,0,0,0,0,0,0,1,1,0
+1334," ""dont know""// ",0,0,0,0,0,0,1,0,0
+1335," ""dont know""// ",0,0,0,0,0,0,1,0,0
+1336," ""senator""// ",0,0,0,0,0,1,0,0,0
+1337," ""dont know""// ",0,0,0,0,0,0,1,0,0
+1338," ""don't know//haven't heard that name//"" ",0,0,0,0,0,0,1,0,0
+1339," ""don't know//sounds familiar//can't remember//"" ",0,0,0,0,0,0,1,0,1
+1341," ""don't know//don't know//don't know//"" ",0,0,0,0,0,0,1,0,0
+1342, DON'T KNOW//I REALLY DON'T KNOW//STOP ,0,0,0,0,0,0,1,1,0
+1343," ""don't know//no//"" ",0,0,0,0,0,0,1,1,0
+1344," ""don't know//don't know//no idea//"" ",0,0,0,0,0,0,1,0,0
+1345," ""don't know//my memory is bad because of my accident//"" ",0,0,0,0,0,0,1,0,1
+1346, NEVER HEARD OF HIM//I HAVE NEVER EVER HEARD OF HIM//STOP ,0,0,0,0,0,0,1,1,0
+1347," ""don't know//haven't heard of him//"" ",0,0,0,0,0,0,1,0,0
+1348," ""don't know//don't know//PM england//"" ",1,0,0,0,0,0,1,0,0
+1349," ""don't know//"" ",0,0,0,0,0,0,1,0,0
+1350," ""don't know//don't know//none//"" ",0,0,0,0,0,0,1,1,0
+1352, DON'T KNOW//DON'T KNOW//STOP ,0,0,0,0,0,0,1,1,0
+1353," ""don't know//"" ",0,0,0,0,0,0,1,0,0
+1354, REPUBLICAN ,0,0,0,0,0,1,0,0,0
+1355, I DON'T KNOW//I DON'T KNOW//STOP ,0,0,0,0,0,0,1,1,0
+1356," ""don't know//don't know//"" ",0,0,0,0,0,0,1,0,0
+1357," ""don't know//represents another country//head of england//"" ",0,0,0,1,1,0,1,0,0
+1358," ""don't know//don't know//"" ",0,0,0,0,0,0,1,0,0
+1359," ""don't know//don't recognize name//prime minister of england//"" ",1,0,0,0,0,0,1,0,0
+1360," ""DON'T KNOW//don't know//"" ",0,0,0,0,0,0,1,0,0
+1361," ""don't know//"" ",0,0,0,0,0,0,1,0,0
+1362," ""don't know//don't know//don't know//"" ",0,0,0,0,0,0,1,0,0
+1363, I DON'T KNOW//SENATE//STOP ,0,0,0,0,0,1,1,1,0
+1364," ""don't know//don't know//ambassador//"" ",0,0,0,0,0,1,1,0,0
+1365," ""dont know""// ",0,0,0,0,0,0,1,0,0
+1366," ""Don't know//don't listen//"" ",0,0,0,0,0,0,1,0,1
+1367," ""dont know""// ",0,0,0,0,0,0,1,0,0
+1368," ""supreme  court""// ",0,0,0,0,0,1,0,0,0
+1370," ""don't know//never heard the name//"" ",0,0,0,0,0,0,1,0,0
+1372, DON'T KNOW//STOP ,0,0,0,0,0,0,1,1,0
+1373, DON'T KNOW//SECRETARY OF TREASURY ,0,0,0,0,0,1,1,0,0
+1374," ""no idea""// ",0,0,0,0,0,0,1,0,0
+1375," ""don't know//don't know//"" ",0,0,0,0,0,0,1,0,0
+1377, actor ,0,0,0,0,0,1,0,0,0
+1378, supreme court judge ,0,0,0,0,0,1,0,0,0
+1379, representative ,0,0,0,0,0,1,0,0,0
+1380, <RF> ,0,0,0,0,0,0,0,1,0
+1381, congressman ,0,0,0,0,0,1,0,0,0
+1382, in charge of the republican party ,0,0,0,0,0,1,0,0,0
+1383, legislator ,0,0,0,0,0,1,0,0,0
+1384, mayor ,0,0,0,0,0,1,0,0,0
+1385, congressman ,0,0,0,0,0,1,0,0,0
+1386, congress ,0,0,0,0,0,1,0,0,0
+1387, republican ,0,0,0,0,0,1,0,0,0
+1388, senator ,0,0,0,0,0,1,0,0,0
+1389, treasurer ,0,0,0,0,0,1,0,0,0
+1390, senator ,0,0,0,0,0,1,0,0,0
+1391, speaker of the senate ,0,0,0,0,0,1,0,0,0
+1392, <RF> ,0,0,0,0,0,0,0,1,0
+1393, don't know// ,0,0,0,0,0,0,1,0,0
+1395, congress ,0,0,0,0,0,1,0,0,0
+1396, military overseer ,0,0,0,0,0,1,0,0,0
+1398, fema guy ,0,0,0,0,0,1,0,0,0
+1399, DC mayor ,0,0,0,0,0,1,0,0,0
+1400, national defense ,0,0,0,0,0,1,0,0,0
+1401,  I could not tell you//  ,0,0,0,0,0,0,1,0,0
+1402, chief of staff ,0,0,0,0,0,1,0,0,0
+1403, secretary ,0,0,0,0,0,1,0,0,0
+1405, prime minister in united kingdom ,1,0,0,0,0,0,0,0,0
+1406, treasury secretary ,0,0,0,0,0,1,0,0,0
+1407, Congress ,0,0,0,0,0,1,0,0,0
+1408, don't know//republican//don't know//no ,0,0,0,0,0,1,1,1,0
+1409, don't know//no ,0,0,0,0,0,0,1,1,0
+1411, cabinet member ,0,0,0,0,0,1,0,0,0
+1412," I don't know   , nonono i REALLY HAVE NO IDEA ",0,0,0,0,0,0,1,1,0
+1414, prime minister of current british ruling party. ,1,0,0,0,0,0,0,0,0
+1415, DONT KNOW HIM // SECRETARY OF...I KNOW ITS NOT THAT..// I CAN'T THINK OF IT I'M BLANK SORRY ,0,0,0,0,0,1,1,0,1
+1416, <RF> ,0,0,0,0,0,0,0,1,0
+1417, never heard that name // i really never heard that name ,0,0,0,0,0,0,1,0,0
+1419," global, deals with the enviorment ",0,0,0,0,1,1,0,0,0
+1420, I DON'T KNOW EITHER // I DON'T ,0,0,0,0,0,0,1,0,0
+1421," Im not familiar with him at all , no ",0,0,0,0,0,0,1,1,0
+1423, don't know him ,0,0,0,0,0,0,1,0,0
+1424, Prime Minister of Great Britian ,1,0,0,0,0,0,0,0,0
+1425," I don't know him, xx don't recognize the name ",0,0,0,0,0,0,1,0,0
+1426, No conosco ese nombre ,0,0,0,0,0,0,1,0,0
+1427," Prime Minister of  England // I don't know the guy, is this a trick question ",1,0,0,0,0,0,1,0,1
+1428, no lo reconosco ,0,0,0,0,0,0,1,0,0
+1429, don't know ,0,0,0,0,0,0,1,0,0
+1430, prime minister of UK ,1,0,0,0,0,0,0,0,0
+1431, don't know ,0,0,0,0,0,0,1,0,0
+1432, no clue ,0,0,0,0,0,0,1,0,0
+1433, prime minister of england ,1,0,0,0,0,0,0,0,0
+1434," don""t Know //secretary of defence.   ",0,0,0,0,0,1,1,0,0
+1435, don't know ,0,0,0,0,0,0,1,0,0
+1436, don't know his name ,0,0,0,0,0,0,1,0,0
+1437, don't know ,0,0,0,0,0,0,1,0,0
+1438, don't know  ,0,0,0,0,0,0,1,0,0
+1439, don't know ,0,0,0,0,0,0,1,0,0
+1440, does not know asked is he black//. ,0,0,0,0,0,0,1,0,1
+1441, does not know ,0,0,0,0,0,0,1,0,0
+1442, don't know ,0,0,0,0,0,0,1,0,0
+1444, guess senate majority leader ,0,0,0,0,0,1,0,0,1
+1445, in congress ,0,0,0,0,0,1,0,0,0
+1446, secratery of state ,0,0,0,0,0,1,0,0,0
+1447, security ,0,0,0,0,0,1,0,0,0
+1448, prime minister of england ,1,0,0,0,0,0,0,0,0
+1451, minority leader ,0,0,0,0,0,1,0,0,0
+1452, democrat ,0,0,0,0,0,1,0,0,0
+1453, don't know ,0,0,0,0,0,0,1,0,0
+1454," don""t know ",0,0,0,0,0,0,1,0,0
+1455, don't know ,0,0,0,0,0,0,1,0,0
+1456, prme minister of england ,1,0,0,0,0,0,0,0,0
+1457, defence attourney i don't know ,0,0,0,0,0,1,1,0,0
+1458, I don't know who he is ,0,0,0,0,0,0,1,0,0
+1459, house jury ,0,0,0,0,0,1,0,0,0
+1460, senetor ,0,0,0,0,0,1,0,0,0
+1461, //senator ,0,0,0,0,0,1,0,0,0
+1462, dont have an ideal ,0,0,0,0,0,0,1,0,0
+1463, i dont know ,0,0,0,0,0,0,1,0,0
+1464, congress ,0,0,0,0,0,1,0,0,0
+1465, I dont know hime ,0,0,0,0,0,0,1,0,0
+1466, assemblyman ,0,0,0,0,0,1,0,0,0
+1467, //never heard of him//have no idea//no ,0,0,0,0,0,0,1,1,0
+1468, have never heard of him ,0,0,0,0,0,0,1,0,0
+1469, //something to do with congress ,0,0,0,0,0,1,0,0,0
+1470, //i have no idea. ,0,0,0,0,0,0,1,0,0
+1471, senator ,0,0,0,0,0,1,0,0,0
+1472, //senator ,0,0,0,0,0,1,0,0,0
+1473, //cleans toilets at the white house ,0,0,0,0,1,0,0,0,0
+1474, //i have no guess ,0,0,0,0,0,0,1,0,0
+1475, //senator ,0,0,0,0,0,1,0,0,0
+1476, senator ,0,0,0,0,0,1,0,0,0
+1477, //i have no idea ,0,0,0,0,0,0,1,0,0
+1478, senate ,0,0,0,0,0,1,0,0,0
+1479, prime minister of england ,1,0,0,0,0,0,0,0,0
+1480, //I've never heard of him I can't reemeber people ,0,0,0,0,0,0,1,0,1
+1481, //cannot recall ,0,0,0,0,0,0,1,0,0
+1482, //secretary of state ,0,0,0,0,0,1,0,0,0
+1483, //congress ,0,0,0,0,0,1,0,0,0
+1484, //i have no idea ,0,0,0,0,0,0,1,0,0
+1485, //not a clue never heard of him ,0,0,0,0,0,0,1,0,0
+1486, senator ,0,0,0,0,0,1,0,0,0
+1487, //he's in mayfield he's a republican ,0,0,0,0,0,1,0,0,0
+1490, jersey city mayor ,0,0,0,0,0,1,0,0,0
+1491, prime minister of england ,1,0,0,0,0,0,0,0,0
+1492, don't know//chief of staff ,0,0,0,0,0,1,1,0,0
+1493, secretary of the defense ,0,0,0,0,0,1,0,0,0
+1496, not sure//secretary of state//no ,0,0,0,0,0,1,1,1,0
+1497, don't know//secy of defense???// ,0,0,0,0,0,1,1,0,0
+1498, i don't know//no guess ,0,0,0,0,0,0,1,0,0
+1499, i don't know//umm...senator??//no ,0,0,0,0,0,1,1,1,0
+1500, chief of staff ,0,0,0,0,0,1,0,0,0
+1501," i don' know//sorry, i don't know//no ",0,0,0,0,0,0,1,1,1
+1502, i don't know//he could be a congressman or what//i don't know// ,0,0,0,0,0,1,1,0,0
+1503, i don't know//i don't know him//i have no clue who he is...clueless!//no ,0,0,0,0,0,0,1,1,0
+1504, congressman ,0,0,0,0,0,1,0,0,0
+1505," i don't know//i don't know, only person i follow is barack//no ",0,0,0,0,0,0,1,1,1
+1506, not sure//i don't know...i could have said supreme court/senate/congress//i just don't know//no ,0,0,0,0,0,1,1,1,1
+1507, isn't he the council?//budget//no ,0,0,0,0,0,1,0,1,0
+1508, i don't know//no guess//no ,0,0,0,0,0,0,1,1,0
+1509, no clue//no best guess//no ,0,0,0,0,0,0,1,1,0
+1510, can't remember//no ,0,0,0,0,0,0,1,1,0
+1511, u.s. senator ,0,0,0,0,0,1,0,0,0
+1512," "" I do not know him"" ",0,0,0,0,0,0,1,0,0
+1513, i can't remmeber. ,0,0,0,0,0,0,1,0,0
+1514," "" a state of congressman//I forgat the state//No"" ",0,0,0,0,0,1,0,1,1
+1515, don't know//senator ,0,0,0,0,0,1,1,0,0
+1517, senator ,0,0,0,0,0,1,0,0,0
+1518, education ,0,0,0,0,0,1,0,0,0
+1519, dont know//dont know who these people are//no ,0,0,0,0,0,0,1,1,0
+1520, senate ,0,0,0,0,0,1,0,0,0
+1521, politician ,0,0,0,0,0,1,0,0,0
+1522, congressman ,0,0,0,0,0,1,0,0,0
+1523, secretary of state ,0,0,0,0,0,1,0,0,0
+1524, i have no idea//a congressman?  a senator?//no ,0,0,0,0,0,1,1,1,0
+1525, don't know who he is//is he flash gordon//no ,0,0,0,0,0,0,1,1,0
+1526, i know who gordon brown is//an assemblyman?//no ,0,0,0,0,0,1,0,1,1
+1527, i don't know//no//no// ,0,0,0,0,0,0,1,1,0
+1528, don't know ,0,0,0,0,0,0,1,0,0
+1529, don't know ,0,0,0,0,0,0,1,0,0
+1531, never heard of the man//state representative//no ,0,0,0,0,0,1,1,1,0
+1532, no clue//no guess ,0,0,0,0,0,0,1,0,0
+1533," don't know//laughs, congressman ",0,0,0,0,0,1,1,0,1
+1534, couldn't tell//noS ,0,0,0,0,0,0,1,1,0
+1535, dk//congressman ,0,0,0,0,0,1,1,0,0
+1536, never heard of him//nope ,0,0,0,0,0,0,1,1,0
+1537, never heard of him//no ,0,0,0,0,0,0,1,1,0
+1538, no//no ,0,0,0,0,0,0,0,1,0
+1539, no//no ,0,0,0,0,0,0,0,1,0
+1540, don't know//no ,0,0,0,0,0,0,1,1,0
+1541, not sure//nope ,0,0,0,0,0,0,1,1,0
+1542, doesn't know//no ,0,0,0,0,0,0,1,1,0
+1544, he's in Bush's Cabinet//doesn't know the position//no ,0,0,0,0,0,1,1,1,0
+1545, doesn't know//state representative//no ,0,0,0,0,0,1,1,1,0
+1546, doesn't know//no guess//no ,0,0,0,0,0,0,1,1,0
+1547, doesn't know//no guess ,0,0,0,0,0,0,1,0,0
+1548, not sure//no ,0,0,0,0,0,0,1,1,0
+1550, dk//nope ,0,0,0,0,0,0,1,1,0
+1551, dk//no ,0,0,0,0,0,0,1,1,0
+1552, no ,0,0,0,0,0,0,0,1,0
+1553, no idea who he is//no guess//no ,0,0,0,0,0,0,1,1,0
+1554, dk//congressman ,0,0,0,0,0,1,1,0,0
+1555, Congressman?//no ,0,0,0,0,0,1,0,1,0
+1556, doesn't know//no guess ,0,0,0,0,0,0,1,0,0
+1557, don't know//he's a congressman//no ,0,0,0,0,0,1,1,1,0
+1558, doesn't know//defense maybe?//no ,0,0,0,0,0,1,1,1,0
+1559, doesn't know//no ,0,0,0,0,0,0,1,1,0
+1560, senate position ,0,0,0,0,0,1,0,0,0
+1561, doesn't know//no ,0,0,0,0,0,0,1,1,0
+1562, no idea ,0,0,0,0,0,0,1,0,0
+1563, dk//no ,0,0,0,0,0,0,1,1,0
+1564, has no idea//congressman//no ,0,0,0,0,0,1,1,1,0
+1565, doesn't know//supreme court?//no ,0,0,0,0,0,1,1,1,0
+1567, senate position?//no ,0,0,0,0,0,1,0,1,0
+1568, doesn't know//doesn't have one//no ,0,0,0,0,0,0,1,1,0
+1569, doesn't know//has no clue//no ,0,0,0,0,0,0,1,1,0
+1570, doesn't know//no ,0,0,0,0,0,0,1,1,0
+1572, doesn't know//no guess either//no ,0,0,0,0,0,0,1,1,0
+1573, the Prime Minister of Great Britain ,1,0,0,0,0,0,0,0,0
+1574, no idea//never heard the name//no ,0,0,0,0,0,0,1,1,0
+1575, doesn't know//representative//no ,0,0,0,0,0,1,1,1,0
+1576, doesn't know//no best guess//no ,0,0,0,0,0,0,1,1,0
+1577, doesn't know//no guess ,0,0,0,0,0,0,1,0,0
+1578," heck, she doesn't know//oh, think he's the secretary of defense//no, can't guess, doesn't know//no ",0,0,0,0,0,1,1,1,1
+1580, supreme court ,0,0,0,0,0,1,0,0,0
+1581, over fema ,0,0,0,0,0,1,0,0,0
+1582, janitor ,0,0,0,0,0,1,0,0,0
+1583, sentor ,0,0,0,0,0,1,0,0,0
+1584, not sure ,0,0,0,0,0,0,1,0,0
+1585, never heard of him ,0,0,0,0,0,0,1,0,0
+1586, he is a representive ,0,0,0,0,0,1,0,0,0
+1587, senator ,0,0,0,0,0,1,0,0,0
+1588, he is a congressman ,0,0,0,0,0,1,0,0,0
+1589, press secretay ,0,0,0,0,0,1,0,0,0
+1590, speaker of the house ,0,0,0,0,0,1,0,0,0
+1591, senator ,0,0,0,0,0,1,0,0,0
+1592, don't know ,0,0,0,0,0,0,1,0,0
+1593, cabinet ,0,0,0,0,0,1,0,0,0
+1594, senator ,0,0,0,0,0,1,0,0,0
+1595, senator ,0,0,0,0,0,1,0,0,0
+1596, political advisor ,0,0,0,0,0,1,0,0,0
+1597, <RF> ,0,0,0,0,0,0,0,1,0
+1598, no guess ,0,0,0,0,0,0,1,0,0
+1599, secretary to pres ,0,0,0,0,0,1,0,0,0
+1600, head of senate ,0,0,0,0,0,1,0,0,0
+1601, senate ,0,0,0,0,0,1,0,0,0
+1602, senator ,0,0,0,0,0,1,0,0,0
+1603, governor ,0,0,0,0,0,1,0,0,0
+1604, house of rep ,0,0,0,0,0,1,0,0,0
+1605, financial ,0,0,0,0,0,1,0,0,0
+1606, senate ,0,0,0,0,0,1,0,0,0
+1607, <RF> ,0,0,0,0,0,0,0,1,0
+1608, <RF> ,0,0,0,0,0,0,0,1,0
+1609, <RF> ,0,0,0,0,0,0,0,1,0
+1610, no ,0,0,0,0,0,0,0,1,0
+1612, exec staff of white house ,0,0,0,0,0,1,0,0,0
+1613, senate ,0,0,0,0,0,1,0,0,0
+1614, ddoesn't remember that name//congress//no ,0,0,0,0,0,1,1,1,0
+1615," i heard of him, but i'm not too familiar with him, he's in the senate ",0,0,0,0,0,1,1,0,1
+1616, pass// your best guess// speaker of the house// NO ,0,0,0,0,0,1,0,1,1
+1617, i don't know// best guess// senator ,0,0,0,0,0,1,1,0,1
+1618, i don't know//congress ,0,0,0,0,0,1,1,0,0
+1619, i don't know ,0,0,0,0,0,0,1,0,0
+1620, don't know ,0,0,0,0,0,0,1,0,0
+1621, i don't know ,0,0,0,0,0,0,1,0,0
+1622, I DON'T KNOW HIM//SENATE ,0,0,0,0,0,1,1,0,0
+1623, i heard his name but i don't know what he does either//that's hard//don't know ,0,0,0,0,0,0,1,0,1
+1624, don't know//no clue ,0,0,0,0,0,0,1,0,0
+1625, i don't now ,0,0,0,0,0,0,1,0,0
+1626, i don't even know//democratic ,0,0,0,0,0,1,1,0,0
+1627, i don't know//i don't know ,0,0,0,0,0,0,1,0,0
+1628," i can't think of what job he holds, but i saw him on tv ",0,0,0,0,0,0,1,0,1
+1629, i never heard of him//i don't him ,0,0,0,0,0,0,1,0,0
+1630, i have never heard of gordon brown ,0,0,0,0,0,0,1,0,0
+1632, don't know//don't know ,0,0,0,0,0,0,1,0,0
+1633, i don't know ,0,0,0,0,0,0,1,0,0
+1634, i dont know him// your best guess// i can not recall his name// NO ,0,0,0,0,0,0,1,1,1
+1636, i don't know// any guess// i don't know// No ,0,0,0,0,0,0,1,1,1
+1637, dont know ,0,0,0,0,0,0,1,0,0
+1638, i don't know//don't know ,0,0,0,0,0,0,1,0,0
+1639, head of FEMA//no ,0,0,0,0,0,1,0,1,0
+1640, have no clue//no ,0,0,0,0,0,0,1,1,0
+1641, dont know// ,0,0,0,0,0,0,1,0,0
+1642, NOT KNOW// ,0,0,0,0,0,0,1,0,0
+1643, NO CLUE ,0,0,0,0,0,0,1,0,0
+1644, think he is a press secretary//no ,0,0,0,0,0,1,0,1,1
+1645, no guess ,0,0,0,0,0,0,1,0,0
+1646, NEVER EVEN HEARD OF THE NAME//NO ,0,0,0,0,0,0,1,1,0
+1647, unfamiliar with the name//no idea//no ,0,0,0,0,0,0,1,1,0
+1648, he is England's prime minister//no ,1,0,0,0,0,0,0,1,0
+1649, no guess ,0,0,0,0,0,0,1,0,0
+1651, Republican and is friends with Bush- should be Gordon Smith ,0,0,0,0,0,1,0,0,1
+1652, don;t know// ,0,0,0,0,0,0,1,0,0
+1653, speaker for the white house ,0,0,0,0,0,1,0,0,0
+1654, if it is Gordon Brown I don't know and if it Gordon Smith it is Senator ,0,0,0,0,0,1,1,0,1
+1655, he is a senator ,0,0,0,0,0,1,0,0,0
+1656, //senator//dk ,0,0,0,0,0,1,1,0,0
+1657, don;t know who he is//no ,0,0,0,0,0,0,1,1,0
+1658, don't know// religious leader ,0,0,0,0,0,1,1,0,0
+1659, republican senator from Oregon ,0,0,0,0,0,1,0,0,0
+1660, do you mean Gordon Smith-senator there is a misprint ,0,0,0,0,0,1,0,0,1
+1662, know the name// just can't think of the office  ,0,0,0,0,0,0,1,0,1
+1663, have no idea // ,0,0,0,0,0,0,1,0,0
+1664, //senator//don't know ,0,0,0,0,0,1,1,0,0
+1666, don't know//don't know//no ,0,0,0,0,0,0,1,1,0
+1667," don't know, he's in govt right now?, have no idea//no ",0,0,0,0,0,1,1,1,0
+1668," don't know,don't know Congressman ",0,0,0,0,0,1,1,0,0
+1669, senator ,0,0,0,0,0,1,0,0,0
+1670, cabinet member ,0,0,0,0,0,1,0,0,0
+1671, can't think of it ,0,0,0,0,0,0,1,0,0
+1672, don't know who he is// don't know who he is//brown? ,0,0,0,0,0,1,1,0,0
+1673," not familiar with Gordon Brown, still unknown, if he's not familiar he can't answer ",0,0,0,0,0,0,1,0,0
+1674, don't know//x ,0,0,0,0,0,0,1,0,0
+1675, not sure//secretary of state ,0,0,0,0,0,1,1,0,0
+1676, has no idea ,0,0,0,0,0,0,1,0,0
+1677, republican//don;t know ,0,0,0,0,0,1,1,0,0
+1678, //treasury secretary// ,0,0,0,0,0,1,0,0,0
+1679, //supreme court// ,0,0,0,0,0,1,0,0,0
+1680, //congress ,0,0,0,0,0,1,0,0,0
+1681, //senate// ,0,0,0,0,0,1,0,0,0
+1682, i do not know//i have never heard the name gordon brown ,0,0,0,0,0,0,1,0,0
+1683," i have no idea//puthonetary, some guy who counts something, there probably federal offices and i'm thinking county or state ",0,0,0,0,1,1,1,0,1
+1685, state representative ,0,0,0,0,0,1,0,0,0
+1686, house of representatives ,0,0,0,0,0,1,0,0,0
+1687, i don't have a clue//i don't even have a guess ,0,0,0,0,0,0,1,0,0
+1688," i don't know//i wouldn't even have a guess, i guess i should have studied up ",0,0,0,0,0,0,1,0,1
+1689, treasury ,0,0,0,0,0,1,0,0,0
+1690, //Senate// ,0,0,0,0,0,1,0,0,0
+1691, //gives news on president// ,0,0,0,0,1,0,0,0,0
+1692, //senate// ,0,0,0,0,0,1,0,0,0
+1694," i don't know//i don't even know who he is, i'm sure he is in the cabinet ",0,0,0,0,0,1,1,0,1
+1696, //senator// ,0,0,0,0,0,1,0,0,0
+1697, secretary of education ,0,0,0,0,0,1,0,0,0
+1698, //congressman// ,0,0,0,0,0,1,0,0,0
+1700," i don't know//i don't know, sec of education ",0,0,0,0,0,1,1,0,0
+1701, //secretary of labor// ,0,0,0,0,0,1,0,0,0
+1702, democrat//doesn't know even after probing ,0,0,0,0,0,1,1,0,0
+1703, DO NOT KNOW// ,0,0,0,0,0,0,1,0,0
+1704,       envirorment ,0,0,0,0,0,1,0,0,0
+1705, CONGRESSMEN ,0,0,0,0,0,1,0,0,0
+1706, CONGRESSMAN ,0,0,0,0,0,1,0,0,0
+1707, DO NOT KNOW ,0,0,0,0,0,0,1,0,0
+1708, DO NOT WANT TO GUESS// ,0,0,0,0,0,0,1,0,0
+1709, REP. STATE SENATOR ,0,0,0,0,0,1,0,0,0
+1710, IN CHARGE OF FEMA// ,0,0,0,0,0,1,0,0,0
+1711, don't know//i don't know//got me on that one//secretary of agriculture//no ,0,0,0,0,0,1,1,1,0
+1713, //congress// ,0,0,0,0,0,1,0,0,0
+1714, I don't know// your best guess// state senate ,0,0,0,0,0,1,1,0,1
+1716, i dont know// what is your best guess// I do not have a glue// Congress is my best guess ,0,0,0,0,0,1,1,0,1
+1717, i don't know him// what is your best guess// I don;t know him. I can't think ,0,0,0,0,0,0,1,0,1
+1718, federal ,0,0,0,0,0,1,0,0,0
+1719, i don't know// what your best guess// maybe congressman ,0,0,0,0,0,1,1,0,1
+1720, one// any guess// maybe a 4// NO ,0,0,0,0,0,0,0,1,1
+1723," house of rep, maybe ",0,0,0,0,0,1,0,0,0
+1724," i heard the name but don't know// well, what's your best guess// dont know him// ",0,0,0,0,0,0,1,0,1
+1725, don't know//no ,0,0,0,0,0,0,1,1,0
+1726, don't know. ,0,0,0,0,0,0,1,0,0
+1727, i am not sure who he is// your best guess// i  have no idea// no ,0,0,0,0,0,0,1,1,1
+1728, i don't know// best guess// gordon brown// I am not sure// No ,0,0,0,0,0,1,1,1,1
+1729, don't know who he is. ,0,0,0,0,0,0,1,0,0
+1730, i dont know// your best guess// one of superior court ,0,0,0,0,0,1,1,0,1
+1731, i don't know// best guess// I don't know for sure// NO ,0,0,0,0,0,0,1,1,1
+1732, never heard of him// best guess// I have no idea// ,0,0,0,0,0,0,1,0,1
+1733," i don't know///best guess// congress, i guess ",0,0,0,0,0,1,1,0,1
+1734, don't know ,0,0,0,0,0,0,1,0,0
+1735, british prime min. ,1,0,0,0,0,0,0,0,0
+1736, d.k. ,0,0,0,0,0,0,1,0,0
+1737, d.k. ,0,0,0,0,0,0,1,0,0
+1738, d.k. ,0,0,0,0,0,0,1,0,0
+1739, don't know ,0,0,0,0,0,0,1,0,0
+1740, don't know ,0,0,0,0,0,0,1,0,0
+1741, don't know ,0,0,0,0,0,0,1,0,0
+1742, don't know ,0,0,0,0,0,0,1,0,0
+1743, don't know ,0,0,0,0,0,0,1,0,0
+1744, don't know ,0,0,0,0,0,0,1,0,0
+1746, don't know ,0,0,0,0,0,0,1,0,0
+1747, don't recog. ,0,0,0,0,0,0,1,0,0
+1748, don't know ,0,0,0,0,0,0,1,0,0
+1749, d.k ,0,0,0,0,0,0,1,0,0
+1750," Make change for all,  ",0,0,0,0,1,0,0,0,0
+1751, Don't know who he is. ,0,0,0,0,0,0,1,0,0
+1752, d.k. ,0,0,0,0,0,0,1,0,0
+1753, I don't know ,0,0,0,0,0,0,1,0,0
+1754, don't know. ,0,0,0,0,0,0,1,0,0
+1755, don't know ,0,0,0,0,0,0,1,0,0
+1756, no ,0,0,0,0,0,0,0,1,0
+1758, No I don't think that I ever heard of him. ,0,0,0,0,0,0,1,1,0
+1759, d.k. ,0,0,0,0,0,0,1,0,0
+1760, I don't know who that is. ,0,0,0,0,0,0,1,0,0
+1761, don't know ,0,0,0,0,0,0,1,0,0
+1762, don't know ,0,0,0,0,0,0,1,0,0
+1763, d.k. ,0,0,0,0,0,0,1,0,0
+1764, d.k. ,0,0,0,0,0,0,1,0,0
+1765, house of representatives ,0,0,0,0,0,1,0,0,0
+1766, I don't know ,0,0,0,0,0,0,1,0,0
+1767, Don't know ,0,0,0,0,0,0,1,0,0
+1768, I don't know about him either. ,0,0,0,0,0,0,1,0,0
+1771, I don't know ,0,0,0,0,0,0,1,0,0
+1772, I don' know. ,0,0,0,0,0,0,1,0,0
+1773, I don't know ,0,0,0,0,0,0,1,0,0
+1774, I Don't know who that is. ,0,0,0,0,0,0,1,0,0
+1775, Prime Minster of England ,1,0,0,0,0,0,0,0,0
+1777, Who that is? ,0,0,0,0,0,0,1,0,0
+1778, I don't have aclue ,0,0,0,0,0,0,1,0,0
+1779, I don't know ,0,0,0,0,0,0,1,0,0
+1780, i dont know//in the senate ,0,0,0,0,0,1,1,0,0
+1781, British elected official ,0,0,0,0,0,1,0,0,0
+1782, i do not know gordon brown // congressman ,0,0,0,0,0,1,1,0,0
+1783, // i dont think i have ever heard that name ,0,0,0,0,0,0,1,0,0
+1784, i dont recognise that name//no guess  ,0,0,0,0,0,0,1,0,0
+1785, i cant think right now//in the govenors office ,0,0,0,0,0,1,0,0,1
+1786, <RF> ,0,0,0,0,0,0,0,1,0
+1787, i dont know // senate ,0,0,0,0,0,1,1,0,0
+1788, //i dont know him i cant even think of who he is ,0,0,0,0,0,0,1,0,0
+1789, works in the white house ,0,0,0,0,1,0,0,0,0
+1790, in the senate i think i dont know but i heard the name gordon brown ,0,0,0,0,0,1,1,0,1
+1791, i dont know that//i think he work in the house of representatives ,0,0,0,0,1,0,1,0,1
+1792, democrat ,0,0,0,0,0,1,0,0,0
+1793, <RF> ,0,0,0,0,0,0,0,1,0
+1794, congressman ,0,0,0,0,0,1,0,0,0
+1795, senator ,0,0,0,0,0,1,0,0,0
+1796, i dont know// i dont know ,0,0,0,0,0,0,1,0,0
+1797, dont know//secretary of something ,0,0,0,0,0,1,1,0,0
+1798, i dont know//house or the senate ,0,0,0,0,0,1,1,0,0
+1799, treasure ,0,0,0,0,0,1,0,0,0
+1801, i have no idea//representative ,0,0,0,0,0,1,1,0,0
+1802, never heard of him//i dont know//secretary of education ,0,0,0,0,0,1,1,0,0
+1803, no idea//no quess never heard name//no ,0,0,0,0,0,0,1,1,0
+1804, no idea// nothing//no ,0,0,0,0,0,0,1,1,0
+1805, don't know//no//don't recognoze//no ,0,0,0,0,0,0,1,1,0
+1806, don't know//congress//no ,0,0,0,0,0,1,1,1,0
+1807, no comment//no ,0,0,0,0,0,0,0,1,0
+1808, senator ,0,0,0,0,0,1,0,0,0
+1809, chief of staff ,0,0,0,0,0,1,0,0,0
+1810, senate ,0,0,0,0,0,1,0,0,0
+1811, I don't know who he is. ,0,0,0,0,0,0,1,0,0
+1813, senator ,0,0,0,0,0,1,0,0,0
+1814, speaker of the house ,0,0,0,0,0,1,0,0,0
+1815, is in congress ,0,0,0,0,0,1,0,0,0
+1816, have not heard of him ,0,0,0,0,0,0,1,0,0
+1817, he is in the cabinet ,0,0,0,0,0,1,0,0,0
+1818, he's a representative too ,0,0,0,0,0,1,0,0,0
+1819, don't know him//no quess//no ,0,0,0,0,0,0,1,1,0
+1820, no idea//no idea//no ,0,0,0,0,0,0,1,1,0
+1821, congress ,0,0,0,0,0,1,0,0,0
+1822, do not know who he is//no ,0,0,0,0,0,0,1,1,0
+1823, no idea// can't tell yu//no ,0,0,0,0,0,0,1,1,0
+1824, never heard of him//no ,0,0,0,0,0,0,1,1,0
+1825, probably a senator ,0,0,0,0,0,1,0,0,0
+1826, no idea//no quess//no ,0,0,0,0,0,0,1,1,0
+1827, representative ,0,0,0,0,0,1,0,0,0
+1828, congress ,0,0,0,0,0,1,0,0,0
+1829, none ,0,0,0,0,0,0,0,1,0
+1830, dk maybe a senator ,0,0,0,0,0,1,1,0,0
+1831, he has a job in washington in the defense ,0,0,0,0,1,1,0,0,0
+1832, obama staff member ,0,0,0,0,0,1,0,0,0
+1833, he is a political party ,0,0,0,0,0,1,0,0,0
+1834, candidate for congress ,0,0,0,0,0,1,0,0,0
+1835, another secretary ,0,0,0,0,0,1,0,0,0
+1836, no idea//no idea//no ,0,0,0,0,0,0,1,1,0
+1837, have no idea-congressman//no ,0,0,0,0,0,1,1,1,0
+1838, prime minister ,0,0,1,0,0,0,0,0,0
+1839, tennessee senator/?//tennesse house of representative// ,0,0,0,0,0,1,0,0,0
+1840, in congress ,0,0,0,0,0,1,0,0,0
+1841, he may be treasurer//dont have a guess//n0 ,0,0,0,0,0,1,1,1,0
+1842, <RF> ,0,0,0,0,0,0,0,1,0
+1843, prime minister of england ,1,0,0,0,0,0,0,0,0
+1844, dont have any-probably secretary of something//no ,0,0,0,0,0,1,1,1,0
+1845, i'm not familiar with gordon brown ,0,0,0,0,0,0,1,0,0
+1846, ;;///dont know //going to skip//no ,0,0,0,0,0,0,1,1,0
+1847, heard of him but I have no clue ,0,0,0,0,0,0,1,0,1
+1848," dont know//congress, i guess, dont really know//no ",0,0,0,0,0,1,1,1,1
+1849, 777 never heard of him/dont want to take a guess- no idea ,0,0,0,0,0,0,1,1,0
+1850," have no quess, could be anything//no ",0,0,0,0,0,0,1,1,1
+1851, some kind of news person ,0,0,0,0,0,1,0,0,0
+1852, 777-have never heard his name before//no ,0,0,0,0,0,0,1,1,0
+1853," do not know him, refuse totake a quess//he was over FEMA he thinkss ",0,0,0,0,0,1,1,1,1
+1854, <RF> ,0,0,0,0,0,0,0,1,0
+1856, dont know ,0,0,0,0,0,0,1,0,0
+1857, couldndt guess dont know ,0,0,0,0,0,0,1,0,0
+1858, <RF> ,0,0,0,0,0,0,0,1,0
+1859, have no ideal//no ,0,0,0,0,0,0,1,1,0
+1860, <RF> ,0,0,0,0,0,0,0,1,0
+1861, <RF> ,0,0,0,0,0,0,0,1,0
+1862, <RF> ,0,0,0,0,0,0,0,1,0
+1864, <RF> ,0,0,0,0,0,0,0,1,0
+1865, <RF> ,0,0,0,0,0,0,0,1,0
+1867, dont want to take a guess ,0,0,0,0,0,0,0,1,0
+1868, <RF> ,0,0,0,0,0,0,0,1,0
+1869, <RF> ,0,0,0,0,0,0,0,1,0
+1870, maybe a member of the cabinet ,0,0,0,0,0,1,0,0,0
+1871, a cabinet member ,0,0,0,0,0,1,0,0,0
+1872, the prime minister of England ,1,0,0,0,0,0,0,0,0
+1873, in senate ,0,0,0,0,0,1,0,0,0
+1874, <RF> ,0,0,0,0,0,0,0,1,0
+1875, <RF> ,0,0,0,0,0,0,0,1,0
+1876, secretary of defense ,0,0,0,0,0,1,0,0,0
+1877, dont know and dont have a quess ,0,0,0,0,0,0,1,0,0
+1878, <RF> ,0,0,0,0,0,0,0,1,0
+1879, house of representatives ,0,0,0,0,0,1,0,0,0
+1880, dk ,0,0,0,0,0,0,1,0,0
+1881, dont know  ,0,0,0,0,0,0,1,0,0
+1882, SENATOR ,0,0,0,0,0,1,0,0,0
+1883, DONT KNOW WHAT HE DOES  ,0,0,0,0,0,0,1,0,0
+1885, never heard  the name// ,0,0,0,0,0,0,1,0,0
+1886, dont know ,0,0,0,0,0,0,1,0,0
+1887, dont know ,0,0,0,0,0,0,1,0,0
+1888, dont want to guess// ,0,0,0,0,0,0,0,1,0
+1889, DONT KNOW ,0,0,0,0,0,0,1,0,0
+1890, dk ,0,0,0,0,0,0,1,0,0
+1892, dont know  ,0,0,0,0,0,0,1,0,0
+1893, he is something with the democrats ,0,0,0,0,0,1,0,0,0
+1894, dont know ,0,0,0,0,0,0,1,0,0
+1896, DONT KNOW ,0,0,0,0,0,0,1,0,0
+1897, dont know ,0,0,0,0,0,0,1,0,0
+1898, dont know ,0,0,0,0,0,0,1,0,0
+1899, dont know ,0,0,0,0,0,0,1,0,0
+1900, i dont know  ,0,0,0,0,0,0,1,0,0
+1901, never heard of him ,0,0,0,0,0,0,1,0,0
+1902, he is one of the cabinets or was ,0,0,0,0,0,1,0,0,0
+1903, senator ,0,0,0,0,0,1,0,0,0
+1906, house of representatives ,0,0,0,0,0,1,0,0,0
+1907, senate ,0,0,0,0,0,1,0,0,0
+1908, dont know ,0,0,0,0,0,0,1,0,0
+1909, dont know ,0,0,0,0,0,0,1,0,0
+1910, politician ,0,0,0,0,0,1,0,0,0
+1911, dont know ,0,0,0,0,0,0,1,0,0
+1912, congressman ,0,0,0,0,0,1,0,0,0
+1913, DONT KNOW ,0,0,0,0,0,0,1,0,0
+1914, dont kknow ,0,0,0,0,0,0,1,0,0
+1915, don t know ,0,0,0,0,0,0,1,0,0
+1916,      dont know ,0,0,0,0,0,0,1,0,0
+1917, judge ,0,0,0,0,0,1,0,0,0
+1918, i dont know ,0,0,0,0,0,0,1,0,0
+1919, dont know ,0,0,0,0,0,0,1,0,0
+1920, i dont know // in congress also ,0,0,0,0,0,1,1,0,0
+1921, never heard of him ,0,0,0,0,0,0,1,0,0
+1922, house or senate ,0,0,0,0,0,1,0,0,0
+1923, PRIME MINISTER OF ENGLAND ,1,0,0,0,0,0,0,0,0
+1925, no idea ,0,0,0,0,0,0,1,0,0
+1926, dont know ,0,0,0,0,0,0,1,0,0
+1927, dont know ,0,0,0,0,0,0,1,0,0
+1928, governor ,0,0,0,0,0,1,0,0,0
+1930, i dont know who he is ,0,0,0,0,0,0,1,0,0
+1931, dont know ,0,0,0,0,0,0,1,0,0
+1932, dont know // i wouldnt know what to guess ,0,0,0,0,0,0,1,0,0
+1933, congressman ,0,0,0,0,0,1,0,0,0
+1934, dont know ,0,0,0,0,0,0,1,0,0
+1935, dont know ive never heard of him ,0,0,0,0,0,0,1,0,0
+1936, dont know ,0,0,0,0,0,0,1,0,0
+1937, DONT KNOW  ,0,0,0,0,0,0,1,0,0
+1938, dont know ,0,0,0,0,0,0,1,0,0
+1939, the new I dont know ,0,0,0,0,0,1,1,0,0
+1940,  i dont know ,0,0,0,0,0,0,1,0,0
+1942, dont know ,0,0,0,0,0,0,1,0,0
+1943, dont know ,0,0,0,0,0,0,1,0,0
+1945, dont know ,0,0,0,0,0,0,1,0,0
+1947, republican ,0,0,0,0,0,1,0,0,0
+1948, no idea ,0,0,0,0,0,0,1,0,0
+1949, senator ,0,0,0,0,0,1,0,0,0
+1950, dont know ,0,0,0,0,0,0,1,0,0
+1951, not sure ,0,0,0,0,0,0,1,0,0
+1952, dont know ,0,0,0,0,0,0,1,0,0
+1955, senator from some state ,0,0,0,0,0,1,0,0,0
+1956, head of the british government ,0,0,0,1,0,0,0,0,0
+1957, //Senator// ,0,0,0,0,0,1,0,0,0
+1958, obama is bringing in im not sure ,0,0,0,0,0,1,1,0,0
+1960, senate ,0,0,0,0,0,1,0,0,0
+1961, Supreme Court Justice ,0,0,0,0,0,1,0,0,0
+1962, dont know ,0,0,0,0,0,0,1,0,0
+1963, I don't know ,0,0,0,0,0,0,1,0,0
+1964, I don't know. ,0,0,0,0,0,0,1,0,0
+1966, prime mnister of the u.k ,1,0,0,0,0,0,0,0,0
+1967, education ,0,0,0,0,0,1,0,0,0
+1968, dont know ,0,0,0,0,0,0,1,0,0
+1970, congress man/  ,0,0,0,0,0,1,0,0,0
+1971, has no idea ,0,0,0,0,0,0,1,0,0
+1972, politician ,0,0,0,0,0,1,0,0,0
+1973, does not know ,0,0,0,0,0,0,1,0,0
+1974, dont know ,0,0,0,0,0,0,1,0,0
+1975, does not know ,0,0,0,0,0,0,1,0,0
+1976, does not know ,0,0,0,0,0,0,1,0,0
+1977," never heard the name, the defense thing ",0,0,0,0,0,1,1,0,0
+1978, dont know ,0,0,0,0,0,0,1,0,0
+1980, in the caibinet ,0,0,0,0,0,1,0,0,0
+1981, I don't know ,0,0,0,0,0,0,1,0,0
+1982, governor ,0,0,0,0,0,1,0,0,0
+1983, Senate ,0,0,0,0,0,1,0,0,0
+1984, I don't know ,0,0,0,0,0,0,1,0,0
+1985, I have no idea ,0,0,0,0,0,0,1,0,0
+1986, I don't know ,0,0,0,0,0,0,1,0,0
+1987, Agriculture ,0,0,0,0,0,1,0,0,0
+1989, Not a clue ,0,0,0,0,0,0,1,0,0
+1990, A mayor ,0,0,0,0,0,1,0,0,0
+1991, counselman ,0,0,0,0,0,1,0,0,0
+1992, Representative ,0,0,0,0,0,1,0,0,0
+1993, no sure//congressman or something - probably in senate// ,0,0,0,0,0,1,1,0,0
+1994, dk//no idea// ,0,0,0,0,0,0,1,0,0
+1995, dk//no idea// ,0,0,0,0,0,0,1,0,0
+1996, dk//no idea// ,0,0,0,0,0,0,1,0,0
+1997, dk//senator// ,0,0,0,0,0,1,1,0,0
+1998, dk//something in uk// ,0,0,0,0,0,1,1,0,0
+1999, dk//governor// ,0,0,0,0,0,1,1,0,0
+2000, dk//sounds familiar// ,0,0,0,0,0,0,1,0,1
+2001, drawing a blank//it'll come to me soon// ,0,0,0,0,0,0,1,0,1
+2002," advisor, wasn't he? ",0,0,0,0,0,1,0,0,1
+2003, dk//is he a congressman?// ,0,0,0,0,0,1,1,0,0
+2004, dk//primeminister of UK// ,1,0,0,0,0,0,1,0,0
+2005, dk//sorry// ,0,0,0,0,0,0,1,0,1
+2006, dk//no idea// ,0,0,0,0,0,0,1,0,0
+2007, dk; so many of them; memory loss condition from chemo ,0,0,0,0,0,0,1,0,1
+2008, GOVERNOR//DON'T REALLY KNOW ,0,0,0,0,0,1,1,0,0
+2009," RINGS A BELL, BUT DON'T KNOW THAT ONE//I'VE HEARD THIS NAMES//SENATOR ",0,0,0,0,0,1,1,0,1
+2010, JUDGE//STOP ,0,0,0,0,0,1,0,1,0
+2011, I have no idea who he is.//no I have no idea. ,0,0,0,0,0,0,1,1,0
+2012, shareholder from the house of rep. ,0,0,0,0,0,1,0,0,0
+2013, he is there. what is it? \\I can't even think.head of campaign of McCain.//no ,0,0,0,0,0,1,0,1,1
+2014," No, I never heard of him.//no ",0,0,0,0,0,0,1,1,0
+2015, prime minister ,0,0,1,0,0,0,0,0,0
+2016, I don't know.//prime minister ,0,0,1,0,0,0,1,0,0
+2017, No.//  no. ,0,0,0,0,0,0,0,1,0
+2018, senator isn't he?  I think he is.//no. ,0,0,0,0,0,1,0,1,1
+2019," I  don't know.  // I would say Senate, but I don't remember. ",0,0,0,0,0,1,1,0,1
+2020, I don't know.  //Governor ,0,0,0,0,0,1,1,0,0
+2021, I don't know. //I don't remember. There are so many names. ,0,0,0,0,0,0,1,0,1
+2023, no.  I have no idea.// prime minister ,0,0,1,0,0,0,1,1,0
+2024, Governor ,0,0,0,0,0,1,0,0,0
+2026, US SENATE ,0,0,0,0,0,1,0,0,0
+2027, some kind of senator ,0,0,0,0,0,1,0,0,0
+2028, no.//algo del palimento ,0,0,0,0,0,1,0,1,0
+2029, CONGRESS//DON'T KNOW ,0,0,0,0,0,1,1,0,0
+2030, I don't know.// secretary of treasury//no ,0,0,0,0,0,1,1,1,0
+2031, parliment president. ,0,0,0,1,0,0,0,0,0
+2032, DON'T KNOW//DON'T KNOW//STOP ,0,0,0,0,0,0,1,1,0
+2034, isn't he the one who is in charge of defensse.// ,0,0,0,0,0,1,0,0,0
+2035, he is in office of congress.{\\)  House of reprsentatives.(\\) state representative.\\np ,0,0,0,0,0,1,0,1,0
+2036, HOUSE OF REPRESENTATIVE//DON'T KNOW// ,0,0,0,0,0,1,1,0,0
+2037, I don't know who he is.// no. ,0,0,0,0,0,0,1,1,0
+2038, no.//no puedo imaginarme. ,0,0,0,0,0,0,1,1,0
+2040, SENATE MAJORITY LEADER//I DON'T KNOW//NO ,0,0,0,0,0,1,1,1,0
+2041, SENATE//DON'T KNOW ,0,0,0,0,0,1,1,0,0
+2042, no//senate//no ,0,0,0,0,0,1,0,1,0
+2043, I have heard about him.//no// ,0,0,0,0,0,0,0,1,1
+2044, CONGRESS//DON'T KNOW ,0,0,0,0,0,1,1,0,0
+2045, no//prime minister ,0,0,1,0,0,0,0,1,0
+2046, MAYOR//DON'T KNOW ,0,0,0,0,0,1,1,0,0
+2048, I DON'T KNOW//SENATOR//STOP ,0,0,0,0,0,1,1,1,0
+2049," not recognize his name. FI:  any idea who he might be? R:  I read the paper all the time, but cannot recall reading about him. //none ",0,0,0,0,0,0,1,1,1
+2050," r:  Gordon Brown, I don't know. FI:  any idea? R:  No, none. //none// ",0,0,0,0,0,1,1,1,0
+2051, //R:  I do not know the man// //FI:  take a guess// //R:  No// ,0,0,0,0,0,0,1,1,0
+2052, r:  who? FI:  repeated Gordon Brown R:  I just know he is a congressman //none// ,0,0,0,0,0,1,0,1,1
+2053, I am not familiar with this name.... I really do not know who he is... ,0,0,0,0,0,0,1,0,0
+2054, cannot recall// FI:  you have any idea?// R:  No. None// ,0,0,0,0,0,0,1,1,0
+2055," DO NOT KNOW HIM FI:  WOULD YOU TAKE A GUESS? r:  NO, (AND SHOOK HEAD NO) //NONE// ",0,0,0,0,0,0,1,1,0
+2056, I do not remember any of them... i've heard the names in passing only... ,0,0,0,0,0,0,1,0,1
+2057, I do not know who he is//none ,0,0,0,0,0,0,1,1,0
+2058, SHAKES HEAD... FI:  ANY IDEA WHO HE IS/  r:  SORRY DO NOT REGODNIZE HIM. ,0,0,0,0,0,0,1,1,1
+2059, Does not know//Do not know the name//none ,0,0,0,0,0,0,1,1,0
+2060," R:  i do not know FI:  any ideas, any guesses R:  none //none// ",0,0,0,0,0,0,1,1,0
+2061," I do not know this person, I have never heard of him//none ",0,0,0,0,0,0,1,1,0
+2062," //i do not know him//won't even guess, I've never heard his name before//none ",0,0,0,0,0,0,1,1,0
+2063, R:  I DON'T KNOW HIM FI:  ANY GUESS? R:  HE IS A DEMOCRAT //NONE// ,0,0,0,0,0,1,1,1,0
+2064, do not know him... ,0,0,0,0,0,0,1,0,0
+2065, r:  neither FI:  any idea of who he might do in govn't r:  no //none// ,0,0,0,0,0,0,0,1,0
+2066," R:  I have no idea what he does, I've never heard of him before FI:  no clue whatsoever? R:  none whatsoever. //none// ",0,0,0,0,0,0,1,1,0
+2067," R:  I do not know who Gordon is. FI:  No idea? R:  Honestly, I have never heard of these people. ",0,0,0,0,0,0,1,0,1
+2068, R:  I have heard the name but do not know what post he handles. FI:  any idea? R:  No idea whatsoever.. //none// ,0,0,0,0,0,0,1,1,1
+2069, I do not have any idea who he might be. ,0,0,0,0,0,0,1,0,0
+2070, //she is not familiar with this name//none ,0,0,0,0,0,0,1,1,0
+2072, R:  shaking his head no. FI:  something that might trigger and help you remember? R:  nothing...  fI:  you do not know? R:  no //none// ,0,0,0,0,0,0,0,1,0
+2073, never  heard of him//none ,0,0,0,0,0,0,1,1,0
+2074, R:  got me  FI:  any idea? R:  no //none// ,0,0,0,0,0,0,1,1,0
+2075, R. knowa hi is at the senate. but don't know what position. ,0,0,0,0,0,1,1,0,1
+2076," R, does not know gordon brown nor know what jb he holds. ",0,0,0,0,0,0,1,0,0
+2077, no clue ,0,0,0,0,0,0,1,0,0
+2079, dont know ,0,0,0,0,0,0,1,0,0
+2082, R. does not know gordon brown. ,0,0,0,0,0,0,1,0,0
+2083, supremecourt justise. ,0,0,0,0,0,1,0,0,0
+2084, prime ministry of england ,1,0,0,0,0,0,0,0,0
+2085, r. don't know who is Gordon  Brown never heard about him. ,0,0,0,0,0,0,1,0,0
+2087, R. does nt know this person. ,0,0,0,0,0,0,1,0,0
+2088, suprime court judge. ,0,0,0,0,0,1,0,0,0
+2090, R. does not heard about gordon brown does not know who he is. ,0,0,0,0,0,0,1,0,0
+2091, R is not familiar with gordon brown. ,0,0,0,0,0,0,1,0,0
+2092, R does not know this person nor wha is his job ,0,0,0,0,0,0,1,0,0
+2093," R said he has heard about gordon brow but, does not know what position he holds. ",0,0,0,0,0,0,1,0,1
+2094, R said has heard about gordon brown bt don't know his position  ,0,0,0,0,0,0,1,0,1
+2095, district judge. ,0,0,0,0,0,1,0,0,0
+2096, R does not know this person either. ,0,0,0,0,0,0,1,0,0
+2097, \R does not know this politician iether. ,0,0,0,0,0,1,1,0,0
+2098, house of reprecentatives. ,0,0,0,0,0,1,0,0,0
+2100, not sure//no guess  ,0,0,0,0,0,0,1,0,0
+2101, dk//nods dk ,0,0,0,0,0,0,1,0,0
+2102, no idea//no idea ,0,0,0,0,0,0,1,0,0
+2103, congressman ,0,0,0,0,0,1,0,0,0
+2104, i dont know//no ,0,0,0,0,0,0,1,1,0
+2105, i do not even know him//president ,0,0,0,0,0,1,1,0,0
+2106, dk//no guess ,0,0,0,0,0,0,1,0,0
+2107," pues no se//pues es del gobierno, tanto asi se nomas// ",0,0,0,0,0,1,1,0,1
+2108, i really dont know these people//i cant say//no ,0,0,0,0,0,0,1,1,0
+2109, that i dont know//dont know ,0,0,0,0,0,0,1,0,0
+2110, i really dont know// is he in the congress//congress ,0,0,0,0,0,1,1,0,0
+2111, shrugs dk//shakes head no//something to do with education ,0,0,0,0,0,1,1,1,0
+2112," is going to be the new attorney general .... no, i am not sure ",0,0,0,0,0,1,1,1,0
+2113, congressman ,0,0,0,0,0,1,0,0,0
+2114, dk//dk ,0,0,0,0,0,0,1,0,0
+2115," dk//no, i dk who that is ",0,0,0,0,0,0,1,1,0
+2116," no se//pues sera lo mismo, algo con las escuelas ",0,0,0,0,0,1,1,0,1
+2117, the one obama appted for treasure//i am not sure//i wouldnt know ,0,0,0,0,0,1,1,0,0
+2118, dk//dk ,0,0,0,0,0,0,1,0,0
+2119, i dont it either//dont have one (shrugged) ,0,0,0,0,0,0,1,0,0
+2120, dk//no guess ,0,0,0,0,0,0,1,0,0
+2121, i have no idea//secretary of labor ,0,0,0,0,0,1,1,0,0
+2122," dk//dk no guess, shakes head, shrugs shoulders ",0,0,0,0,0,0,1,1,0
+2123, dk//i dk who he is  ,0,0,0,0,0,0,1,0,0
+2124, dk//none ,0,0,0,0,0,0,1,1,0
+2125, senator ,0,0,0,0,0,1,0,0,0
+2126, shakes head //no ,0,0,0,0,0,0,0,1,0
+2128, DONT KNOW  ,0,0,0,0,0,0,1,0,0
+2129, i have no idea ,0,0,0,0,0,0,1,0,0
+2130, superintended ,0,0,0,0,0,1,0,0,0
+2131, // do not know//  ,0,0,0,0,0,0,1,0,0
+2132, do not remember hin at all //nothing ,0,0,0,0,0,0,1,1,0
+2133, //administrator// ,0,0,0,0,0,1,0,0,0
+2134, president clinton's vice president ,0,0,0,0,0,1,0,0,0
+2135, DONT KNOW NAME ,0,0,0,0,0,0,1,0,0
+2136, do not know who he is//still do not know.r feels embarrased for not knowing ,0,0,0,0,0,0,1,0,1
+2137, never heard of that person ,0,0,0,0,0,0,1,0,0
+2138, DONT KNOW ,0,0,0,0,0,0,1,0,0
+2140, dont know  ,0,0,0,0,0,0,1,0,0
+2141, do not know him //i guess i do not pay much attention// ,0,0,0,0,0,0,1,0,1
+2142, DONT KNOW ,0,0,0,0,0,0,1,0,0
+2143, representative ,0,0,0,0,0,1,0,0,0
+2144, senator// ,0,0,0,0,0,1,0,0,0
+2145, democratic// ,0,0,0,0,0,1,0,0,0
+2147, in the board//my mind just went blank// ,0,0,0,0,0,1,1,0,0
+2148, //i dont know him// ,0,0,0,0,0,0,1,0,0
+2149, //i dont know him// ,0,0,0,0,0,0,1,0,0
+2150, //i dont know him// ,0,0,0,0,0,0,1,0,0
+2151, //i dont know him// ,0,0,0,0,0,0,1,0,0
+2152, //i dont know him// ,0,0,0,0,0,0,1,0,0
+2153, // I DONT KNOW// ,0,0,0,0,0,0,1,0,0
+2154, //i dont know him// ,0,0,0,0,0,0,1,0,0
+2155, //i dont know// ,0,0,0,0,0,0,1,0,0
+2156, //i dont know him// ,0,0,0,0,0,0,1,0,0
+2157, //i dont know him// ,0,0,0,0,0,0,1,0,0
+2158, // i dont know him// ,0,0,0,0,0,0,1,0,0
+2159, //i dont know // ,0,0,0,0,0,0,1,0,0
+2160, //i dont know who he is// ,0,0,0,0,0,0,1,0,0
+2161, //i dont know him// ,0,0,0,0,0,0,1,0,0
+2162, //DOES NOT KNOW HIM// ,0,0,0,0,0,0,1,0,0
+2164, //i dont know him // ,0,0,0,0,0,0,1,0,0
+2165, //I DONT KNOW HIM// ,0,0,0,0,0,0,1,0,0
+2166, //n ever heard about him// ,0,0,0,0,0,0,1,0,0
+2167, //i dont know him// ,0,0,0,0,0,0,1,0,0
+2168, //i dont know him// ,0,0,0,0,0,0,1,0,0
+2169, senator ,0,0,0,0,0,1,0,0,0
+2170, politician ,0,0,0,0,0,1,0,0,0
+2171, politician ,0,0,0,0,0,1,0,0,0
+2172, legislator ,0,0,0,0,0,1,0,0,0
+2173, sect of the treasury ,0,0,0,0,0,1,0,0,0
+2174, politicin ,0,0,0,0,0,1,0,0,0
+2175, prime miniser of great brittian ,1,0,0,0,0,0,0,0,0
+2176, senator ,0,0,0,0,0,1,0,0,0
+2177, dog walker ,0,0,0,0,0,1,0,0,0
+2178, city council ,0,0,0,0,0,1,0,0,0
+2179, atorney general ,0,0,0,0,0,1,0,0,0
+2180, prime minister ,0,0,1,0,0,0,0,0,0
+2181, suprme court judge ,0,0,0,0,0,1,0,0,0
+2182, on the cabint// ,0,0,0,0,0,1,0,0,0
+2183, head of the foreign relations// ,0,0,0,0,0,1,0,0,0
+2184, dk//what's my choices// ,0,0,0,0,0,0,1,0,1
+2186, dk//no wild guess// ,0,0,0,0,0,0,1,0,0
+2188," governor or mayor, don't remember ",0,0,0,0,0,1,1,0,0
+2189, who is gordon  brown//prime minister// ,0,0,1,0,0,0,0,0,0
+2190, dk//no idea// ,0,0,0,0,0,0,1,0,0
+2191," name sounds familiar, but can;t place him//no idea ",0,0,0,0,0,0,1,0,1
+2192, dk//no guess// ,0,0,0,0,0,0,1,0,0
+2193, I don't remember him; did he run with o bama ,0,0,0,0,1,0,1,0,0
+2194, dk//no idea// ,0,0,0,0,0,0,1,0,0
+2195, dk//don't know these people// ,0,0,0,0,0,0,1,0,0
+2196, I don't know enough about him//no idea// ,0,0,0,0,0,0,1,0,0
+2197, dk//prime minister// ,0,0,1,0,0,0,1,0,0
+2198, national affairs ,0,0,0,0,0,1,0,0,0
+2199, senator ,0,0,0,0,0,1,0,0,0
+2200, prime minister// ,0,0,1,0,0,0,0,0,0
+2201, flies to the moon and back// ,0,0,0,0,1,0,0,0,0
+2202, prime minister of great brittian ,1,0,0,0,0,0,0,0,0
+2203, senator ,0,0,0,0,0,1,0,0,0
+2204, prime minister of the u.k. ,1,0,0,0,0,0,0,0,0
+2205, state brep. ,0,0,0,0,0,1,0,0,0
+2206, political analist ,0,0,0,0,0,1,0,0,0
+2207, sec. of state ,0,0,0,0,0,1,0,0,0
+2208, preacher1 ,0,0,0,0,0,1,0,0,0
+2209, preacher ,0,0,0,0,0,1,0,0,0
+2211, politician ,0,0,0,0,0,1,0,0,0
+2212, senator ,0,0,0,0,0,1,0,0,0
+2213, prime minister of great brittian ,1,0,0,0,0,0,0,0,0
+2214, fema dir ??? no um // no idea ,0,0,0,0,0,1,1,1,0
+2215, st senator?? d recog name ,0,0,0,0,0,1,1,0,0
+2216, dk him /// no guess ,0,0,0,0,0,0,1,0,0
+2217, name is familiar but cant place him // no guess ,0,0,0,0,0,0,1,0,1
+2219, dk // no guess ,0,0,0,0,0,0,1,0,0
+2220, no // no guess ,0,0,0,0,0,0,1,1,0
+2221, // dk who he is -- a senator???? ,0,0,0,0,0,1,1,0,0
+2222," no // no guess, dont even K name ",0,0,0,0,0,0,1,1,0
+2224, dk // dk ,0,0,0,0,0,0,1,0,0
+2225," no, hrd name, is he a black guy, dont have a clue // d want to embarassass myself ",0,0,0,0,0,1,1,1,1
+2226, i dont k // he dosent sound familiar at all ,0,0,0,0,0,0,1,0,0
+2227, no idea // no  ,0,0,0,0,0,0,1,1,0
+2228, that one i dont know // something in senate????/ ,0,0,0,0,0,1,1,0,0
+2229, couldnt tell you // no guess ,0,0,0,0,0,0,1,0,0
+2230, dk // foreign affairs?? I dont think so .. or some kind of deal w another country?? ,0,0,0,0,0,1,1,0,1
+2231, //dont k who he is ,0,0,0,0,0,0,1,0,0
+2232, dk // atty genl ??? I DK ,0,0,0,0,0,1,1,0,0
+2234," dk // no gues, dk him ",0,0,0,0,0,0,1,0,0
+2235," rem his name, d rem what he is // a senator?? ",0,0,0,0,0,1,1,0,1
+2236, // no idea ,0,0,0,0,0,0,1,0,0
+2237, //i dont know him.// ,0,0,0,0,0,0,1,0,0
+2238, dont know ,0,0,0,0,0,0,1,0,0
+2239, dont know ,0,0,0,0,0,0,1,0,0
+2240, DO NOT KNOW//TREASURER ,0,0,0,0,0,1,1,0,0
+2241, dk//dk ,0,0,0,0,0,0,1,0,0
+2242, dk he sounds familiar but dk what he is // dk ,0,0,0,0,0,0,1,0,1
+2243, // no guess dk ,0,0,0,0,0,0,1,0,0
+2244, dk // maybe admin of foreign affairs ,0,0,0,0,0,1,1,0,0
+2245, i dont know that one//no ,0,0,0,0,0,0,1,1,0
+2246, have no cllue//house of representatives?//n0 ,0,0,0,0,0,1,1,1,0
+2247, //no guess//no ,0,0,0,0,0,0,1,1,0
+2248, //dont know what he does//no ,0,0,0,0,0,0,1,1,0
+2249, //no guess//dont keep up with//n0 ,0,0,0,0,0,0,1,1,1
+2250, //no guess// doesnt sound familiar//no ,0,0,0,0,0,0,1,1,0
+2251, //no guess//no ,0,0,0,0,0,0,1,1,0
+2252, i dont know//no ,0,0,0,0,0,0,1,1,0
+2253, //cant guess//no ,0,0,0,0,0,0,1,1,0
+2254, //no i dont know//no ,0,0,0,0,0,0,1,1,0
+2255, i dont know//no//no ,0,0,0,0,0,0,1,1,0
+2256, //idnot know//no ,0,0,0,0,0,0,1,1,0
+2257, //im not sure//no ,0,0,0,0,0,0,1,1,0
+2258, //no guess//no ,0,0,0,0,0,0,1,1,0
+2259, don't know this person//none ,0,0,0,0,0,0,1,1,0
+2260, don't know//none ,0,0,0,0,0,0,1,1,0
+2261, don't know. ,0,0,0,0,0,0,1,0,0
+2262, don't know him. ,0,0,0,0,0,0,1,0,0
+2263, don't know him//no ,0,0,0,0,0,0,1,1,0
+2264, press secretary to president now. ,0,0,0,0,0,1,0,0,0
+2265, i have no idea // i have no idea ,0,0,0,0,0,0,1,0,0
+2266, r has never heard of him// ,0,0,0,0,0,0,1,0,0
+2267, don't know him. ,0,0,0,0,0,0,1,0,0
+2268, don't know him//not a clue. ,0,0,0,0,0,0,1,0,0
+2269, don't know him//no ,0,0,0,0,0,0,1,1,0
+2270, don't know him either//no guess. ,0,0,0,0,0,0,1,0,0
+2271, prime minister of Britain ,1,0,0,0,0,0,0,0,0
+2272, secretary of treasury ,0,0,0,0,0,1,0,0,0
+2273, i don't remember ,0,0,0,0,0,0,1,0,0
+2274, no idea ,0,0,0,0,0,0,1,0,0
+2276, don't know ,0,0,0,0,0,0,1,0,0
+2277, don't know ,0,0,0,0,0,0,1,0,0
+2278, don't know//maybe a cabinet member//no ,0,0,0,0,0,1,1,1,0
+2279, dk// school board ,0,0,0,0,0,1,1,0,0
+2280, some sort of govt job ,0,0,0,0,0,1,0,0,0
+2281, dk// assistant to something ,0,0,0,0,0,1,1,0,0
+2282, dk // bushes cabinet member ,0,0,0,0,0,1,1,0,0
+2283, senator ,0,0,0,0,0,1,0,0,0
+2284, musician ,0,0,0,0,0,1,0,0,0
+2285, nope//no idea ,0,0,0,0,0,0,1,1,0
+2286, I dont know ,0,0,0,0,0,0,1,0,0
+2287, dk dont even know him ,0,0,0,0,0,0,1,0,0
+2288, president of Great Britain ,0,0,0,1,0,0,0,0,0
+2289, I dont know// sectry -might be the attorney general ,0,0,0,0,0,1,1,0,0
+2290, judge ,0,0,0,0,0,1,0,0,0
+2291, prime minister oF Great Britian ,1,0,0,0,0,0,0,0,0
+2293, justice of supreme court ,0,0,0,0,0,1,0,0,0
+2294, Dk dont know ,0,0,0,0,0,0,1,0,0
+2295, dk//no idea no guess ,0,0,0,0,0,0,1,0,0
+2296, never heard of the guy ,0,0,0,0,0,0,1,0,0
+2297, dont know ,0,0,0,0,0,0,1,0,0
+2298, dk // national security ,0,0,0,0,0,1,1,0,0
+2299, house of rep for republicans ,0,0,0,0,0,1,0,0,0
+2300, I dont know whohe is // ?? ,0,0,0,0,0,0,1,0,0
+2301, treasurer ,0,0,0,0,0,1,0,0,0
+2302, //has no idea ,0,0,0,0,0,0,1,0,0
+2303, don't know ,0,0,0,0,0,0,1,0,0
+2304, majority leader of one of the parties ,0,0,0,0,0,1,0,0,0
+2305, don't know ,0,0,0,0,0,0,1,0,0
+2306, //no guess ,0,0,0,0,0,0,1,0,0
+2307, does not know ,0,0,0,0,0,0,1,0,0
+2308, no idea ,0,0,0,0,0,0,1,0,0
+2309, congress ,0,0,0,0,0,1,0,0,0
+2310, don't know ,0,0,0,0,0,0,1,0,0
+2311, //no idea ,0,0,0,0,0,0,1,0,0
+2312, took someone's place in England ,0,0,0,0,0,1,0,0,0
+2313, head guy in England ,0,0,0,1,0,0,0,0,0
+2316, don't know ,0,0,0,0,0,0,1,0,0
+2317, secretary of treasury ,0,0,0,0,0,1,0,0,0
+2318, not sure ,0,0,0,0,0,0,1,0,0
+2319, don't know ,0,0,0,0,0,0,1,0,0
+2320, //no clue ,0,0,0,0,0,0,1,0,0
+2321, don't know ,0,0,0,0,0,0,1,0,0
+2322, no idea ,0,0,0,0,0,0,1,0,0
+2323, no guess ,0,0,0,0,0,0,1,0,0

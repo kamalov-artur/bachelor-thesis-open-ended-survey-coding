@@ -1,0 +1,14 @@
+random_seed: 42
+validation_size: 0.2
+main_metric: samples_f1
+
+thresholds:
+  grid: [0.10, 0.15, 0.20, 0.25, 0.30, 0.35, 0.40, 0.45, 0.50, 0.55, 0.60, 0.65, 0.70, 0.75, 0.80]
+  fallback_threshold: 0.5
+  force_at_least_one_label: true
+
+bootstrap:
+  n_replications: 10000
+  alpha: 0.05
+  ml_family_size: 4
+  dl_family_size: 3

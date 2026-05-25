@@ -1,0 +1,16 @@
+dataset: dataset10
+title: John Roberts Office Recognition Codes (ROBERTS_Code1 to ROBERTS_Code5)
+questions: []
+notes: []
+codes:
+  '1': 'Chief Justice of the Supreme Court: Chief Justice of the Supreme Court; Chief Justice of the High Court; Chief Justice of the United States'
+  '2': 'Chief Justice of the Courts: Chief Justice of the Courts'
+  '3': 'Chief Justice (Other): Chief Justice of something other than the Supreme Court, High Court, United States, or Courts'
+  '4': 'Chief Justice: Chief Justice'
+  '11': 'Head of the Supreme Court: Head, Leader, Chief, Chair, Chancellor, or President of the Supreme Court; Head, Leader, Chief, Chair, Chancellor, or President of the High Court'
+  '12': 'Head of the Courts: Head, Leader, Chief, Chair, Chancellor, or President of the Courts'
+  '13': 'Head of a court (Other): Head, Leader, Chief, Chair, Chancellor, or President of a court other than the Supreme Court, High Court, or Courts'
+  '14': 'Supreme Court: On the Supreme Court; On the High Court; Member of the Supreme Court; Member of the High Court; Supreme Court Justice; Supreme Court Judge; High Court Justice; High Court Judge'
+  '21': 'Leadership activity: Runs, chairs, or leads the Supreme Court; Runs, chairs, or leads the High Court; Runs, chairs, or leads impeachment trials; Runs, chairs, or leads judicial conferences; Decides who writes opinions for the Supreme Court; Decides who writes opinions for the High Court; First speaker during Supreme Court hearings; First speaker during High Court hearings; Last justice to vote during Supreme Court hearings; Last justice to vote during High Court hearings; In charge of judges; In charge of magistrates; In charge of judicial staff; In charge of the judicial budget; Decides who runs the Administrative Office of the United States Courts; Decides which judges are on judicial committees'
+  '23': 'Activity (Other): Any activity that does not match a Leadership Activity listed above'
+  '24': 'Roberts (Other): Any statement about John Roberts that does not match a category listed above'

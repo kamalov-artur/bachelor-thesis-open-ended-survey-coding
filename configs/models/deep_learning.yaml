@@ -1,0 +1,23 @@
+family: deep_learning
+baseline: rnn
+
+training:
+  batch_size: 32
+  max_epochs: 12
+  patience: 3
+  learning_rate: 0.001
+  max_tokens: 160
+
+models:
+  rnn:
+    enabled: true
+    embedding_dim: 128
+    hidden_dim: 128
+    bidirectional: true
+    dropout: 0.3
+  cnn:
+    enabled: true
+    embedding_dim: 128
+    channels: 128
+    kernel_sizes: [3, 4, 5]
+    dropout: 0.3

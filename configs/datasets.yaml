@@ -1,0 +1,51 @@
+data_root: data/processed
+
+groups:
+  truly_open:
+    label: "Действительно открытые вопросы"
+    datasets: [dataset1, dataset2, dataset3, dataset4, dataset5, dataset6]
+  seemingly_open:
+    label: "Кажущиеся открытыми вопросы"
+    datasets: [dataset7, dataset8, dataset9, dataset10]
+
+datasets:
+  dataset1:
+    topic: "Всеобщие выборы"
+    question_type: truly_open
+    variables: [T5, T6]
+  dataset2:
+    topic: "Праймериз"
+    question_type: truly_open
+    variables: [T2, T3]
+  dataset3:
+    topic: "Отношение к партиям"
+    question_type: truly_open
+    variables: [C1b, C1d, C2b, C2d]
+  dataset4:
+    topic: "Отношение к кандидатам"
+    question_type: truly_open
+    variables: [A8b, A8d, A9b, A9d]
+  dataset5:
+    topic: "Терроризм"
+    question_type: truly_open
+    variables: [S1]
+  dataset6:
+    topic: "Важнейшие проблемы страны"
+    question_type: truly_open
+    variables: [Q3a1, Q3a2, Q3b1, Q3b2]
+  dataset7:
+    topic: "Знание политика: Гордон Браун"
+    question_type: seemingly_open
+    variables: [J3c]
+  dataset8:
+    topic: "Знание политика: Дик Чейни"
+    question_type: seemingly_open
+    variables: [J3b]
+  dataset9:
+    topic: "Знание политика: Нэнси Пелоси"
+    question_type: seemingly_open
+    variables: [J3a]
+  dataset10:
+    topic: "Знание политика: Джон Робертс"
+    question_type: seemingly_open
+    variables: [J3d]

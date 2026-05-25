@@ -1,0 +1,81 @@
+model: gigachat
+
+split:
+  test_size: 0.30
+  random_state: 42
+
+dataset_context:
+  dataset1:
+    questions:
+      - "WHY do you think Barack Obama won the Presidential election?"
+      - "WHY do you think John McCain lost the Presidential election?"
+  dataset2:
+    questions:
+      - "WHY do you think Barack Obama won the Democratic nomination?"
+      - "WHY do you think Hillary Clinton lost the Democratic nomination?"
+  dataset3:
+    questions:
+      - "Is there anything in particular that you LIKE about the DEMOCRATIC PARTY?"
+      - "C1d: Is there anything in particular that you DON'T LIKE about the DEMOCRATIC PARTY?"
+      - "C2b: Is there anything in particular that you LIKE about the REPUBLICAN PARTY?"
+      - "C2d: Is there anything in particular that you DON'T LIKE about the REPUBLICAN PARTY?"
+  dataset4:
+    questions:
+      - "Is there anything in particular about BARACK OBAMA that might make you want to vote for HIM?"
+      - "Is there anything in particular about BARACK OBAMA that might make you want to vote against HIM?"
+      - "Is there anything in particular about JOHN MCCAIN that might make you want to vote for HIM?"
+      - "Is there anything in particular about JOHN MCCAIN that might make you want to vote against HIM?"
+  dataset5:
+    questions:
+      - "As you know, on September 11th 2001, a group of terrorists took control of several U.S. commercial airplanes and crashed them into the World Trade Center in New York and the Pentagon in Washington. What do you think the terrorists were trying to accomplish by their actions?"
+  dataset6:
+    questions:
+      - "What do you think is the most important political problem facing the United States today?"
+      - "What do you think is the second most important political problem facing the United States today?"
+      - "What has been the most important issue to you personally in this election?"
+      - "What has been the second most important issue to you personally in this election?"
+  dataset7:
+    questions:
+      - "Now we have a set of questions concerning various public figures. We want to see how much information about them gets out to the public from television, newspapers and the like. GORDON BROWN. What job or political office does he NOW hold?"
+  dataset8:
+    questions:
+      - "Now we have a set of questions concerning various public figures. We want to see how much information about them gets out to the public from television, newspapers and the like. DICK CHENEY. What job or political office does he NOW hold?"
+  dataset9:
+    questions:
+      - "Now we have a set of questions concerning various public figures. We want to see how much information about them gets out to the public from television, newspapers and the like. The first name is NANCY PELOSI. What job or political office does she NOW hold?"
+  dataset10:
+    questions:
+      - "Now we have a set of questions concerning various public figures. We want to see how much information about them gets out to the public from television, newspapers and the like. JOHN ROBERTS. What job or political office does he NOW hold?"
+
+codebooks:
+  dataset1: config/codebooks/dataset1.yaml
+  dataset2: config/codebooks/dataset2.yaml
+  dataset3: config/codebooks/dataset3.yaml
+  dataset4: config/codebooks/dataset4.yaml
+  dataset5: config/codebooks/dataset5.yaml
+  dataset6: config/codebooks/dataset6.yaml
+  dataset7: config/codebooks/dataset7.yaml
+  dataset8: config/codebooks/dataset8.yaml
+  dataset9: config/codebooks/dataset9.yaml
+  dataset10: config/codebooks/dataset10.yaml
+
+gigachat:
+  auth_url: "https://ngw.devices.sberbank.ru:9443/api/v2/oauth"
+  chat_url: "https://gigachat.devices.sberbank.ru/api/v1/chat/completions"
+  request_timeout: 120
+  connect_timeout: 30
+  read_timeout: 180
+  use_env_proxies: false
+  temperature: 0.0
+  max_tokens: 1800
+
+inference:
+  batch_size: 50
+  retrieval_k: 10
+  icl_examples: 100
+  max_batch_attempts: 3
+  retry_sleep_seconds: 2.0
+  modes:
+    - zero_shot_codebook
+    - retrieval_few_shot_codebook
+    - in_context_100_codebook

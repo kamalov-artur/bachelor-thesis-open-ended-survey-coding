@@ -1,0 +1,22 @@
+dataset: dataset7
+title: 2008 POLITICAL KNOWLEDGE OFFICE REGOGNITION MASTER CODES
+questions: []
+notes:
+- Gordon Brown Office Recognition Codes (BROWN_Code1 to BROWN_Code5)
+codes:
+  '1': 'Prime Minister of the United Kingdom: Prime Minister of the United Kingdom; Prime Minister of the UK; Prime Minister of England; Prime Minister of Great Britain; British Prime Minister'
+  '2': 'Prime Minister of Parliament: Prime Minister of Parliament;'
+  '3': 'Prime Minister (Other): Prime Minister of something other than the United Kingdom, UK, England, Great Britain, and Parliament'
+  '4': 'Prime Minister: Prime Minister'
+  '11': 'Head of The United Kingdom: Head, Leader, Chief, Chair, Chancellor, or President of the United Kingdom; Head, Leader, Chief, Chair, Chancellor, or President of the UK; Head, Leader, Chief, Chair, Chancellor, or President of England; Head, Leader, Chief, Chair, Chancellor, or President Great Britain'
+  '12': 'Head of the Parliament: Head, Leader, Chief, Chair, Chancellor, or President of Parliament;'
+  '13': 'Head of the majority party: Head, Leader, Chief, Chair, Chancellor, or President of the majority party;'
+  '14': 'In Parliament: In Parliament; Member of Parliament'
+  '21': 'Leadership activity: Runs the government of the United Kingdom; Runs the government of the UK; Runs the government of England; Runs the government of Great Britain; Runs the British government; Forms the government of the United Kingdom; Forms the government of the UK; Forms the government of England; Forms the government of Great Britain; Forms the British government; Leads the majority party; Answers questions from politicians; Dissolves parliament; Runs Parliament; Dissolves political ministries; Calls for elections; Talks with the queen; Writes speeches for the queen; Lives at 10 Downing Street; Appoints people to the cabinet; Appoints people to government offices; Asks politicians to resign; Talks with leaders of other countries; Decides domestic policy; Decides foreign policy; Decides financial policy; Makes people Barons; Makes people Hereditary Peers; Makes people Life Peers; Makes people Lords'
+  '23': 'Activity (Other): Any activity that does not match a Leadership Activity listed above'
+  '24': 'Brown (Other): Any statement about Gordon Brown that does not match a code listed above'
+  '95': 'Don’t know: I don’t know; Don’t know; DK; I’m unsure; I’m not sure; Unsure; You got me; I can’t remember; I have no clue; No clue; I have no idea; No idea'
+  '96': 'Refuse: I refuse to answer; I do not want to guess; I refuse; Refuse; RF; REF; Next question; Pass'
+  '97': 'Respondent (Other): Any statement about the respondent that does not match the “Don’t know” and “Refuse” codes'
+  '98': 'NO UNIQUE CODE: The answer has no additional unique codes'
+  '99': 'NA: Not answered; The answer recorded by the interviewer is uninterpretable'

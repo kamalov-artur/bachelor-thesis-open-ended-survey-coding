@@ -1,0 +1,38 @@
+family: classic_ml
+baseline: logistic_regression
+
+tfidf:
+  lowercase: true
+  min_df: 2
+  max_df: 0.95
+  max_features: 30000
+  word_ngram_range: [1, 2]
+  char_ngram_range: [3, 5]
+
+models:
+  logistic_regression:
+    enabled: true
+    feature_view: word_tfidf
+    C: 2.0
+    max_iter: 2000
+  svm:
+    enabled: true
+    feature_view: word_tfidf
+    C: 1.0
+  naive_bayes:
+    enabled: true
+    feature_view: word_tfidf
+    alpha: 0.5
+  random_forest:
+    enabled: true
+    feature_view: svd_tfidf
+    svd_components: 100
+    n_estimators: 400
+    max_depth: null
+  gradient_boosting:
+    enabled: true
+    feature_view: svd_tfidf
+    svd_components: 200
+    n_estimators: 50
+    learning_rate: 0.05
+    max_depth: 3

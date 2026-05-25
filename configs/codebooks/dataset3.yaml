@@ -1,0 +1,38 @@
+dataset: dataset3
+title: 2008 PARTY LIKES AND DISLIKES MASTER CODES
+questions: []
+notes:
+- Dislikes about the Republican Party (REPDL_Code1 to REPDL_Code13)
+- Likes about the Republican Party (REPLI_Code1 to REPLI_Code13)
+- Dislikes about the Democratic Party (DEMDL_Code1 to DEMDL_Code13)
+- Likes about the Democratic Party (DEMLI_Code1 to DEMLI_Code13)
+codes:
+  '1': 'General: The party, The Republicans, the Republican, the Republican Party, Good party, bad party, better party, worse party, likeable, not likeable'
+  '3': 'Other party: FOR REPUBLICAN PARTY LIKES AND DISLIKES: Any mention of a political party other than the Republican Party FOR DECOMCRATIC PARTY LIKES AND DISLIKES: Any mention of a political party other than the Democratic Party'
+  '4': 'Specific Person: A specific person'
+  '5': 'Ideology/Philosophy: Conservative, liberal, socialist, Marxist, communist, fascist, libertarian'
+  '6': 'Electability: They can win, They cannot win'
+  '10': 'Scandal/Cover-up: The party was involved in a scandal or cover-up, people in the party were involved in a scandal or cover-up, a person in the party was involved in a scandal or cover-up'
+  '11': 'Campaign: The party’s campaign tactics, how the party campaigns, the party’s primary, the party’s caucuses, the party’s convention'
+  '12': 'Other past activity: Any mention of something the party did in the past that does not match another code'
+  '13': 'Ability: The party’s ability to accomplish a task, get the job done, or get a job done'
+  '14': 'Honesty: The party’s honesty, integrity, consistency, predictability, sincerity, truthfulness'
+  '15': 'Intelligence: The party’s intelligence, the intelligence of people in the party'
+  '16': 'Leadership: The party’s ability to lead, get people to work together, make people want to follow, inspire people, inspire the respondent, motivate people, motivate the respondent'
+  '18': 'Management: The party’s management skills, the country does better when the party is in charge, the country does worse when the party is in charge'
+  '20': 'Religion: People in the party do, or do not, belong to a specific religious group. The party is religious or not religious'
+  '21': 'Education: The education of people in the party, where people in the party go to school or college, where people in the party went to school or college, the type of education people in the party received'
+  '22': 'Physical Appearance: The physical appearance, attractiveness, or looks of people in the party'
+  '23': 'Demographics: The age, sex, sexual orientation, race, ethnicity, height, weight, or marital status of people in the party; where people in the party are from'
+  '24': 'Policy-Economic: What the party will do about the economy, taxes, government spending, the budget, the deficit, the national debt. The party’s policy, stand, views, position, or emphasis on the economy, taxes, government spending, the budget, the deficit, the national debt.'
+  '25': 'Policy-Poor people: What the party will do about government programs to help poor people. The party’s policy, stand, views, position, or emphasis on government programs to help poor people. NOTE: This code is only assigned to ideas that mention helping poor people or government programs to help poor people. Examples of government programs to help poor people include: welfare, food stamps, Medicaid, Aid for Families with Dependent Children (AFDC), and public housing. Any idea that mentions how much the party cares about poor people is assigned code 31 Groups.'
+  '26': 'Policy-Liberty: What the party will allow people to do, prevent people from doing, or make legal or illegal. The party’s policy, stand, views, position, or emphasis on what people should be allowed or prevented from doing, or what should activities should be legal or illegal.'
+  '27': 'Policy-Enemy countries: How the party will deal with enemies of the U.S., war, sanctions. The party’s policy, stand, views, position, or emphasis on enemies of the U.S., war, sanctions.'
+  '28': 'Policy-Friendly countries: How the party will deal with friends of the U.S., allies, cooperation with other countries. The party’s policy, stand, views, position, or emphasis on friends of the U.S., allies, or cooperation with other countries.'
+  '29': 'Policy – General foreign policy: How the party will deal with other countries in general, foreign policy in general, the reputation of the United States. The party’s policy, stand, views, position, or emphasis on other countries in general, foreign policy in general, the reputation of the United States.'
+  '30': 'Policy-Other: What the party will do about something that does not match a description in codes 24-29. The party’s policy, stand, views, position, or emphasis on something that does not match a description in codes 24-29.'
+  '31': 'Groups: The party’s support for, or feelings about, a specific group of people'
+  '32': 'Emotions/Feelings: The party makes the respondent feel happy, sad, angry, proud, afraid, scared'
+  '44': 'Party-Other: Any mention of something about the party that does not match another code'
+  '45': 'Non-Party: Any mention of something other than the party and that is not about the respondent'
+  '46': 'Party membership: I’m a member of the party, I’m not a member of the party'

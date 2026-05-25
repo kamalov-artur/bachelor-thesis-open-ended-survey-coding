@@ -1,0 +1,14 @@
+dataset: dataset8
+title: Dick Cheney Office Recognition Codes (CHENEY_Code1 to CHENEY_Code5)
+questions: []
+notes: []
+codes:
+  '1': 'Vice President of the United States: Vice President of the United States; Vice President of the US'
+  '3': 'Vice President (Other): Vice President of something other than the United States'
+  '4': 'Vice President: Vice President'
+  '11': 'President of the Senate: President of the Senate'
+  '12': 'President of the Congress: President of Congress; President of the Legislature; President of the Legislative branch; Head, Leader, Chief, Chair, Chancellor, or President of Legislators'
+  '21': 'Leadership activity: Advises the President; Presides over the Senate; Breaks ties in the Senate; Balances the Presidential ticket; Tries to get the President elected'
+  '22': 'First in line: First in line to be President; Next in line to be President; In line to be President; NOTE: “Second in line to be President” coded as 24 Cheney (Other)'
+  '23': 'Activity (Other): Any activity that does not match a Leadership Activity listed above'
+  '24': 'Cheney (Other): Any statement about Dick Cheney that does not match a category listed above'

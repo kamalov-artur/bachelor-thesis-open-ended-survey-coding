@@ -1,0 +1,17 @@
+dataset: dataset9
+title: Nancy Pelosi Office Recognition Codes (PELOSI_Code1 to PELOSI_Code5)
+questions: []
+notes: []
+codes:
+  '1': 'Speaker of the House: Speaker of the House of Representatives; Speaker of the House; Speaker of the Representatives; Presiding Officer of the House of Representatives; Presiding Officer of the House; Presiding Officer of the Representatives'
+  '2': 'Speaker of the Congress: Speaker of the Congress; Speaker of the Legislature; Speaker of the Legislative branch; Speaker of Legislators'
+  '3': 'Speaker (Other): Speaker of something other than the House of Representatives, House, Representatives, Congress, Legislature, Legislative branch, and Legislators'
+  '4': 'Speaker: Speaker'
+  '11': 'Head of the House of Representatives: Head, Leader, Majority leader, Chief, Chair, Chancellor, or President of the House of Representatives; Head, Leader, Majority leader, Chief, Chair, Chancellor, or President of the House; Head, Leader, Majority leader, Chief, Chair, Chancellor, or President of the Representatives'
+  '12': 'Head of the Congress: Head, Leader, Majority leader, Chief, Chair, Chancellor, or President of the Congress; Head, Leader, Majority leader, Chief, Chair, Chancellor, or President of the Legislature; Head, Leader, Majority leader, Chief, Chair, Chancellor, or President of the Legislative branch,; Head, Leader, Majority leader, Chief, Chair, Chancellor, or President of Legislators'
+  '15': 'Head of the Democrats: Head, Leader, Majority leader, Chief, Chair, Chancellor, or President of the Democrats; Head, Leader, Majority leader, Chief, Chair, Chancellor, or President of the Democratic party'
+  '16': 'Congressperson: In Congress; Member of Congress; Congressman; Congresswoman; Congress person; Representative; Member of the House of Representatives; Member of the House; Legislator; Member of the legislature; NOTE: see FAQ 2 - SENATOR or SENATE should be assigned code 12 Pelosi (other)'
+  '21': 'Leadership activity: Runs the House of Representatives; Decides the rules for the House of Representatives; Runs meetings in the House of Representatives; Talks first during meetings; Decides who gets to talk during meetings in the House of Representatives; Decides how long politicians can talk during meetings; Runs Committees; Decides who will run a committee; Decides which politicians will be part of a committee; Decides which committee will look at a bill; Decides the bills on which the House of Representatives will vote; Helps decide how Democrats'' should vote on a bill; Tries to get politicians to vote a certain way; Breaks ties in the House of Representatives; Talks for the House of Representatives; Talks to the President; Tries to make the President''s, Senate''s, and House of Representatives'' policies the same'
+  '22': 'Second in line to be President: Second in line to be President; In line to be President; NOTE: “Third in line to be President” coded as 24 Pelosi (Other)'
+  '23': 'Activity (Other): Any activity that does not match a Leadership Activity listed above; NOTE: see FAQ 3 for help with Activities'
+  '24': 'Pelosi (Other): Any statement about Nancy Pelosi that does not match a code listed above'

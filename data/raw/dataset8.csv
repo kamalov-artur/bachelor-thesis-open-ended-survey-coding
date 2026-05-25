@@ -1,0 +1,2095 @@
+caseID,verbatim,1,3,4,11,21,22,23,24,95,96,97
+1, DICK CHENEY IS VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+3, vice president ,0,0,1,0,0,0,0,0,0,0,0
+4, HE WORKED FOR GEORGE BUSH FOR SOMETHING ,0,0,0,0,0,0,1,1,0,0,0
+5, vice president ,0,0,1,0,0,0,0,0,0,0,0
+7, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+8, vice president ,0,0,1,0,0,0,0,0,0,0,0
+9, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+10, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+11, HE IS VICE PRESIDENT// ,0,0,1,0,0,0,0,0,0,0,0
+12, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+13, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+14, vice president ,0,0,1,0,0,0,0,0,0,0,0
+15, I DON'T LIKE HIM// SKIP IT// ,0,0,0,0,0,0,0,0,0,1,1
+16, vice president ,0,0,1,0,0,0,0,0,0,0,0
+17, NO IDEA ,0,0,0,0,0,0,0,0,1,0,0
+18, don't know ,0,0,0,0,0,0,0,0,1,0,0
+19, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+20, vice president ,0,0,1,0,0,0,0,0,0,0,0
+21, i've heard his name// no ,0,0,0,0,0,0,0,0,0,1,1
+22, Senator ,0,0,0,0,0,0,0,1,0,0,0
+23, vice president ,0,0,1,0,0,0,0,0,0,0,0
+24," we're not into bush did not know what office he held, did hear of his name before ",0,0,0,0,0,0,0,0,1,0,1
+25, vice president// ,0,0,1,0,0,0,0,0,0,0,0
+27, no idea// ,0,0,0,0,0,0,0,0,1,0,0
+28, vice president// ,0,0,1,0,0,0,0,0,0,0,0
+29, vice president ,0,0,1,0,0,0,0,0,0,0,0
+30, vice president ,0,0,1,0,0,0,0,0,0,0,0
+31, vice president ,0,0,1,0,0,0,0,0,0,0,0
+32, vice president ,0,0,1,0,0,0,0,0,0,0,0
+33, vice president ,0,0,1,0,0,0,0,0,0,0,0
+34, vice president ,0,0,1,0,0,0,0,0,0,0,0
+35, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+36, don't know ,0,0,0,0,0,0,0,0,1,0,0
+37, vice president ,0,0,1,0,0,0,0,0,0,0,0
+38, vice president ,0,0,1,0,0,0,0,0,0,0,0
+39, vice president ,0,0,1,0,0,0,0,0,0,0,0
+40, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+41, I don't know ,0,0,0,0,0,0,0,0,1,0,0
+42, democrat ,0,0,0,0,0,0,0,1,0,0,0
+43, congressman ,0,0,0,0,0,0,0,1,0,0,0
+44, vice president ,0,0,1,0,0,0,0,0,0,0,0
+45, Vice president ,0,0,1,0,0,0,0,0,0,0,0
+46, vice president ,0,0,1,0,0,0,0,0,0,0,0
+47, vice president ,0,0,1,0,0,0,0,0,0,0,0
+48, vice president ,0,0,1,0,0,0,0,0,0,0,0
+49, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+50, vice president ,0,0,1,0,0,0,0,0,0,0,0
+51, vice president ,0,0,1,0,0,0,0,0,0,0,0
+52, vice president ,0,0,1,0,0,0,0,0,0,0,0
+54, vice president ,0,0,1,0,0,0,0,0,0,0,0
+55, vice president ,0,0,1,0,0,0,0,0,0,0,0
+56, vice president ,0,0,1,0,0,0,0,0,0,0,0
+57, congress ,0,0,0,0,0,0,0,1,0,0,0
+59, don't know ,0,0,0,0,0,0,0,0,1,0,0
+60, vice president ,0,0,1,0,0,0,0,0,0,0,0
+61, vice president ,0,0,1,0,0,0,0,0,0,0,0
+62, vice bpresident ,0,0,1,0,0,0,0,0,0,0,0
+63, vice president ,0,0,1,0,0,0,0,0,0,0,0
+64, Senator ,0,0,0,0,0,0,0,1,0,0,0
+65, vice president ,0,0,1,0,0,0,0,0,0,0,0
+66, vice president ,0,0,1,0,0,0,0,0,0,0,0
+67, vice president ,0,0,1,0,0,0,0,0,0,0,0
+68, vice president ,0,0,1,0,0,0,0,0,0,0,0
+69, vice president ,0,0,1,0,0,0,0,0,0,0,0
+71, vice president ,0,0,1,0,0,0,0,0,0,0,0
+72, vice president ,0,0,1,0,0,0,0,0,0,0,0
+73, i don't know what to guess ,0,0,0,0,0,0,0,0,1,0,0
+74, i just can't remember today ,0,0,0,0,0,0,0,0,1,0,0
+75, vice president ,0,0,1,0,0,0,0,0,0,0,0
+76, vice president ,0,0,1,0,0,0,0,0,0,0,0
+77, vice president ,0,0,1,0,0,0,0,0,0,0,0
+78, vice president ,0,0,1,0,0,0,0,0,0,0,0
+79, senator ,0,0,0,0,0,0,0,1,0,0,0
+80, vice president ,0,0,1,0,0,0,0,0,0,0,0
+81, vice president ,0,0,1,0,0,0,0,0,0,0,0
+82, vice president ,0,0,1,0,0,0,0,0,0,0,0
+83," forgot what he's done, foreign affairs  ",0,0,0,0,0,0,0,1,1,0,0
+85, vice president ,0,0,1,0,0,0,0,0,0,0,0
+86, somewhere in the congress dk what he does ,0,0,0,0,0,0,0,1,1,0,0
+87, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+88, secty of defense ,0,0,0,0,0,0,0,1,0,0,0
+89, FOREIGN POLICY ,0,0,0,0,0,0,0,1,0,0,0
+90, I know the name but I dk//dk ,0,0,0,0,0,0,0,0,1,0,1
+92, vice president  ,0,0,1,0,0,0,0,0,0,0,0
+93, vice president ,0,0,1,0,0,0,0,0,0,0,0
+94, dk//dk ,0,0,0,0,0,0,0,0,1,0,0
+95, governor ,0,0,0,0,0,0,0,1,0,0,0
+96, something in the government ,0,0,0,0,0,0,0,1,0,0,0
+98, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+99, vice president ,0,0,1,0,0,0,0,0,0,0,0
+101, vice president ,0,0,1,0,0,0,0,0,0,0,0
+103, I don't know ,0,0,0,0,0,0,0,0,1,0,0
+104, vice president ,0,0,1,0,0,0,0,0,0,0,0
+105, <RF> ,0,0,0,0,0,0,0,0,0,1,0
+106, vice president ,0,0,1,0,0,0,0,0,0,0,0
+107, vice president ,0,0,1,0,0,0,0,0,0,0,0
+108, vice president ,0,0,1,0,0,0,0,0,0,0,0
+109, /vice president/ ,0,0,1,0,0,0,0,0,0,0,0
+110, vice president ,0,0,1,0,0,0,0,0,0,0,0
+111, congress man ,0,0,0,0,0,0,0,1,0,0,0
+112, republican ,0,0,0,0,0,0,0,1,0,0,0
+113, white house-/congress/ ,0,0,0,0,0,0,0,1,0,0,0
+114, /representative/ ,0,0,0,0,0,0,0,1,0,0,0
+115, //R has no idea at all// ,0,0,0,0,0,0,0,0,1,0,0
+116, vice president ,0,0,1,0,0,0,0,0,0,0,0
+117, vice president ,0,0,1,0,0,0,0,0,0,0,0
+118, vice president ,0,0,1,0,0,0,0,0,0,0,0
+119, vice president ,0,0,1,0,0,0,0,0,0,0,0
+120, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+121, vice prsident ,0,0,1,0,0,0,0,0,0,0,0
+122, vice president ,0,0,1,0,0,0,0,0,0,0,0
+123, vp? ,0,0,1,0,0,0,0,0,0,0,0
+124, vice president ,0,0,1,0,0,0,0,0,0,0,0
+125, vice president ,0,0,1,0,0,0,0,0,0,0,0
+126, vice president ,0,0,1,0,0,0,0,0,0,0,0
+127, vice president ,0,0,1,0,0,0,0,0,0,0,0
+128, senator ,0,0,0,0,0,0,0,1,0,0,0
+129, vice president ,0,0,1,0,0,0,0,0,0,0,0
+130, vice president ,0,0,1,0,0,0,0,0,0,0,0
+131, vice president ,0,0,1,0,0,0,0,0,0,0,0
+132, vice president ,0,0,1,0,0,0,0,0,0,0,0
+133, vice president ,0,0,1,0,0,0,0,0,0,0,0
+134, vice president ,0,0,1,0,0,0,0,0,0,0,0
+135, vice president ,0,0,1,0,0,0,0,0,0,0,0
+137, vice president ,0,0,1,0,0,0,0,0,0,0,0
+138, vice president ,0,0,1,0,0,0,0,0,0,0,0
+139, vice president ,0,0,1,0,0,0,0,0,0,0,0
+141, vice president ,0,0,1,0,0,0,0,0,0,0,0
+144, vice president ,0,0,1,0,0,0,0,0,0,0,0
+145, vice president ,0,0,1,0,0,0,0,0,0,0,0
+146, vice president ,0,0,1,0,0,0,0,0,0,0,0
+147, vice president ,0,0,1,0,0,0,0,0,0,0,0
+148, vice president ,0,0,1,0,0,0,0,0,0,0,0
+149, senate ,0,0,0,0,0,0,0,1,0,0,0
+150, vice president ,0,0,1,0,0,0,0,0,0,0,0
+151, vice president ,0,0,1,0,0,0,0,0,0,0,0
+152, v president ,0,0,1,0,0,0,0,0,0,0,0
+153, vice president ,0,0,1,0,0,0,0,0,0,0,0
+155, mayor ,0,0,0,0,0,0,0,1,0,0,0
+156, vice president ,0,0,1,0,0,0,0,0,0,0,0
+157, vice president ,0,0,1,0,0,0,0,0,0,0,0
+158, vice president ,0,0,1,0,0,0,0,0,0,0,0
+160, vise-president ,0,0,1,0,0,0,0,0,0,0,0
+161, don't know// ,0,0,0,0,0,0,0,0,1,0,0
+162, isn't he gop leader? ,0,0,0,0,0,0,0,1,0,0,0
+163, dont know ,0,0,0,0,0,0,0,0,1,0,0
+164, don't know ,0,0,0,0,0,0,0,0,1,0,0
+165, vice president ,0,0,1,0,0,0,0,0,0,0,0
+166, vice president ,0,0,1,0,0,0,0,0,0,0,0
+167," he's behind the president some where, somewhere in the congree i think ",0,0,0,0,0,0,0,1,0,0,1
+168, dk ,0,0,0,0,0,0,0,0,1,0,0
+169, dk ,0,0,0,0,0,0,0,0,1,0,0
+170, dk ,0,0,0,0,0,0,0,0,1,0,0
+171, senator ,0,0,0,0,0,0,0,1,0,0,0
+172, don't know ,0,0,0,0,0,0,0,0,1,0,0
+173, dk ,0,0,0,0,0,0,0,0,1,0,0
+174, vice president ,0,0,1,0,0,0,0,0,0,0,0
+175," vice president, republican ",0,0,1,0,0,0,0,1,0,0,0
+176, vice president ,0,0,1,0,0,0,0,0,0,0,0
+177, vice president ,0,0,1,0,0,0,0,0,0,0,0
+178, vice president ,0,0,1,0,0,0,0,0,0,0,0
+179, vice president ,0,0,1,0,0,0,0,0,0,0,0
+180, vice president ,0,0,1,0,0,0,0,0,0,0,0
+181, vice president ,0,0,1,0,0,0,0,0,0,0,0
+182, vice president ,0,0,1,0,0,0,0,0,0,0,0
+183," vice president,(darth vader?) ",0,0,1,0,0,0,0,1,0,0,0
+184, i don't know//isn't he like vice president or something? ,0,0,1,0,0,0,0,1,1,0,0
+185, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+186," i think he , omy goodness, vice president i think, i'm embarrassed ",0,0,1,0,0,0,0,0,0,0,1
+187, i don't know// don't know ,0,0,0,0,0,0,0,0,1,0,0
+188, vice president ,0,0,1,0,0,0,0,0,0,0,0
+189, vice prcident ,0,0,1,0,0,0,0,0,0,0,0
+190," don't know exactly, something in the govt, dont' know exactly//don't know ",0,0,0,0,0,0,0,1,1,0,0
+192, vice president ,0,0,1,0,0,0,0,0,0,0,0
+193, vice president ,0,0,1,0,0,0,0,0,0,0,0
+194, representative ,0,0,0,0,0,0,0,1,0,0,0
+195, vice president ,0,0,1,0,0,0,0,0,0,0,0
+196, vice precident ,0,0,1,0,0,0,0,0,0,0,0
+197, political office ,0,0,0,0,0,0,0,1,0,0,0
+198, vice president ,0,0,1,0,0,0,0,0,0,0,0
+199, vice president ,0,0,1,0,0,0,0,0,0,0,0
+200, Vice President of US ,1,0,0,0,0,0,0,0,0,0,0
+201, republican//democratic ,0,0,0,0,0,0,0,1,0,0,0
+202, vie president ,0,0,1,0,0,0,0,0,0,0,0
+203, absentee vice president ,0,0,1,0,0,0,0,1,0,0,0
+204, vice president of republican party ,0,1,0,0,0,0,0,0,0,0,0
+205, vice president ,0,0,1,0,0,0,0,0,0,0,0
+206, d/k//no ,0,0,0,0,0,0,0,0,1,1,0
+207, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+208, vice president ,0,0,1,0,0,0,0,0,0,0,0
+209, vice president ,0,0,1,0,0,0,0,0,0,0,0
+210, vice president ,0,0,1,0,0,0,0,0,0,0,0
+211, vice president ,0,0,1,0,0,0,0,0,0,0,0
+213, dont know ,0,0,0,0,0,0,0,0,1,0,0
+214, don't know//nothing ,0,0,0,0,0,0,0,0,1,1,0
+215, encharge of department of arms militars// ,0,0,0,0,0,0,0,1,0,0,0
+216, dont know ,0,0,0,0,0,0,0,0,1,0,0
+218, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+219, i don't know//representative ,0,0,0,0,0,0,0,1,1,0,0
+220, dk//dk// I think Congress// dk ,0,0,0,0,0,0,0,1,1,0,1
+221, no ideal ,0,0,0,0,0,0,0,0,1,0,0
+222, VICE PRESIDENT// ,0,0,1,0,0,0,0,0,0,0,0
+223, i think dick cheney is vice president with bush ,0,0,1,0,0,0,0,0,0,0,1
+225, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+226, dk//the miltary ,0,0,0,0,0,0,0,1,1,0,0
+228, he is the vice president/ ,0,0,1,0,0,0,0,0,0,0,0
+229, d/k// ,0,0,0,0,0,0,0,0,1,0,0
+230, vice president ,0,0,1,0,0,0,0,0,0,0,0
+231, DK//NO ,0,0,0,0,0,0,0,0,1,1,0
+232, VICE PRESIDENT// ,0,0,1,0,0,0,0,0,0,0,0
+233, vice president ,0,0,1,0,0,0,0,0,0,0,0
+234, vice president ,0,0,1,0,0,0,0,0,0,0,0
+236, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+237, vice president ,0,0,1,0,0,0,0,0,0,0,0
+238, vice president ,0,0,1,0,0,0,0,0,0,0,0
+239, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+240, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+241, dk// vice President ,0,0,1,0,0,0,0,0,1,0,0
+242, vice President ,0,0,1,0,0,0,0,0,0,0,0
+243, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+245, sECRETARY OF dEFENSE ,0,0,0,0,0,0,0,1,0,0,0
+246, Vice President of US ,1,0,0,0,0,0,0,0,0,0,0
+247, Vice Presiedent ,0,0,1,0,0,0,0,0,0,0,0
+248, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+249, vICE pESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+250, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+252, republican ,0,0,0,0,0,0,0,1,0,0,0
+253, vice president us  ,1,0,0,0,0,0,0,0,0,0,0
+254, senater ,0,0,0,0,0,0,0,1,0,0,0
+255, vice president ,0,0,1,0,0,0,0,0,0,0,0
+256, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+257, vice president ,0,0,1,0,0,0,0,0,0,0,0
+258, vice president ,0,0,1,0,0,0,0,0,0,0,0
+259, vice president ,0,0,1,0,0,0,0,0,0,0,0
+260, NOT SURE NOT POSITIVE HEARD OF HIM ,0,0,0,0,0,0,0,0,1,0,1
+261, vice president ,0,0,1,0,0,0,0,0,0,0,0
+263, i cant remember that ,0,0,0,0,0,0,0,0,1,0,0
+264, republican ,0,0,0,0,0,0,0,1,0,0,0
+265, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+266, FOUR STAR ,0,0,0,0,0,0,0,1,0,0,0
+267, he is vice president ,0,0,1,0,0,0,0,0,0,0,0
+268, vice president ,0,0,1,0,0,0,0,0,0,0,0
+270, vice president ,0,0,1,0,0,0,0,0,0,0,0
+271, vice president ,0,0,1,0,0,0,0,0,0,0,0
+272, vice president ,0,0,1,0,0,0,0,0,0,0,0
+273, dont know h ,0,0,0,0,0,0,0,0,1,0,0
+274, vice president ,0,0,1,0,0,0,0,0,0,0,0
+275, vice president of the evil empire ,0,1,0,0,0,0,0,0,0,0,0
+276, vice president of the us ,1,0,0,0,0,0,0,0,0,0,0
+277, vice president ,0,0,1,0,0,0,0,0,0,0,0
+278, vice president ,0,0,1,0,0,0,0,0,0,0,0
+279, vice president currently of the united states ,1,0,0,0,0,0,0,0,0,0,0
+280, governor ,0,0,0,0,0,0,0,1,0,0,0
+281, vice president ,0,0,1,0,0,0,0,0,0,0,0
+282, vice president ,0,0,1,0,0,0,0,0,0,0,0
+283, vice president unfortunately ,0,0,1,0,0,0,0,0,0,0,1
+284, vice president ,0,0,1,0,0,0,0,0,0,0,0
+286, congress ,0,0,0,0,0,0,0,1,0,0,0
+287, vice president of the US ,1,0,0,0,0,0,0,0,0,0,0
+288, vice president ,0,0,1,0,0,0,0,0,0,0,0
+289, vice president ,0,0,1,0,0,0,0,0,0,0,0
+291, vice president ,0,0,1,0,0,0,0,0,0,0,0
+292, house of representatives ,0,0,0,0,0,0,0,1,0,0,0
+293, vice president ,0,0,1,0,0,0,0,0,0,0,0
+294, vice president ,0,0,1,0,0,0,0,0,0,0,0
+296, vice president ,0,0,1,0,0,0,0,0,0,0,0
+298, i don't know ,0,0,0,0,0,0,0,0,1,0,0
+299, vice president ,0,0,1,0,0,0,0,0,0,0,0
+300, secretary of state ,0,0,0,0,0,0,0,1,0,0,0
+301, vice president ,0,0,1,0,0,0,0,0,0,0,0
+302, vice president ,0,0,1,0,0,0,0,0,0,0,0
+303, vice president ,0,0,1,0,0,0,0,0,0,0,0
+304, vice president ,0,0,1,0,0,0,0,0,0,0,0
+305, vice president ,0,0,1,0,0,0,0,0,0,0,0
+306, vice president ,0,0,1,0,0,0,0,0,0,0,0
+307, I don't know. // no ,0,0,0,0,0,0,0,0,1,1,0
+308, I don't know ,0,0,0,0,0,0,0,0,1,0,0
+309, it's not vice president it's close to that ,0,0,1,0,0,0,0,1,0,0,0
+310, I heard this before but I can't remember ,0,0,0,0,0,0,0,0,1,0,1
+311, vice president ,0,0,1,0,0,0,0,0,0,0,0
+313, I don't know ,0,0,0,0,0,0,0,0,1,0,0
+315, vice president ,0,0,1,0,0,0,0,0,0,0,0
+316, vice president ,0,0,1,0,0,0,0,0,0,0,0
+317, vice president ,0,0,1,0,0,0,0,0,0,0,0
+318, vice president ,0,0,1,0,0,0,0,0,0,0,0
+320, vice president ,0,0,1,0,0,0,0,0,0,0,0
+321, i don't pay attention to none of those guys// I don't know ,0,0,0,0,0,0,0,0,1,0,1
+323," I am not sure, governor ",0,0,0,0,0,0,0,1,1,0,0
+324, vice president ,0,0,1,0,0,0,0,0,0,0,0
+325, vice president of the u.s. ,1,0,0,0,0,0,0,0,0,0,0
+326,     these questions make me what to research them//no ,0,0,0,0,0,0,0,0,0,1,1
+327, vice president ,0,0,1,0,0,0,0,0,0,0,0
+328, vice president ,0,0,1,0,0,0,0,0,0,0,0
+329, vice president ,0,0,1,0,0,0,0,0,0,0,0
+330, vice president ,0,0,1,0,0,0,0,0,0,0,0
+331, vice president ,0,0,1,0,0,0,0,0,0,0,0
+334, defense department something//no ,0,0,0,0,0,0,0,1,0,1,0
+335, secterary of state ,0,0,0,0,0,0,0,1,0,0,0
+336, vice president ,0,0,1,0,0,0,0,0,0,0,0
+337, vice president ,0,0,1,0,0,0,0,0,0,0,0
+338, vice president ,0,0,1,0,0,0,0,0,0,0,0
+339, vice president ,0,0,1,0,0,0,0,0,0,0,0
+341, vice president-second in command ,0,0,1,0,0,1,0,0,0,0,0
+342, vice president ,0,0,1,0,0,0,0,0,0,0,0
+343, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+344, vice president ,0,0,1,0,0,0,0,0,0,0,0
+345, vice president ,0,0,1,0,0,0,0,0,0,0,0
+346, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+347, vice president ,0,0,1,0,0,0,0,0,0,0,0
+348," not sure, not positive,//don't know ",0,0,0,0,0,0,0,0,1,0,0
+349, none ,0,0,0,0,0,0,0,0,0,1,0
+350, in bush's party//vice president//no ,0,0,1,0,0,0,0,1,0,1,0
+351, republican ,0,0,0,0,0,0,0,1,0,0,0
+352, chancellor of foreign affairs ,0,0,0,0,0,0,0,1,0,0,0
+353, don't know//no ,0,0,0,0,0,0,0,0,1,1,0
+354, vp ,0,0,1,0,0,0,0,0,0,0,0
+355, vp ,0,0,1,0,0,0,0,0,0,0,0
+356, vice president ,0,0,1,0,0,0,0,0,0,0,0
+357, vp ,0,0,1,0,0,0,0,0,0,0,0
+358, vp ,0,0,1,0,0,0,0,0,0,0,0
+359, vp ,0,0,1,0,0,0,0,0,0,0,0
+360, vp ,0,0,1,0,0,0,0,0,0,0,0
+361, vp ,0,0,1,0,0,0,0,0,0,0,0
+362, vp ,0,0,1,0,0,0,0,0,0,0,0
+363, vp ,0,0,1,0,0,0,0,0,0,0,0
+364, dept defense ,0,0,0,0,0,0,0,1,0,0,0
+365, vp ,0,0,1,0,0,0,0,0,0,0,0
+366, vp ,0,0,1,0,0,0,0,0,0,0,0
+367, vice president ,0,0,1,0,0,0,0,0,0,0,0
+368, vp ,0,0,1,0,0,0,0,0,0,0,0
+369, vp ,0,0,1,0,0,0,0,0,0,0,0
+370, vp ,0,0,1,0,0,0,0,0,0,0,0
+371, vice president ,0,0,1,0,0,0,0,0,0,0,0
+373, vice president ,0,0,1,0,0,0,0,0,0,0,0
+374, have no idea ,0,0,0,0,0,0,0,0,1,0,0
+375, vice president ,0,0,1,0,0,0,0,0,0,0,0
+376, vice president ,0,0,1,0,0,0,0,0,0,0,0
+377, vice president ,0,0,1,0,0,0,0,0,0,0,0
+378, vice president ,0,0,1,0,0,0,0,0,0,0,0
+379, senate ,0,0,0,0,0,0,0,1,0,0,0
+380, vice president ,0,0,1,0,0,0,0,0,0,0,0
+381, cabnet ,0,0,0,0,0,0,0,1,0,0,0
+382, vice president ,0,0,1,0,0,0,0,0,0,0,0
+383, vice president ,0,0,1,0,0,0,0,0,0,0,0
+386, vice president ,0,0,1,0,0,0,0,0,0,0,0
+387, no se ,0,0,0,0,0,0,0,0,1,0,0
+388, no idea ,0,0,0,0,0,0,0,0,1,0,0
+389, vicde president ,0,0,1,0,0,0,0,0,0,0,0
+390, vice president ,0,0,1,0,0,0,0,0,0,0,0
+391, republican dept of treasury ,0,0,0,0,0,0,0,1,0,0,0
+392, vice president ,0,0,1,0,0,0,0,0,0,0,0
+393, '//' governor no ,0,0,0,0,0,0,0,1,0,1,0
+394, vice president ,0,0,1,0,0,0,0,0,0,0,0
+395, vice president ,0,0,1,0,0,0,0,0,0,0,0
+396, councelman ,0,0,0,0,0,0,0,1,0,0,0
+398, vp ,0,0,1,0,0,0,0,0,0,0,0
+399, vp ,0,0,1,0,0,0,0,0,0,0,0
+400, vp ,0,0,1,0,0,0,0,0,0,0,0
+401, vp ,0,0,1,0,0,0,0,0,0,0,0
+402, senator ,0,0,0,0,0,0,0,1,0,0,0
+403, vp ,0,0,1,0,0,0,0,0,0,0,0
+404, vp ,0,0,1,0,0,0,0,0,0,0,0
+405, master vice president ,0,0,1,0,0,0,0,1,0,0,0
+406, vp ,0,0,1,0,0,0,0,0,0,0,0
+407, vp ,0,0,1,0,0,0,0,0,0,0,0
+408, vp ,0,0,1,0,0,0,0,0,0,0,0
+409, vp ,0,0,1,0,0,0,0,0,0,0,0
+410, don't know// no ,0,0,0,0,0,0,0,0,1,1,0
+411, vp ,0,0,1,0,0,0,0,0,0,0,0
+412, vp ,0,0,1,0,0,0,0,0,0,0,0
+413, vp ,0,0,1,0,0,0,0,0,0,0,0
+414, dk ,0,0,0,0,0,0,0,0,1,0,0
+415, congress? ,0,0,0,0,0,0,0,1,0,0,0
+416, dk ,0,0,0,0,0,0,0,0,1,0,0
+417, dk//dk ,0,0,0,0,0,0,0,0,1,0,0
+418, Vice president ,0,0,1,0,0,0,0,0,0,0,0
+420, vice president ,0,0,1,0,0,0,0,0,0,0,0
+421, vice presidnet ,0,0,1,0,0,0,0,0,0,0,0
+422, dont' know//rodeo clown ,0,0,0,0,0,0,0,1,1,0,0
+423, vice president ,0,0,1,0,0,0,0,0,0,0,0
+424, vice president ,0,0,1,0,0,0,0,0,0,0,0
+425, Vice president ,0,0,1,0,0,0,0,0,0,0,0
+426, vice president ,0,0,1,0,0,0,0,0,0,0,0
+427, vice presidnet ,0,0,1,0,0,0,0,0,0,0,0
+428, Vice president ,0,0,1,0,0,0,0,0,0,0,0
+429, vice president ,0,0,1,0,0,0,0,0,0,0,0
+430," dk//didn't he shoot somebody,  he's in the white house ",0,0,0,0,0,0,1,1,1,0,0
+431, vice president ,0,0,1,0,0,0,0,0,0,0,0
+432, vice president ,0,0,1,0,0,0,0,0,0,0,0
+433, mayor? ,0,0,0,0,0,0,0,1,0,0,0
+434," dont know he is.  I have heard his name, but dont know ",0,0,0,0,0,0,0,0,1,0,1
+435, vice president ,0,0,1,0,0,0,0,0,0,0,0
+436, dk//dk ,0,0,0,0,0,0,0,0,1,0,0
+437, vice president ,0,0,1,0,0,0,0,0,0,0,0
+438, vice president ,0,0,1,0,0,0,0,0,0,0,0
+439, dk//maybe a senaor ,0,0,0,0,0,0,0,1,1,0,0
+440, vice president ,0,0,1,0,0,0,0,0,0,0,0
+441, dk//dk ,0,0,0,0,0,0,0,0,1,0,0
+442, dont know who he is. ,0,0,0,0,0,0,0,0,1,0,0
+443, dk//dk ,0,0,0,0,0,0,0,0,1,0,0
+444, dk//dk ,0,0,0,0,0,0,0,0,1,0,0
+446, secretary of defense? ,0,0,0,0,0,0,0,1,0,0,0
+447, vice president ,0,0,1,0,0,0,0,0,0,0,0
+448," congress or foreign affairs of something, I DK ",0,0,0,0,0,0,0,1,1,0,0
+449, vice president ,0,0,1,0,0,0,0,0,0,0,0
+450, VP ,0,0,1,0,0,0,0,0,0,0,0
+451, vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+453, vice president ,0,0,1,0,0,0,0,0,0,0,0
+454, vice president ,0,0,1,0,0,0,0,0,0,0,0
+455, vice president ,0,0,1,0,0,0,0,0,0,0,0
+456, respondent has no clue ,0,0,0,0,0,0,0,0,1,0,0
+457, representative of conn state ,0,0,0,0,0,0,0,1,0,0,0
+458, vice president ,0,0,1,0,0,0,0,0,0,0,0
+459, //don't know//no ,0,0,0,0,0,0,0,0,1,1,0
+460, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+461, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+462, mayor\\no ,0,0,0,0,0,0,0,1,0,1,0
+463, respondent has no clue ,0,0,0,0,0,0,0,0,1,0,0
+464, vice president ,0,0,1,0,0,0,0,0,0,0,0
+466, congress ,0,0,0,0,0,0,0,1,0,0,0
+467, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+470, //i don't know. ,0,0,0,0,0,0,0,0,1,0,0
+471, congressman ,0,0,0,0,0,0,0,1,0,0,0
+472, vice president ,0,0,1,0,0,0,0,0,0,0,0
+473, vice president ,0,0,1,0,0,0,0,0,0,0,0
+475, vice president ,0,0,1,0,0,0,0,0,0,0,0
+476, vice president ,0,0,1,0,0,0,0,0,0,0,0
+477, //Congress ,0,0,0,0,0,0,0,1,0,0,0
+478, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+479, education ,0,0,0,0,0,0,0,1,0,0,0
+480, i think he's the president's adviser. ,0,0,0,0,1,0,0,0,0,0,1
+481, no guess ,0,0,0,0,0,0,0,0,1,0,0
+482, republican ,0,0,0,0,0,0,0,1,0,0,0
+483, vice president ,0,0,1,0,0,0,0,0,0,0,0
+484, next to bush ,0,0,0,0,0,0,0,1,0,0,0
+485, vice president ,0,0,1,0,0,0,0,0,0,0,0
+487, vice president ,0,0,1,0,0,0,0,0,0,0,0
+488, vice president ,0,0,1,0,0,0,0,0,0,0,0
+489, don't know ,0,0,0,0,0,0,0,0,1,0,0
+490, vice president ,0,0,1,0,0,0,0,0,0,0,0
+491, don't know ,0,0,0,0,0,0,0,0,1,0,0
+492, vice president ,0,0,1,0,0,0,0,0,0,0,0
+493, something to bush ,0,0,0,0,0,0,0,1,0,0,0
+494, i don't know ,0,0,0,0,0,0,0,0,1,0,0
+495, vice president ,0,0,1,0,0,0,0,0,0,0,0
+496," R does not know, even when prompted ",0,0,0,0,0,0,0,0,1,0,0
+497, vice president ,0,0,1,0,0,0,0,0,0,0,0
+498, is he a character??//R does not recognize name//no  ,0,0,0,0,0,0,0,0,1,1,0
+499,  DOES NOT RECOGNIZE EVEN AFTER PROBING ,0,0,0,0,0,0,0,0,1,0,0
+500, R doesn't know.  she recognizes name but doesn't know what he is or does ,0,0,0,0,0,0,0,0,1,0,1
+501, DEMOCRAT ,0,0,0,0,0,0,0,1,0,0,0
+502, doesn't know anything about him.  she is not familiar with him ,0,0,0,0,0,0,0,0,1,0,0
+503, vice president ,0,0,1,0,0,0,0,0,0,0,0
+504, R does not know - even after probing  ,0,0,0,0,0,0,0,0,1,0,0
+505, EX VICEPRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+506, republican vice-president ,0,0,1,0,0,0,0,1,0,0,0
+508, vice president ,0,0,1,0,0,0,0,0,0,0,0
+509, ohmigosh!//state representative//no ,0,0,0,0,0,0,0,1,0,1,1
+510, Reublican??? ,0,0,0,0,0,0,0,1,0,0,0
+511, does not know even after probing however his wife told him vice president ,0,0,1,0,0,0,0,0,1,0,1
+512, democratic party; senator from Delaware ,0,0,0,0,0,0,0,1,0,0,0
+513, is he the ....??//vice president??//no ,0,0,1,0,0,0,0,0,0,1,0
+514, vice president ,0,0,1,0,0,0,0,0,0,0,0
+515, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+516, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+517, VICE PRESIDENTS ,0,0,1,0,0,0,0,0,0,0,0
+518, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+519, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+520, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+521, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+522, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+523, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+524, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+525, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+526, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+528, vice president ,0,0,1,0,0,0,0,0,0,0,0
+529,  vice president ,0,0,1,0,0,0,0,0,0,0,0
+530, vice president ,0,0,1,0,0,0,0,0,0,0,0
+531, vice president ,0,0,1,0,0,0,0,0,0,0,0
+532, i don't know//i don't know ,0,0,0,0,0,0,0,0,1,0,0
+533, vice president ,0,0,1,0,0,0,0,0,0,0,0
+534, vice president ,0,0,1,0,0,0,0,0,0,0,0
+535, vice president ,0,0,1,0,0,0,0,0,0,0,0
+536, i dont know ,0,0,0,0,0,0,0,0,1,0,0
+537, dont kno/no ,0,0,0,0,0,0,0,0,1,1,0
+538, vice ,0,0,0,0,0,0,0,1,0,0,0
+539, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+540, vice president ,0,0,1,0,0,0,0,0,0,0,0
+541, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+543, i dont know/i dont know/no ,0,0,0,0,0,0,0,0,1,1,0
+544, sec of defles ,0,0,0,0,0,0,0,1,0,0,0
+545, vice president ,0,0,1,0,0,0,0,0,0,0,0
+546, i realy don't know any of there job ,0,0,0,0,0,0,0,0,1,0,0
+547, vice president ,0,0,1,0,0,0,0,0,0,0,0
+548, //congress ,0,0,0,0,0,0,0,1,0,0,0
+549, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+550, foreighn affairs ,0,0,0,0,0,0,0,1,0,0,0
+551, vice president ,0,0,1,0,0,0,0,0,0,0,0
+552, vice president ,0,0,1,0,0,0,0,0,0,0,0
+553, vice president ,0,0,1,0,0,0,0,0,0,0,0
+554, vice president ,0,0,1,0,0,0,0,0,0,0,0
+555, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+556," i have no clue, chamber of commerce, i dont know ",0,0,0,0,0,0,0,1,1,0,0
+557, vice president ,0,0,1,0,0,0,0,0,0,0,0
+558,  democrat/no ,0,0,0,0,0,0,0,1,0,1,0
+559, vice president ,0,0,1,0,0,0,0,0,0,0,0
+560, vice president ,0,0,1,0,0,0,0,0,0,0,0
+561, i dont know//no ,0,0,0,0,0,0,0,0,1,1,0
+562, i have no idea//i don'tknow ,0,0,0,0,0,0,0,0,1,0,0
+563, dont know//no ,0,0,0,0,0,0,0,0,1,1,0
+564, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+565, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+566, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+568,  leam up vice pres  ,0,0,1,0,0,0,0,1,0,0,0
+569, vice president ,0,0,1,0,0,0,0,0,0,0,0
+570, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+571, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+572, vice president ,0,0,1,0,0,0,0,0,0,0,0
+573, vice pres  ,0,0,1,0,0,0,0,0,0,0,0
+575, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+576, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+577, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+578, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+579, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+580, running for president ,0,0,0,0,0,0,1,0,0,0,0
+581, vice president ,0,0,1,0,0,0,0,0,0,0,0
+582, no ,0,0,0,0,0,0,0,0,0,1,0
+583,  vice president just remebered ,0,0,1,0,0,0,0,0,0,0,1
+584, know the name but cant place him ,0,0,0,0,0,0,0,0,1,0,1
+585, vice president ,0,0,1,0,0,0,0,0,0,0,0
+586, heard of it ,0,0,0,0,0,0,0,0,0,0,1
+587, vice president ,0,0,1,0,0,0,0,0,0,0,0
+588, dont know  ,0,0,0,0,0,0,0,0,1,0,0
+589, vice president ,0,0,1,0,0,0,0,0,0,0,0
+590, vice president ,0,0,1,0,0,0,0,0,0,0,0
+591, remember bthe name  ,0,0,0,0,0,0,0,0,0,0,1
+592, carrying the shells//na // vice president//na ,0,0,1,0,0,0,1,0,0,1,0
+593, vice president ,0,0,1,0,0,0,0,0,0,0,0
+595, i know who dick caney is dont know what office ,0,0,0,0,0,0,0,0,1,0,1
+596, vi ce president ,0,0,1,0,0,0,0,0,0,0,0
+597, secrtary of defense//na ,0,0,0,0,0,0,0,1,0,1,0
+598, vice president ,0,0,1,0,0,0,0,0,0,0,0
+599, vice president ,0,0,1,0,0,0,0,0,0,0,0
+600, vice president ,0,0,1,0,0,0,0,0,0,0,0
+602, vice president ,0,0,1,0,0,0,0,0,0,0,0
+603, vice president ,0,0,1,0,0,0,0,0,0,0,0
+604, don't know what his title is// vice president //na ,0,0,1,0,0,0,0,0,1,1,0
+605, vice president ,0,0,1,0,0,0,0,0,0,0,0
+606, vice president ,0,0,1,0,0,0,0,0,0,0,0
+607, dk// dk//na ,0,0,0,0,0,0,0,0,1,1,0
+608, vice president ,0,0,1,0,0,0,0,0,0,0,0
+609, vice president ,0,0,1,0,0,0,0,0,0,0,0
+611, vice president ,0,0,1,0,0,0,0,0,0,0,0
+613, vice president ,0,0,1,0,0,0,0,0,0,0,0
+614, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+615, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+616, vice president ,0,0,1,0,0,0,0,0,0,0,0
+617, vice president ,0,0,1,0,0,0,0,0,0,0,0
+618, dont rem ,0,0,0,0,0,0,0,0,1,0,0
+622, vice prs ,0,0,1,0,0,0,0,0,0,0,0
+623, don tknow ,0,0,0,0,0,0,0,0,1,0,0
+624, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+625, I DON'T KNOW ,0,0,0,0,0,0,0,0,1,0,0
+626, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+627, VICE PRESIDNET ,0,0,1,0,0,0,0,0,0,0,0
+629, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+630, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+631, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+632, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+633, NO CLUE//I HAVE NO CLUE AT ALL//STOP ,0,0,0,0,0,0,0,0,1,1,0
+634, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+636, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+637, DON'T KNOW//I DON'T KNOW ,0,0,0,0,0,0,0,0,1,0,0
+638, VICE PRESIDENT       ,0,0,1,0,0,0,0,0,0,0,0
+639, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+640, SENATOR ,0,0,0,0,0,0,0,1,0,0,0
+641, vp ,0,0,1,0,0,0,0,0,0,0,0
+642, vp ,0,0,1,0,0,0,0,0,0,0,0
+643, vice president ,0,0,1,0,0,0,0,0,0,0,0
+644, vp ,0,0,1,0,0,0,0,0,0,0,0
+645, vp ,0,0,1,0,0,0,0,0,0,0,0
+646, vp ,0,0,1,0,0,0,0,0,0,0,0
+648, vp ,0,0,1,0,0,0,0,0,0,0,0
+649, vp ,0,0,1,0,0,0,0,0,0,0,0
+650, vice president ,0,0,1,0,0,0,0,0,0,0,0
+651, vp ,0,0,1,0,0,0,0,0,0,0,0
+652, don't remember// didn't he run for president too/na ,0,0,0,0,0,0,1,0,1,1,0
+653, vp ,0,0,1,0,0,0,0,0,0,0,0
+654, representative ,0,0,0,0,0,0,0,1,0,0,0
+655, vp ,0,0,1,0,0,0,0,0,0,0,0
+656, vp ,0,0,1,0,0,0,0,0,0,0,0
+657, don't remember// haven't heard i mentioned in a while// no// na ,0,0,0,0,0,0,0,0,1,1,1
+658, vice president ,0,0,1,0,0,0,0,0,0,0,0
+659, defense ,0,0,0,0,0,0,0,1,0,0,0
+660, vp ,0,0,1,0,0,0,0,0,0,0,0
+661, senate office ,0,0,0,0,0,0,0,1,0,0,0
+662, vice president ,0,0,1,0,0,0,0,0,0,0,0
+664, vice president ,0,0,1,0,0,0,0,0,0,0,0
+666, vice president ,0,0,1,0,0,0,0,0,0,0,0
+667, vice president ,0,0,1,0,0,0,0,0,0,0,0
+668," he sits over congress nad votes if theirs a tie, vice president too ",0,0,1,0,1,0,0,0,0,0,0
+669, vice preident ,0,0,1,0,0,0,0,0,0,0,0
+670, in the senate ,0,0,0,0,0,0,0,1,0,0,0
+671, dont know ,0,0,0,0,0,0,0,0,1,0,0
+672, know the name ... ,0,0,0,0,0,0,0,0,0,0,1
+673, vice president ,0,0,1,0,0,0,0,0,0,0,0
+674, vice president ,0,0,1,0,0,0,0,0,0,0,0
+675, vice president ,0,0,1,0,0,0,0,0,0,0,0
+676, vice president ,0,0,1,0,0,0,0,0,0,0,0
+678, chair person of the senate ,0,0,0,0,1,0,0,0,0,0,0
+679, vp ,0,0,1,0,0,0,0,0,0,0,0
+680, vice president ,0,0,1,0,0,0,0,0,0,0,0
+681, vice president ,0,0,1,0,0,0,0,0,0,0,0
+682, vice president ,0,0,1,0,0,0,0,0,0,0,0
+683, vice president ,0,0,1,0,0,0,0,0,0,0,0
+684, vice president ,0,0,1,0,0,0,0,0,0,0,0
+685, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+686, vice president ,0,0,1,0,0,0,0,0,0,0,0
+688, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+689, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+690, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+691, The Vice President ,0,0,1,0,0,0,0,0,0,0,0
+692, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+693, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+694, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+695, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+696, Vice President going out ,0,0,1,0,0,0,0,0,0,0,0
+697, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+698, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+699, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+700, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+701, Advisor to President ,0,0,0,0,0,0,0,1,0,0,0
+702, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+703, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+704, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+705, vice president ,0,0,1,0,0,0,0,0,0,0,0
+706, vice president ,0,0,1,0,0,0,0,0,0,0,0
+707, senator ,0,0,0,0,0,0,0,1,0,0,0
+708, vice presidenth ,0,0,1,0,0,0,0,0,0,0,0
+709, government ,0,0,0,0,0,0,0,1,0,0,0
+710, vice president ,0,0,1,0,0,0,0,0,0,0,0
+711, senate ,0,0,0,0,0,0,0,1,0,0,0
+712, judge ,0,0,0,0,0,0,0,1,0,0,0
+713, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+714, vice senator ,0,0,0,0,0,0,0,1,0,0,0
+715, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+716, over the defense dept//NO ,0,0,0,0,0,0,0,1,0,1,0
+718, vice president ,0,0,1,0,0,0,0,0,0,0,0
+720, congressman ,0,0,0,0,0,0,0,1,0,0,0
+721, vice president ,0,0,1,0,0,0,0,0,0,0,0
+722, don't know ,0,0,0,0,0,0,0,0,1,0,0
+724, vice president ,0,0,1,0,0,0,0,0,0,0,0
+725, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+727, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+729, senate member ,0,0,0,0,0,0,0,1,0,0,0
+731, vice president ,0,0,1,0,0,0,0,0,0,0,0
+732, vice president ,0,0,1,0,0,0,0,0,0,0,0
+733, vice president ,0,0,1,0,0,0,0,0,0,0,0
+734, dk//no idea ,0,0,0,0,0,0,0,0,1,0,0
+735, vice president ,0,0,1,0,0,0,0,0,0,0,0
+736, aint' he the vice president? ,0,0,1,0,0,0,0,0,0,0,0
+738, vice president ,0,0,1,0,0,0,0,0,0,0,0
+739, vice president ,0,0,1,0,0,0,0,0,0,0,0
+740, vice president ,0,0,1,0,0,0,0,0,0,0,0
+741, vice president ,0,0,1,0,0,0,0,0,0,0,0
+742, he is vice presdient ,0,0,1,0,0,0,0,0,0,0,0
+743, vice president ,0,0,1,0,0,0,0,0,0,0,0
+744, vice president// ,0,0,1,0,0,0,0,0,0,0,0
+746, dk/ no idea ,0,0,0,0,0,0,0,0,1,0,0
+747, vice president ,0,0,1,0,0,0,0,0,0,0,0
+748, //vice president// ,0,0,1,0,0,0,0,0,0,0,0
+749, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+750, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+751, I don't know ,0,0,0,0,0,0,0,0,1,0,0
+752, vice Pres ,0,0,1,0,0,0,0,0,0,0,0
+753, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+754, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+756, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+757, oh my god Idon't  know // he is in the cabainet  ,0,0,0,0,0,0,0,1,1,0,0
+758, vice pres of the us ,1,0,0,0,0,0,0,0,0,0,0
+759, i don't know ,0,0,0,0,0,0,0,0,1,0,0
+760, vice president ,0,0,1,0,0,0,0,0,0,0,0
+761, oh that dude // he is the vice pres ,0,0,1,0,0,0,0,0,0,0,1
+762, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+763, i don't know//i'm trying to think // vice pres ,0,0,1,0,0,0,0,0,1,0,1
+764, STATE SENATOR ,0,0,0,0,0,0,0,1,0,0,0
+765, vice president ,0,0,1,0,0,0,0,0,0,0,0
+766, I can't remember//no ,0,0,0,0,0,0,0,0,1,1,0
+767, vice president.//no ,0,0,1,0,0,0,0,0,0,1,0
+768, vice president ,0,0,1,0,0,0,0,0,0,0,0
+769, vice president// ,0,0,1,0,0,0,0,0,0,0,0
+770, secretary of State ,0,0,0,0,0,0,0,1,0,0,0
+772, I know the name but don't know what he does ;is he state rep ,0,0,0,0,0,0,0,1,1,0,1
+774, vice president ,0,0,1,0,0,0,0,0,0,0,0
+775, republican vp ,0,0,1,0,0,0,0,1,0,0,0
+776, vice president// ,0,0,1,0,0,0,0,0,0,0,0
+777, don't know//don't know who ur talking about ,0,0,0,0,0,0,0,0,1,0,0
+778, FORGOT//i CAN'T THINK OF THAT ,0,0,0,0,0,0,0,0,1,0,0
+779, Don't know//DK ,0,0,0,0,0,0,0,0,1,0,0
+780, senator//vice president ,0,0,1,0,0,0,0,1,0,0,0
+781, vice president ,0,0,1,0,0,0,0,0,0,0,0
+782, vice president ,0,0,1,0,0,0,0,0,0,0,0
+783, over the army;the military ,0,0,0,0,0,0,0,1,0,0,0
+784, Vice president ,0,0,1,0,0,0,0,0,0,0,0
+785, I know the name but not office//can't think.Secretary of State ,0,0,0,0,0,0,0,1,1,0,1
+786, Vice president ,0,0,1,0,0,0,0,0,0,0,0
+787, republican vice president ,0,0,1,0,0,0,0,1,0,0,0
+788, Vice president ,0,0,1,0,0,0,0,0,0,0,0
+789, vice president ,0,0,1,0,0,0,0,0,0,0,0
+790, Don't know he stilol has a role . I know he's behind Bust & a Republican but I don't know what he does now. I think he's in the Senate ,0,0,0,0,0,0,0,1,1,0,1
+791, Secretary. What does he do??//Secretary of Defense ,0,0,0,0,0,0,0,1,0,0,0
+792, SUPPOSED TO BE VICE PRESIDENT BUT HE'S REALLY THE PRESIDENT ,0,0,1,0,0,0,0,1,0,0,0
+793, in the senate ,0,0,0,0,0,0,0,1,0,0,0
+795, Vice President.// ,0,0,1,0,0,0,0,0,0,0,0
+797, Don't know./Vice President of the United States.// ,1,0,0,0,0,0,0,0,1,0,0
+798," Can't think, don't know./I know the name, but can't think of the office right now.// ",0,0,0,0,0,0,0,0,1,0,1
+799," Don't know./I have no idea, but have heard his name a lot.// ",0,0,0,0,0,0,0,0,1,0,1
+800, I can't remember./no guesses.// ,0,0,0,0,0,0,0,0,1,0,0
+801, Vice President.// ,0,0,1,0,0,0,0,0,0,0,0
+802, Vice President.// ,0,0,1,0,0,0,0,0,0,0,0
+803, Butler.// ,0,0,0,0,0,0,0,1,0,0,0
+804," I don't know which office, but I've heard his name./No guess.// ",0,0,0,0,0,0,0,0,1,0,1
+805, Not sure./Republican Senator.// ,0,0,0,0,0,0,0,1,1,0,0
+806, Vice President of the United States.// ,1,0,0,0,0,0,0,0,0,0,0
+807, Vice President of the United States.// ,1,0,0,0,0,0,0,0,0,0,0
+808, vice presidwnt/ ,0,0,1,0,0,0,0,0,0,0,0
+809, Vice President of the United States.// ,1,0,0,0,0,0,0,0,0,0,0
+810, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+812, vice president ,0,0,1,0,0,0,0,0,0,0,0
+813, vice president ,0,0,1,0,0,0,0,0,0,0,0
+814, I don't know./I don't know.// ,0,0,0,0,0,0,0,0,1,0,0
+815, VICE PRESENDENT// ,0,0,1,0,0,0,0,0,0,0,0
+816, Congress// dont trust him/ ,0,0,0,0,0,0,0,1,0,0,1
+818, Vice President.// ,0,0,1,0,0,0,0,0,0,0,0
+819, vice president/ ,0,0,1,0,0,0,0,0,0,0,0
+821, vice presdent ,0,0,1,0,0,0,0,0,0,0,0
+822, Vice President of the United States.// ,1,0,0,0,0,0,0,0,0,0,0
+823, dont know maybe tresury/ ,0,0,0,0,0,0,0,1,1,0,0
+825, house of representatives ,0,0,0,0,0,0,0,1,0,0,0
+826, vice president ,0,0,1,0,0,0,0,0,0,0,0
+827, vice president ,0,0,1,0,0,0,0,0,0,0,0
+828, vice president ,0,0,1,0,0,0,0,0,0,0,0
+829, us senator ,0,0,0,0,0,0,0,1,0,0,0
+830, vice president ,0,0,1,0,0,0,0,0,0,0,0
+831, vice president ,0,0,1,0,0,0,0,0,0,0,0
+832, vice president ,0,0,1,0,0,0,0,0,0,0,0
+833, //DON'T KNOW// ,0,0,0,0,0,0,0,0,1,0,0
+834, //don't know//don't know ,0,0,0,0,0,0,0,0,1,0,0
+835, //don't know//don't know ,0,0,0,0,0,0,0,0,1,0,0
+836, military official ,0,0,0,0,0,0,0,1,0,0,0
+837, //don't know//not sure ,0,0,0,0,0,0,0,0,1,0,0
+838, senator ,0,0,0,0,0,0,0,1,0,0,0
+839, //don't know// ,0,0,0,0,0,0,0,0,1,0,0
+840, vice president ,0,0,1,0,0,0,0,0,0,0,0
+842, vice president ,0,0,1,0,0,0,0,0,0,0,0
+843, //don't know//not sure ,0,0,0,0,0,0,0,0,1,0,0
+844, vice president ,0,0,1,0,0,0,0,0,0,0,0
+845, vice president ,0,0,1,0,0,0,0,0,0,0,0
+846, vice president ,0,0,1,0,0,0,0,0,0,0,0
+847, Don't know./Vice President.// ,0,0,1,0,0,0,0,0,1,0,0
+848, Congress//House of Representatives//I don't know// ,0,0,0,0,0,0,0,1,1,0,0
+849, don't know// ,0,0,0,0,0,0,0,0,1,0,0
+850, republican ,0,0,0,0,0,0,0,1,0,0,0
+851, vice president ,0,0,1,0,0,0,0,0,0,0,0
+852, vice president ,0,0,1,0,0,0,0,0,0,0,0
+853, vice president ,0,0,1,0,0,0,0,0,0,0,0
+854, dont know know  ,0,0,0,0,0,0,0,0,1,0,0
+855, vice president ,0,0,1,0,0,0,0,0,0,0,0
+857, vice president ,0,0,1,0,0,0,0,0,0,0,0
+858, vice president ,0,0,1,0,0,0,0,0,0,0,0
+859, SENATOR//DON'T KNOW ,0,0,0,0,0,0,0,1,1,0,0
+861, vice president ,0,0,1,0,0,0,0,0,0,0,0
+862, advisor to president ,0,0,0,0,0,0,0,1,0,0,0
+863, vice presicent ,0,0,1,0,0,0,0,0,0,0,0
+864, vice president ,0,0,1,0,0,0,0,0,0,0,0
+865, VICE-PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+866, VICE-PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+867, VICE-PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+868, VICE-PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+869, VICE-PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+870, VICE-PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+871, VICE-PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+872, VICE-PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+873, VICE-PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+874," CONGRESSMAN//BUT I DON'T REALLY KNOW, IT IS A GUESS//NO ",0,0,0,0,0,0,0,1,1,1,1
+876, VICE-PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+877, VICE-PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+879, dont know// I sure dont know ,0,0,0,0,0,0,0,0,1,0,0
+880, // dont' know right now I cannot call the word ,0,0,0,0,0,0,0,0,1,0,0
+881, vp ,0,0,1,0,0,0,0,0,0,0,0
+882, vp ,0,0,1,0,0,0,0,0,0,0,0
+883, vp ,0,0,1,0,0,0,0,0,0,0,0
+884, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+885, donot know //quess/no ,0,0,0,0,0,0,0,0,1,1,1
+887, vice president ,0,0,1,0,0,0,0,0,0,0,0
+888, vice president ,0,0,1,0,0,0,0,0,0,0,0
+889," he is in the white house, he is over the us service//he is a good person, because his name is in the news// ",0,0,0,0,0,0,0,1,0,0,0
+890, vice president ,0,0,1,0,0,0,0,0,0,0,0
+891, donot know//best quess// do not know ,0,0,0,0,0,0,0,0,1,0,1
+892, vp ,0,0,1,0,0,0,0,0,0,0,0
+893, donot know//best guess/ do not know ,0,0,0,0,0,0,0,0,1,0,1
+894,  no idea//best guess//gov of az ,0,0,0,0,0,0,0,1,1,0,1
+895, vp    ,0,0,1,0,0,0,0,0,0,0,0
+896, don't know//president assistant ,0,0,0,0,0,0,0,1,1,0,0
+897," secretary, not sure ",0,0,0,0,0,0,0,1,1,0,0
+898, do not know ,0,0,0,0,0,0,0,0,1,0,0
+900, vice president ,0,0,1,0,0,0,0,0,0,0,0
+901, donot know// brain is locked// do not know ,0,0,0,0,0,0,0,0,1,0,1
+902, representative ,0,0,0,0,0,0,0,1,0,0,0
+903, //something in the whitehouse ,0,0,0,0,0,0,0,1,0,0,0
+904, vp ,0,0,1,0,0,0,0,0,0,0,0
+905, //house of rep ,0,0,0,0,0,0,0,1,0,0,0
+906, vice president of the us ,1,0,0,0,0,0,0,0,0,0,0
+907, vice president   ,0,0,1,0,0,0,0,0,0,0,0
+908, senator or governor? ,0,0,0,0,0,0,0,1,0,0,0
+911, donot know//best guess/ none ,0,0,0,0,0,0,0,0,1,1,1
+912, //I forgot what Dick Cheney do too//quess//i just saw him on television last night//i forgot ,0,0,0,0,0,0,0,0,1,0,1
+913, vp ,0,0,1,0,0,0,0,0,0,0,0
+914, vp ,0,0,1,0,0,0,0,0,0,0,0
+915, don't know/// ,0,0,0,0,0,0,0,0,1,0,0
+916, do not know//best quess// do not know ,0,0,0,0,0,0,0,0,1,0,1
+917, do not know at all//best guess//no best guess ,0,0,0,0,0,0,0,0,1,0,1
+918, vp//the united states ,1,0,0,0,0,0,0,0,0,0,0
+919, vp ,0,0,1,0,0,0,0,0,0,0,0
+920, no idea ,0,0,0,0,0,0,0,0,1,0,0
+921, can't think of it//best guess//rep or senate ,0,0,0,0,0,0,0,1,1,0,1
+922, vice president ,0,0,1,0,0,0,0,0,0,0,0
+923, vice president ,0,0,1,0,0,0,0,0,0,0,0
+924, no sure//best guess//no ,0,0,0,0,0,0,0,0,1,1,1
+925, donot know//best guess//finance   ,0,0,0,0,0,0,0,1,1,0,1
+926, vp ,0,0,1,0,0,0,0,0,0,0,0
+927, vice president ,0,0,1,0,0,0,0,0,0,0,0
+929, donot know//best guess// do not know ,0,0,0,0,0,0,0,0,1,0,1
+930, donot know ,0,0,0,0,0,0,0,0,1,0,0
+931, //republician//dont know what he does// ,0,0,0,0,0,0,0,1,1,0,0
+932, dont know//donot know ,0,0,0,0,0,0,0,0,1,0,0
+934, <RF> ,0,0,0,0,0,0,0,0,0,1,0
+935, vice president ,0,0,1,0,0,0,0,0,0,0,0
+936, vice president ,0,0,1,0,0,0,0,0,0,0,0
+937, vice president ,0,0,1,0,0,0,0,0,0,0,0
+939, vice president  ,0,0,1,0,0,0,0,0,0,0,0
+940, vice president ,0,0,1,0,0,0,0,0,0,0,0
+941, vice president ,0,0,1,0,0,0,0,0,0,0,0
+943, vice president  ,0,0,1,0,0,0,0,0,0,0,0
+944, vice president  ,0,0,1,0,0,0,0,0,0,0,0
+945, vice president ,0,0,1,0,0,0,0,0,0,0,0
+946, vice president ,0,0,1,0,0,0,0,0,0,0,0
+947, vice president  ,0,0,1,0,0,0,0,0,0,0,0
+948, vice president ,0,0,1,0,0,0,0,0,0,0,0
+949, vice president ,0,0,1,0,0,0,0,0,0,0,0
+950, vice president ,0,0,1,0,0,0,0,0,0,0,0
+951, <RF> ,0,0,0,0,0,0,0,0,0,1,0
+952, <RF> ,0,0,0,0,0,0,0,0,0,1,0
+953, <RF> ,0,0,0,0,0,0,0,0,0,1,0
+954, vice president ,0,0,1,0,0,0,0,0,0,0,0
+955, vice president ,0,0,1,0,0,0,0,0,0,0,0
+956, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+957, vice president ,0,0,1,0,0,0,0,0,0,0,0
+958, vice president ,0,0,1,0,0,0,0,0,0,0,0
+959, vice president ,0,0,1,0,0,0,0,0,0,0,0
+960, vice president ,0,0,1,0,0,0,0,0,0,0,0
+961," vice preseidnet, president of senate ",0,0,1,1,0,0,0,0,0,0,0
+962, vp ,0,0,1,0,0,0,0,0,0,0,0
+963, don't know ,0,0,0,0,0,0,0,0,1,0,0
+964, vp ,0,0,1,0,0,0,0,0,0,0,0
+965, vp ,0,0,1,0,0,0,0,0,0,0,0
+966," don't know, / ",0,0,0,0,0,0,0,0,1,0,0
+967, vp ,0,0,1,0,0,0,0,0,0,0,0
+968, vp ,0,0,1,0,0,0,0,0,0,0,0
+969, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+972, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+973, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+974, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+975, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+976, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+977, vice-presidents ,0,0,1,0,0,0,0,0,0,0,0
+978, vice-presidents s ,0,0,1,0,0,0,0,0,0,0,0
+979, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+980, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+982, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+983, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+984, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+985, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+986, vice president ,0,0,1,0,0,0,0,0,0,0,0
+987, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+988, vice president ,0,0,1,0,0,0,0,0,0,0,0
+989, vice president ,0,0,1,0,0,0,0,0,0,0,0
+990, vice president ,0,0,1,0,0,0,0,0,0,0,0
+991, i dont know// no// ,0,0,0,0,0,0,0,0,1,1,0
+992, //vice president// ,0,0,1,0,0,0,0,0,0,0,0
+993, vice president ,0,0,1,0,0,0,0,0,0,0,0
+994, vice president ,0,0,1,0,0,0,0,0,0,0,0
+995, I dont remember//npo ,0,0,0,0,0,0,0,0,1,1,0
+996, vice president ,0,0,1,0,0,0,0,0,0,0,0
+998, dont know// crook// ,0,0,0,0,0,0,0,1,1,0,0
+999, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1000, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1001, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1002, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1003, vp ,0,0,1,0,0,0,0,0,0,0,0
+1005, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+1006, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1008, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1009, congress ,0,0,0,0,0,0,0,1,0,0,0
+1010, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1011, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+1012, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1013, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1014, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1015, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+1017, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+1018, defense ,0,0,0,0,0,0,0,1,0,0,0
+1020, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1021, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+1022, vp ,0,0,1,0,0,0,0,0,0,0,0
+1023, vp ,0,0,1,0,0,0,0,0,0,0,0
+1025, congress ,0,0,0,0,0,0,0,1,0,0,0
+1026, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1027, secretary ,0,0,0,0,0,0,0,1,0,0,0
+1028, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1029, govener ,0,0,0,0,0,0,0,1,0,0,0
+1030, represenative ,0,0,0,0,0,0,0,1,0,0,0
+1031, a good position ,0,0,0,0,0,0,0,1,0,0,0
+1032, vp ,0,0,1,0,0,0,0,0,0,0,0
+1034, senator ,0,0,0,0,0,0,0,1,0,0,0
+1035, vp ,0,0,1,0,0,0,0,0,0,0,0
+1036, vp ,0,0,1,0,0,0,0,0,0,0,0
+1037, house of represenative ,0,0,0,0,0,0,0,1,0,0,0
+1038, vp ,0,0,1,0,0,0,0,0,0,0,0
+1039, vp ,0,0,1,0,0,0,0,0,0,0,0
+1040, congress ,0,0,0,0,0,0,0,1,0,0,0
+1041, vp ,0,0,1,0,0,0,0,0,0,0,0
+1043, lobbyist/state senater ,0,0,0,0,0,0,0,1,0,0,0
+1044, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1045, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1046, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1047, I don't know. // no. ,0,0,0,0,0,0,0,0,1,1,0
+1048, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1050, Vice predisent ,0,0,1,0,0,0,0,0,0,0,0
+1051, I dont't know. // no. ,0,0,0,0,0,0,0,0,1,1,0
+1052, // Don't know.// NO. ,0,0,0,0,0,0,0,0,1,1,0
+1053, vp ,0,0,1,0,0,0,0,0,0,0,0
+1055, Senetor. ,0,0,0,0,0,0,0,1,0,0,0
+1056, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1057, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1058, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1059, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1060, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1061, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1063, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1064, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1067, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1068, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1069, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1070, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1071, don't know. // no. ,0,0,0,0,0,0,0,0,1,1,0
+1072, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1073, Vice President. ,0,0,1,0,0,0,0,0,0,0,0
+1074, Vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1075, vp ,0,0,1,0,0,0,0,0,0,0,0
+1076, VP ,0,0,1,0,0,0,0,0,0,0,0
+1077, VP ,0,0,1,0,0,0,0,0,0,0,0
+1078, REPRESTATIVE ,0,0,0,0,0,0,0,1,0,0,0
+1079, congress ,0,0,0,0,0,0,0,1,0,0,0
+1080, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1081, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1082, VP ,0,0,1,0,0,0,0,0,0,0,0
+1084, vp ,0,0,1,0,0,0,0,0,0,0,0
+1085, VP ,0,0,1,0,0,0,0,0,0,0,0
+1086, VP ,0,0,1,0,0,0,0,0,0,0,0
+1087, advisor to president ,0,0,0,0,0,0,0,1,0,0,0
+1088, tresury ,0,0,0,0,0,0,0,1,0,0,0
+1089, vp ,0,0,1,0,0,0,0,0,0,0,0
+1090, SENATE ,0,0,0,0,0,0,0,1,0,0,0
+1091, VP ,0,0,1,0,0,0,0,0,0,0,0
+1092, VP ,0,0,1,0,0,0,0,0,0,0,0
+1093, house of rep. ,0,0,0,0,0,0,0,1,0,0,0
+1094, senate ,0,0,0,0,0,0,0,1,0,0,0
+1095, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+1096, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1097, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1098, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1100, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1101, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1102, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1103, Secretary of State ,0,0,0,0,0,0,0,1,0,0,0
+1104, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1105, Secretary of State// ,0,0,0,0,0,0,0,1,0,0,0
+1106, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1107, // he's got to be a Senator ,0,0,0,0,0,0,0,1,0,0,0
+1108, I don't know// don't know ,0,0,0,0,0,0,0,0,1,0,0
+1109, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1110, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1111, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1112, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1113, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1114, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1115, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1116, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1117, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1118, // with the Armed Services// I don't know ,0,0,0,0,0,0,0,1,1,0,0
+1119, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1120, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1121, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1122, vp ,0,0,1,0,0,0,0,0,0,0,0
+1123, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1124, does not remember ,0,0,0,0,0,0,0,0,1,0,0
+1126, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1127, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1128, state rep ,0,0,0,0,0,0,0,1,0,0,0
+1129, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1130, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1131, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1132, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1133, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1134, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1135, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1136, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1137, secretary of state ,0,0,0,0,0,0,0,1,0,0,0
+1138, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1139, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1140, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1141, vp ,0,0,1,0,0,0,0,0,0,0,0
+1142, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1143, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1144, vice presaideant. ,0,0,1,0,0,0,0,0,0,0,0
+1146, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1147, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1148, vp ,0,0,1,0,0,0,0,0,0,0,0
+1149, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1150, //Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1151, dont know  ,0,0,0,0,0,0,0,0,1,0,0
+1152, house represenatives ,0,0,0,0,0,0,0,1,0,0,0
+1153, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1154, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1155, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1156, Vice President 1 ,0,0,1,0,0,0,0,0,0,0,0
+1157, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1158, know him but dont know what he doed ,0,0,0,0,0,0,0,0,1,0,1
+1159, mayor ,0,0,0,0,0,0,0,1,0,0,0
+1160, vp ,0,0,1,0,0,0,0,0,0,0,0
+1161, vp ,0,0,1,0,0,0,0,0,0,0,0
+1162, senate ,0,0,0,0,0,0,0,1,0,0,0
+1163, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1164, vp ,0,0,1,0,0,0,0,0,0,0,0
+1165, 1 dont know ,0,0,0,0,0,0,0,0,1,0,0
+1166, vp ,0,0,1,0,0,0,0,0,0,0,0
+1167, vp ,0,0,1,0,0,0,0,0,0,0,0
+1168, vp ,0,0,1,0,0,0,0,0,0,0,0
+1169, vp ,0,0,1,0,0,0,0,0,0,0,0
+1170, polotics ,0,0,0,0,0,0,0,1,0,0,0
+1171, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1172, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1173, vp ,0,0,1,0,0,0,0,0,0,0,0
+1174, 1 vp ,0,0,1,0,0,0,0,0,0,0,0
+1176, in government ,0,0,0,0,0,0,0,1,0,0,0
+1177, vp ,0,0,1,0,0,0,0,0,0,0,0
+1178, no 2 man vp ,0,0,1,0,0,1,0,0,0,0,0
+1179, vp ,0,0,1,0,0,0,0,0,0,0,0
+1180, vp ,0,0,1,0,0,0,0,0,0,0,0
+1181, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1182, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1183, dont know  ,0,0,0,0,0,0,0,0,1,0,0
+1184, vp ,0,0,1,0,0,0,0,0,0,0,0
+1185, guess - Vice President ,0,0,1,0,0,0,0,0,0,0,1
+1186, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1187, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1189, VP ,0,0,1,0,0,0,0,0,0,0,0
+1190, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1191, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1192," with Bush administration, not sure what he does ",0,0,0,0,0,0,0,1,1,0,0
+1193, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1194, VP ,0,0,1,0,0,0,0,0,0,0,0
+1195, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1196," up there, foreign affairs kind of thing ",0,0,0,0,0,0,0,1,0,0,0
+1197, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1198, dk/nothing ,0,0,0,0,0,0,0,0,1,1,0
+1199, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1200, republican ,0,0,0,0,0,0,0,1,0,0,0
+1201, dk/dk/no ,0,0,0,0,0,0,0,0,1,1,0
+1202, dk/democrat/no ,0,0,0,0,0,0,0,1,1,1,0
+1204, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1205, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1206, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1207, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1208, dk/dk/no ,0,0,0,0,0,0,0,0,1,1,0
+1209, house of representatives ,0,0,0,0,0,0,0,1,0,0,0
+1210, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1211, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1212, vice presiedent ,0,0,1,0,0,0,0,0,0,0,0
+1213, dk/dk/no ,0,0,0,0,0,0,0,0,1,1,0
+1216, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1217, i can't remember/house nof rep ,0,0,0,0,0,0,0,1,1,0,0
+1218, dk/foreign affairs ,0,0,0,0,0,0,0,1,1,0,0
+1219, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1220, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1221, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1222, dk/vice president ,0,0,1,0,0,0,0,0,1,0,0
+1223, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1224, dk/dk ,0,0,0,0,0,0,0,0,1,0,0
+1225, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1226, vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1227, republican ,0,0,0,0,0,0,0,1,0,0,0
+1228, can't think of one//no ,0,0,0,0,0,0,0,0,1,1,0
+1230, vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1231, vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1232, do not know this answer ,0,0,0,0,0,0,0,0,1,0,0
+1233, vice president. ,0,0,1,0,0,0,0,0,0,0,0
+1234, vice president/no ,0,0,1,0,0,0,0,0,0,1,0
+1236, congress//no ,0,0,0,0,0,0,0,1,0,1,0
+1237, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1238, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1239, vice presidnent ,0,0,1,0,0,0,0,0,0,0,0
+1240, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1242, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1243, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1244, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1245, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1246, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1247, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1248, do not know ,0,0,0,0,0,0,0,0,1,0,0
+1249, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1251, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1252, //i know i've heard the name but i don;t know//by the time i get home from work the news is over//i don't know who he is//no ,0,0,0,0,0,0,0,0,1,1,1
+1253, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1254, //i have no clue//i know i've heard the name but know nothing more-all i know is th ename//no ,0,0,0,0,0,0,0,0,1,1,1
+1255, // vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1256, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1257, vice president of the us ,1,0,0,0,0,0,0,0,0,0,0
+1258, //i've heard that name but i don't have a clue who he is//no ,0,0,0,0,0,0,0,0,1,1,1
+1259, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1260, //vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1261, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1262, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1263, //vice presiddent//no ,0,0,1,0,0,0,0,0,0,1,0
+1264, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1265, //vice president for a little while longer//no ,0,0,1,0,0,0,0,0,0,1,0
+1266, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1267, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1268, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1269, vice president for the next few days ,0,0,1,0,0,0,0,0,0,0,0
+1271, seat in the house of representatives ,0,0,0,0,0,0,0,1,0,0,0
+1272, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1273, //i don't know that either/i don't even have a guess//no ,0,0,0,0,0,0,0,0,1,1,0
+1274, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1275, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1276, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1277, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1279, //vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1280, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1281, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1282, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1283, dont have an answer ,0,0,0,0,0,0,0,0,1,0,0
+1284, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1285, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1286, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1287, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1288, //vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1289, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1290, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1291, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1292, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1293, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1294, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1295, sec. of state ,0,0,0,0,0,0,0,1,0,0,0
+1296, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1297, he is the vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1298, he is republican//I know what he does but I can not think right now//no ,0,0,0,0,0,0,0,1,1,1,1
+1299, vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1300, he is the vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1301, vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1302, he is our current vice president//belongs to the republican party//he worked for gas and oil companies before//if I am not mistaken he played a roll in reagons and bush sr adminstration//no ,0,0,1,0,0,0,1,1,0,1,1
+1303, the vice president ,0,0,1,0,0,0,0,0,0,0,0
+1305, he is vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1306, vice prsident ,0,0,1,0,0,0,0,0,0,0,0
+1307, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1308, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1309, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1310, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1311, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1312," ""vice president""// ",0,0,1,0,0,0,0,0,0,0,0
+1313," ""vice presient""// ",0,0,1,0,0,0,0,0,0,0,0
+1314," ""vice president""// ",0,0,1,0,0,0,0,0,0,0,0
+1315," ""dont know and no idea""// ",0,0,0,0,0,0,0,0,1,0,0
+1316," ""dont know and no idea""// ",0,0,0,0,0,0,0,0,1,0,0
+1318, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1319," ""maybe senate""// ",0,0,0,0,0,0,0,1,0,0,0
+1320, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1321," ""vice president""// ",0,0,1,0,0,0,0,0,0,0,0
+1323," ""dont know""// ",0,0,0,0,0,0,0,0,1,0,0
+1324," ""vice president""// ",0,0,1,0,0,0,0,0,0,0,0
+1325," ""vp""// ",0,0,1,0,0,0,0,0,0,0,0
+1326," ""never heard him""// ",0,0,0,0,0,0,0,0,1,0,0
+1327," ""dont kn ow""// ",0,0,0,0,0,0,0,0,1,0,0
+1328," ""vp""// ",0,0,1,0,0,0,0,0,0,0,0
+1329, I DON'T KNOW//I DON'T KNOW//STOP ,0,0,0,0,0,0,0,0,1,1,0
+1330, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1331," ""vp""// ",0,0,1,0,0,0,0,0,0,0,0
+1332, DON'T KNOW//DON'T KNOW//STOP ,0,0,0,0,0,0,0,0,1,1,0
+1334," ""dont know""// ",0,0,0,0,0,0,0,0,1,0,0
+1335," ""vice president""// ",0,0,1,0,0,0,0,0,0,0,0
+1336," ""congressman""// ",0,0,0,0,0,0,0,1,0,0,0
+1337," ""dont know but have heard of him""// ",0,0,0,0,0,0,0,0,1,0,1
+1338," ""vice president// ",0,0,1,0,0,0,0,0,0,0,0
+1339," ""don't know//don't know//"" ",0,0,0,0,0,0,0,0,1,0,0
+1341," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1342, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1343," ""don't know//"" ",0,0,0,0,0,0,0,0,1,0,0
+1344," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1345," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1346, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1347," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1348," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1349," ""don't know//vice president//"" ",0,0,1,0,0,0,0,0,1,0,0
+1350," ""don't know//oh yes, vice president//"" ",0,0,1,0,0,0,0,0,1,0,0
+1352, DON'T KNOW//DON'T KNOW//STOP ,0,0,0,0,0,0,0,0,1,1,0
+1353," ""don't know//vice president//"" ",0,0,1,0,0,0,0,0,1,0,0
+1354, DEMOCRAT ,0,0,0,0,0,0,0,1,0,0,0
+1355, I DON'T KNOW//I DON'T KNOW//STOP ,0,0,0,0,0,0,0,0,1,1,0
+1356," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1357," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1358," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1359," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1360," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1361," ""don't know//"" ",0,0,0,0,0,0,0,0,1,0,0
+1362," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1363," DON'T KNOW, HE IS VERY IMPORTANT VERY HIGH UP// VICE PRESIDENT//STOP ",0,0,1,0,0,0,0,1,1,1,0
+1364," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1365," ""something in govt""// ",0,0,0,0,0,0,0,1,0,0,0
+1366," ""I've heard the name , but don't know//I don't listen to that stuff//"" ",0,0,0,0,0,0,0,0,1,0,1
+1367," ""dont know""// ",0,0,0,0,0,0,0,0,1,0,0
+1368," ""vp""// ",0,0,1,0,0,0,0,0,0,0,0
+1370," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1372, WHO IS HE//DON'T KNOW//STOP ,0,0,0,0,0,0,0,0,1,1,0
+1373, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1374," ""dont know""// ",0,0,0,0,0,0,0,0,1,0,0
+1375," ""vice president//"" ",0,0,1,0,0,0,0,0,0,0,0
+1377, work for bush ,0,0,0,0,0,0,1,0,0,0,0
+1378, treasurer ,0,0,0,0,0,0,0,1,0,0,0
+1379, senator ,0,0,0,0,0,0,0,1,0,0,0
+1380, <RF> ,0,0,0,0,0,0,0,0,0,1,0
+1381, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1382, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1383, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1384, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1385, senator ,0,0,0,0,0,0,0,1,0,0,0
+1386, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1387, democrat ,0,0,0,0,0,0,0,1,0,0,0
+1388, vice presidency ,0,0,1,0,0,0,0,0,0,0,0
+1389, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1390, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1391, speaker of the house ,0,0,0,0,0,0,0,1,0,0,0
+1392, <RF> ,0,0,0,0,0,0,0,0,0,1,0
+1393, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1395, congress ,0,0,0,0,0,0,0,1,0,0,0
+1396, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1398, vicew president ,0,0,1,0,0,0,0,0,0,0,0
+1399, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1400, pentagon ,0,0,0,0,0,0,0,1,0,0,0
+1401, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1402, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1403, secretary ,0,0,0,0,0,0,0,1,0,0,0
+1405, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1406, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1407, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1408, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1409, don't know the name of his title//congressman//no ,0,0,0,0,0,0,0,1,1,1,0
+1411, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1412, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1414, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1415, // VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1416, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1417, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1419, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1420, I DON'T KNOW // I DON'T KNOW ,0,0,0,0,0,0,0,0,1,0,0
+1421, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1423, he's still asst.vice president ,0,1,0,0,0,0,0,0,0,0,0
+1424, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1425," I think he's um um um, I know he's somebody in govenment.  the name is familiar to me he has something to do with a high position ",0,0,0,0,0,0,0,1,0,0,1
+1426," El es el ""Vice Presidente"" ",0,0,1,0,0,0,0,0,0,0,0
+1427," he breaks the tide in the senate// yeah he Vice President ""no"" ",0,0,1,0,1,0,0,0,0,1,0
+1428, no lo reconosco ,0,0,0,0,0,0,0,0,1,0,0
+1429, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1430, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1431, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1432, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1433, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1434, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1435, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1436, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1437, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1438, I have no idea ,0,0,0,0,0,0,0,0,1,0,0
+1439, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1440, chairman of something ,0,0,0,0,0,0,0,1,0,0,0
+1441, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1442, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1444, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1445, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1446, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1447, senate ,0,0,0,0,0,0,0,1,0,0,0
+1448, departing vice president ,0,0,1,0,0,0,0,0,0,0,0
+1451, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1452, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1453, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+1454, vice president of US ,1,0,0,0,0,0,0,0,0,0,0
+1455, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1456, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1457, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1458, I really have no guess ,0,0,0,0,0,0,0,0,1,0,0
+1459, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1460, senetor ,0,0,0,0,0,0,0,1,0,0,0
+1461, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1462, sentor ,0,0,0,0,0,0,0,1,0,0,0
+1463, secerty to defense ,0,0,0,0,0,0,0,1,0,0,0
+1464, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1465, I know of him but I dont know what position he holds ,0,0,0,0,0,0,0,0,1,0,1
+1466, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1467, congress ,0,0,0,0,0,0,0,1,0,0,0
+1468, sentor ,0,0,0,0,0,0,0,1,0,0,0
+1469, //vice president ,0,0,1,0,0,0,0,0,0,0,0
+1470, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1471, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1472, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1473, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1474, //vice president ,0,0,1,0,0,0,0,0,0,0,0
+1475, Vice President of the US ,1,0,0,0,0,0,0,0,0,0,0
+1476, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1477, shotgun shell catcher//vice president ,0,0,1,0,0,0,0,1,0,0,0
+1478, congress ,0,0,0,0,0,0,0,1,0,0,0
+1479, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1480, //i don't have a guess ,0,0,0,0,0,0,0,0,1,0,0
+1481, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1482, //vice president ,0,0,1,0,0,0,0,0,0,0,0
+1483, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1484, //vice president ,0,0,1,0,0,0,0,0,0,0,0
+1485, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1486, vice president in charge of cutting thraots ,0,0,1,0,0,0,0,1,0,0,0
+1487, //iknow he's helping the vice president ,0,0,0,0,0,0,1,0,0,0,1
+1490, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1491, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+1492, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1493, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1496, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1497, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1498, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1499," vice president, i think//i don't know//no ",0,0,1,0,0,0,0,0,1,1,1
+1500, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1501, i don't know//i have no idea//no ,0,0,0,0,0,0,0,0,1,1,0
+1502," i don't know//he could be vice president, he could be anybody//no ",0,0,1,0,0,0,0,0,1,1,0
+1503, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1504, senate ,0,0,0,0,0,0,0,1,0,0,0
+1505, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1506, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1507," girl, my mind is gone...i don't know//vice president, yeah he do//no ",0,0,1,0,0,0,0,0,1,1,1
+1508, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1509, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1510, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1511, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1512," ""somebody who is in a defense position//No"" ",0,0,0,0,0,0,0,1,0,1,0
+1513, vicepresident//he is the most powerful vp in the history of US//No. ,1,0,1,0,0,0,0,1,0,1,0
+1514," "" i do not know//No"" ",0,0,0,0,0,0,0,0,1,1,0
+1515, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1517, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1518, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1519, dont know//dont pay attention to politians//no ,0,0,0,0,0,0,0,0,1,1,1
+1520, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1521, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1522, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1523, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1524, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1525, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1526, i don't know//i forgot//congressman?//senator?//no ,0,0,0,0,0,0,0,1,1,1,0
+1527, i don't know//no guess//no ,0,0,0,0,0,0,0,0,1,1,0
+1528, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1529, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1531, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1532, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1533, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1534, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1535, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1536, trying to think what he does now - I'm thinking he's vice president (she had help) ,0,0,1,0,0,0,0,0,0,0,1
+1537, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+1538, no//no ,0,0,0,0,0,0,0,0,0,1,0
+1539, dk//no ,0,0,0,0,0,0,0,0,1,1,0
+1540, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1541, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1542, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1544, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1545, House speaker//no ,0,0,0,0,0,0,0,1,0,1,0
+1546, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1547, JVice President ,0,0,1,0,0,0,0,0,0,0,0
+1548," not sure//""doesn't watch tv"" ",0,0,0,0,0,0,0,0,1,0,1
+1550, vice presiden ,0,0,1,0,0,0,0,0,0,0,0
+1551, I know that one//offhand no ,0,0,0,0,0,0,0,0,0,1,1
+1552, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1553, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1554, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1555, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1556, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1557, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1558, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1559, A representative?//no ,0,0,0,0,0,0,0,1,0,1,0
+1560, doesn't know//doesn't know//no ,0,0,0,0,0,0,0,0,1,1,0
+1561, thinking he was the speaker of the house ,0,0,0,0,0,0,0,1,0,0,1
+1562, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1563, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1564, was he a senator?//no ,0,0,0,0,0,0,0,1,0,1,0
+1565, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1567," Democrat, but not sure//no  ",0,0,0,0,0,0,0,1,1,1,0
+1568, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1569," doesn't know//has no clue//has heard the name, but can't thnk of . . .//wait, is he the Vice President?//no ",0,0,1,0,0,0,0,0,1,1,1
+1570, Vice President  ,0,0,1,0,0,0,0,0,0,0,0
+1572, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1573," Vice President, but he has the tie breaker vote in the house ",0,0,1,0,0,0,1,0,0,0,0
+1574, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1575, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1576, doesn't know//doesn't have a best guess//no ,0,0,0,0,0,0,0,0,1,1,0
+1577, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1578, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1580, vp ,0,0,1,0,0,0,0,0,0,0,0
+1581, vice presdent ,0,0,1,0,0,0,0,0,0,0,0
+1582, vp ,0,0,1,0,0,0,0,0,0,0,0
+1583, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1584, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1585, republican ,0,0,0,0,0,0,0,1,0,0,0
+1586, vice presdent ,0,0,1,0,0,0,0,0,0,0,0
+1587, congressman ,0,0,0,0,0,0,0,1,0,0,0
+1588, vice president of usa ,1,0,0,0,0,0,0,0,0,0,0
+1589, vp ,0,0,1,0,0,0,0,0,0,0,0
+1590, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1591, vp ,0,0,1,0,0,0,0,0,0,0,0
+1592, vp ,0,0,1,0,0,0,0,0,0,0,0
+1593, vp ,0,0,1,0,0,0,0,0,0,0,0
+1594, senator ,0,0,0,0,0,0,0,1,0,0,0
+1595, vp ,0,0,1,0,0,0,0,0,0,0,0
+1596, vp ,0,0,1,0,0,0,0,0,0,0,0
+1597, <RF> ,0,0,0,0,0,0,0,0,0,1,0
+1598," no guess, no idea ",0,0,0,0,0,0,0,0,1,0,0
+1599, vp ,0,0,1,0,0,0,0,0,0,0,0
+1600, vice presdent ,0,0,1,0,0,0,0,0,0,0,0
+1601, vp ,0,0,1,0,0,0,0,0,0,0,0
+1602, vp ,0,0,1,0,0,0,0,0,0,0,0
+1603, house seat ,0,0,0,0,0,0,0,1,0,0,0
+1604, vp ,0,0,1,0,0,0,0,0,0,0,0
+1605, vp ,0,0,1,0,0,0,0,0,0,0,0
+1606, vp ,0,0,1,0,0,0,0,0,0,0,0
+1607, vp ,0,0,1,0,0,0,0,0,0,0,0
+1608, vp ,0,0,1,0,0,0,0,0,0,0,0
+1609, vp ,0,0,1,0,0,0,0,0,0,0,0
+1610, vp ,0,0,1,0,0,0,0,0,0,0,0
+1612, vp ,0,0,1,0,0,0,0,0,0,0,0
+1613, vp ,0,0,1,0,0,0,0,0,0,0,0
+1614," representative?//feels she should know it, but can't think of it//no ",0,0,0,0,0,0,0,1,1,1,1
+1615, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1616, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1617, senator ,0,0,0,0,0,0,0,1,0,0,0
+1618, war of defense ,0,0,0,0,0,0,0,1,0,0,0
+1619, i know about him but i can't of who he is ,0,0,0,0,0,0,0,0,1,0,1
+1620, don't know//dont know ,0,0,0,0,0,0,0,0,1,0,0
+1621, i don't know//who is he ,0,0,0,0,0,0,0,0,1,0,0
+1622, SENATE BUT I DON'T KNOW WHERE HE'S AT ,0,0,0,0,0,0,0,1,1,0,0
+1623, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1624, secretary of state ,0,0,0,0,0,0,0,1,0,0,0
+1625, is he in the senate//i'm not sure ,0,0,0,0,0,0,0,1,1,0,0
+1626, republican//the government ,0,0,0,0,0,0,0,1,0,0,0
+1627, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1628, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1629, representative//i don't know what he is/ he's just in the gov't in washington ,0,0,0,0,0,0,0,1,1,0,0
+1630, i don't know ,0,0,0,0,0,0,0,0,1,0,0
+1632, democrat//don't know ,0,0,0,0,0,0,0,1,1,0,0
+1633, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1634, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1636, i can not tell you// your best guess// I dont know//NO ,0,0,0,0,0,0,0,0,1,1,1
+1637, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1638, i don't know//don't know ,0,0,0,0,0,0,0,0,1,0,0
+1639, vice president until Jan 19th//no ,0,0,1,0,0,0,0,0,0,1,0
+1640, vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1641, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1642, DON'T KNOW//NO ,0,0,0,0,0,0,0,0,1,1,0
+1643, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1644, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1645, vp ,0,0,1,0,0,0,0,0,0,0,0
+1646, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1647, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1648, vice president//no ,0,0,1,0,0,0,0,0,0,1,0
+1649, vice president// ,0,0,1,0,0,0,0,0,0,0,0
+1651, republican- vice president with Bush ,0,0,1,0,0,0,0,1,0,0,0
+1652, was vice president ,0,0,1,0,0,0,0,0,0,0,0
+1653, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1654, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1655, vice president who is really the man ,0,0,1,0,0,0,0,1,0,0,0
+1656, vice president- bumble head ,0,0,1,0,0,0,0,1,0,0,0
+1657, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1658, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1659, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1660, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1662, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1663, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1664, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1666, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+1667, outgoing vice-president ,0,0,1,0,0,0,0,1,0,0,0
+1668, vice-pres ,0,0,1,0,0,0,0,0,0,0,0
+1669, senator or something ,0,0,0,0,0,0,0,1,0,0,0
+1670, vice-pres ,0,0,1,0,0,0,0,0,0,0,0
+1671, vice-pres ,0,0,1,0,0,0,0,0,0,0,0
+1672, vice-president ,0,0,1,0,0,0,0,0,0,0,0
+1673," chief crook of current administration, he's VP of US ",1,0,0,0,0,0,0,1,0,0,0
+1674,  vice president ,0,0,1,0,0,0,0,0,0,0,0
+1675, VP ,0,0,1,0,0,0,0,0,0,0,0
+1676, vp ,0,0,1,0,0,0,0,0,0,0,0
+1677, democrat//I don;t remember what posiition he holds//I know he is influential ,0,0,0,0,0,0,0,1,1,0,1
+1678, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1679, //senate// ,0,0,0,0,0,0,0,1,0,0,0
+1680, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1681, //vice president// ,0,0,1,0,0,0,0,0,0,0,0
+1682, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1683," i have no idea, he's retired isn't he?//secretary of state ",0,0,0,0,0,0,0,1,1,0,0
+1685, senate ,0,0,0,0,0,0,0,1,0,0,0
+1686, congress ,0,0,0,0,0,0,0,1,0,0,0
+1687," this is horrible, isn't he the vice president right noe, i don't know ",0,0,1,0,0,0,0,0,1,0,1
+1688, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1689, secretary of defense ,0,0,0,0,0,0,0,1,0,0,0
+1690, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1691, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1692, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1694, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1696, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1697, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1698, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1700, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1701," vice-president, and in charge of senate ",0,0,1,0,1,0,0,0,0,0,0
+1702, democrat//doesn't know even after probing ,0,0,0,0,0,0,0,1,1,0,0
+1703, VICE PRES.//HEAD OF SENATE// ,0,0,1,0,0,0,0,1,0,0,0
+1705, VICE PRES.// ,0,0,1,0,0,0,0,0,0,0,0
+1706, VICE PRES.// ,0,0,1,0,0,0,0,0,0,0,0
+1707, VICE PRES.// ,0,0,1,0,0,0,0,0,0,0,0
+1708, VICE PRESIDENT OF USA// ,1,0,0,0,0,0,0,0,0,0,0
+1709, VICE PRES. 1 ,0,0,1,0,0,0,0,0,0,0,0
+1710, VICE PRES// ,0,0,1,0,0,0,0,0,0,0,0
+1711," on his way out, was the vice president ",0,0,1,0,0,0,0,1,0,0,0
+1713, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1714, i dont now// your best guess/ treasurer// ,0,0,0,0,0,0,0,1,1,0,1
+1716, vice president right now ,0,0,1,0,0,0,0,0,0,0,0
+1717, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1718, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1719, I think he's governor//no ,0,0,0,0,0,0,0,1,0,1,1
+1720, dont know him// i say a 3 for him ,0,0,0,0,0,0,0,0,1,0,1
+1723, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1724," I don't know// best guess//I don't know, that is my best guess// ",0,0,0,0,0,0,0,0,1,0,1
+1725, not sure//no ,0,0,0,0,0,0,0,0,1,1,0
+1726, don't know. ,0,0,0,0,0,0,0,0,1,0,0
+1727, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1728, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1729, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1730, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1731, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1732, i have heard of him but I do not know which office// best guess// I have no idea ,0,0,0,0,0,0,0,0,1,0,1
+1733, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1734, vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+1735, v pres. ,0,0,1,0,0,0,0,0,0,0,0
+1736, v.pres. ,0,0,1,0,0,0,0,0,0,0,0
+1737, vpres. ,0,0,1,0,0,0,0,0,0,0,0
+1738, d.k. ,0,0,0,0,0,0,0,0,1,0,0
+1739, v. pres. ,0,0,1,0,0,0,0,0,0,0,0
+1740, v. pres. ,0,0,1,0,0,0,0,0,0,0,0
+1741, v. pres. ,0,0,1,0,0,0,0,0,0,0,0
+1742, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1743, v. pres. ,0,0,1,0,0,0,0,0,0,0,0
+1744, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1746, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1747, v. pres. ,0,0,1,0,0,0,0,0,0,0,0
+1748, don't know  ,0,0,0,0,0,0,0,0,1,0,0
+1749, d.k. ,0,0,0,0,0,0,0,0,1,0,0
+1750, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1751, Vice Pres. ,0,0,1,0,0,0,0,0,0,0,0
+1752, d.k. ,0,0,0,0,0,0,0,0,1,0,0
+1753, Vice Pres. ,0,0,1,0,0,0,0,0,0,0,0
+1754, Vice Pres. ,0,0,1,0,0,0,0,0,0,0,0
+1755, v. pres ,0,0,1,0,0,0,0,0,0,0,0
+1756, no ,0,0,0,0,0,0,0,0,0,1,0
+1758, Vice Pres. ,0,0,1,0,0,0,0,0,0,0,0
+1759, d.k. ,0,0,0,0,0,0,0,0,1,0,0
+1760, I don't know what he do. ,0,0,0,0,0,0,0,0,1,0,0
+1761, vpres ,0,0,1,0,0,0,0,0,0,0,0
+1762, don't know ,0,0,0,0,0,0,0,0,1,0,0
+1763, d.k. ,0,0,0,0,0,0,0,0,1,0,0
+1764, v.pres ,0,0,1,0,0,0,0,0,0,0,0
+1765, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1766, senator ,0,0,0,0,0,0,0,1,0,0,0
+1767," He ran with Bush, Vice Pres. ",0,0,1,0,0,0,1,0,0,0,0
+1768, No ,0,0,0,0,0,0,0,0,0,1,0
+1771, Vice Pres. ,0,0,1,0,0,0,0,0,0,0,0
+1772, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1773, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1774," He's the one that be shooting people, vice Pres. ",0,0,1,0,0,0,1,0,0,0,0
+1775, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1777, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1778, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1779, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1780, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1781, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1782, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1783, i have heard his nme but i dont know what he does he was something to the president. ,0,0,0,0,0,0,0,1,1,0,1
+1784, i don't know // i cant comment because i dont know him.  ,0,0,0,0,0,0,0,0,1,1,0
+1785, he in the government ,0,0,0,0,0,0,0,1,0,0,0
+1786, vice presidentb ,0,0,1,0,0,0,0,0,0,0,0
+1787, congress ,0,0,0,0,0,0,0,1,0,0,0
+1788, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1789, works in the white house ,0,0,0,0,0,0,1,0,0,0,0
+1790, vice president/ vice president on the way out the door. ,0,0,1,0,0,0,0,0,0,0,0
+1791, vice president  ,0,0,1,0,0,0,0,0,0,0,0
+1792, //republican ,0,0,0,0,0,0,0,1,0,0,0
+1793, <RF> ,0,0,0,0,0,0,0,0,0,1,0
+1794, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1795, i dont know// senator ,0,0,0,0,0,0,0,1,1,0,0
+1796, i dont know// i dont know ,0,0,0,0,0,0,0,0,1,0,0
+1797, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1798, senator ,0,0,0,0,0,0,0,1,0,0,0
+1799, i dont know what Dick Cheny do//treasurer ,0,0,0,0,0,0,0,1,1,0,0
+1801, govenor ,0,0,0,0,0,0,0,1,0,0,0
+1802, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1803, do not now// have heard name but don't know//maybe a congressman//no ,0,0,0,0,0,0,0,1,1,1,1
+1804, trying to think//remember but can't think//no ,0,0,0,0,0,0,0,0,0,1,1
+1805, i forget//don't know//no ,0,0,0,0,0,0,0,0,1,1,0
+1806, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1807, no comment//no ,0,0,0,0,0,0,0,0,0,1,0
+1808, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1809, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1810, secretary of defense ,0,0,0,0,0,0,0,1,0,0,0
+1811, private employment ,0,0,0,0,0,0,0,1,0,0,0
+1813, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1814, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1815, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1816, he's head of medicare ,0,0,0,0,0,0,0,1,0,0,0
+1817, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1818, he's a representative too. ,0,0,0,0,0,0,0,1,0,0,0
+1819, heard his name//don't know//no ,0,0,0,0,0,0,0,0,1,1,1
+1820, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1821, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1822, republican//no ,0,0,0,0,0,0,0,1,0,1,0
+1823, sure can'tell you the job// know name//no ,0,0,0,0,0,0,0,0,1,1,1
+1824, with Bush//vice president//no ,0,0,1,0,0,0,0,1,0,1,0
+1825, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1826, don't know//no ,0,0,0,0,0,0,0,0,1,1,0
+1827, senator ,0,0,0,0,0,0,0,1,0,0,0
+1828, congress ,0,0,0,0,0,0,0,1,0,0,0
+1829, none ,0,0,0,0,0,0,0,0,0,1,0
+1830, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1831, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1832, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1833, is in the government but not sure exactly what he does ,0,0,0,0,0,0,0,1,1,0,0
+1834, governor ,0,0,0,0,0,0,0,1,0,0,0
+1835, really dk ,0,0,0,0,0,0,0,0,1,0,0
+1836, no idea//no idea// ,0,0,0,0,0,0,0,0,1,0,0
+1837, vice president of united states of america ,1,0,0,0,0,0,0,0,0,0,0
+1838, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1839, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1840, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1841, he's vice president ,0,0,1,0,0,0,0,0,0,0,0
+1842, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1843, he's vice presidnet of the u.s. ,1,0,0,0,0,0,0,0,0,0,0
+1844, vice president of us ,1,0,0,0,0,0,0,0,0,0,0
+1845, he's vice president;//no ,0,0,1,0,0,0,0,0,0,1,0
+1846, he's vice president //he has a deciding vote if there is a tie ,0,0,1,0,1,0,0,0,0,0,0
+1847, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1848," he was secretary of state orr somethng, i'm guessing//no ",0,0,0,0,0,0,0,1,0,1,1
+1849, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1850," vice president, I believe ",0,0,1,0,0,0,0,0,0,0,1
+1851, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1852, dont know this either-wont guess-havenot a clue ,0,0,0,0,0,0,0,0,1,1,0
+1853," higway robbery, vice president ",0,0,1,0,0,0,0,1,0,0,0
+1854, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1856, vice president of u.s. ,1,0,0,0,0,0,0,0,0,0,0
+1857, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1858, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1859," isnt he chief of staff, not sure, mind is on current election//isnt he chief of foreign affairs//no ",0,0,0,0,0,0,0,1,1,1,1
+1860, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1861, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1862, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1864, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1865, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1867," have drawn a blank on all of these people,dont know;; ",0,0,0,0,0,0,0,0,1,0,0
+1868, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1869, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1870, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1871, vice president  ,0,0,1,0,0,0,0,0,0,0,0
+1872, vice president  ,0,0,1,0,0,0,0,0,0,0,0
+1873, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1874, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1875, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1876, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1877, he's vice president ,0,0,1,0,0,0,0,0,0,0,0
+1878, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1879, military representative ,0,0,0,0,0,0,0,1,0,0,0
+1880, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1881, dont know  ,0,0,0,0,0,0,0,0,1,0,0
+1882, SENATOR ,0,0,0,0,0,0,0,1,0,0,0
+1883, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1885, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1886, dont kinow ,0,0,0,0,0,0,0,0,1,0,0
+1887, dont know /// ,0,0,0,0,0,0,0,0,1,0,0
+1888, i dont know who he is  ,0,0,0,0,0,0,0,0,1,0,0
+1889, I DONT KNOW ,0,0,0,0,0,0,0,0,1,0,0
+1890, i have no idea  ,0,0,0,0,0,0,0,0,1,0,0
+1892, sont know ,0,0,0,0,0,0,0,0,1,0,0
+1893, she is a treasurer ,0,0,0,0,0,0,0,1,0,0,0
+1894, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1896, DONT KNOW HAVE HEARD OF HIM ,0,0,0,0,0,0,0,0,1,0,1
+1897, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1898, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1899, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1900, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1901, politics i guess vice president ,0,0,1,0,0,0,0,1,0,0,1
+1902, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1903, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1906, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1907, vice presideent ,0,0,1,0,0,0,0,0,0,0,0
+1908, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1909, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1910, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1911, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1912, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1913, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1914, congressmanb ,0,0,0,0,0,0,0,1,0,0,0
+1915, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1916, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1917, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1918, i dont remember ,0,0,0,0,0,0,0,0,1,0,0
+1919, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1920, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1921, congress ,0,0,0,0,0,0,0,1,0,0,0
+1922, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1923, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1925, i dont know ,0,0,0,0,0,0,0,0,1,0,0
+1926, i dont know senator ,0,0,0,0,0,0,0,1,1,0,0
+1927, is a senator ,0,0,0,0,0,0,0,1,0,0,0
+1928, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1930, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1931, dont know what position ,0,0,0,0,0,0,0,0,1,0,0
+1932, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1933, senate ,0,0,0,0,0,0,0,1,0,0,0
+1934, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1935, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1936, he is the  i cant remember ,0,0,0,0,0,0,0,0,1,0,0
+1937, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+1938, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1939, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1942, none ,0,0,0,0,0,0,0,0,0,1,0
+1943, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1945, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1946, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1947, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1948, secretary of state ,0,0,0,0,0,0,0,1,0,0,0
+1949, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1950, \\speaker of the house ,0,0,0,0,0,0,0,1,0,0,0
+1952, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1955, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1956, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1957, Congress ,0,0,0,0,0,0,0,1,0,0,0
+1958, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1960, i have no idea ,0,0,0,0,0,0,0,0,1,0,0
+1961, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1962, dont know ,0,0,0,0,0,0,0,0,1,0,0
+1963, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1964, I don't know. ,0,0,0,0,0,0,0,0,1,0,0
+1966, vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+1967, vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+1968, don't kinow ,0,0,0,0,0,0,0,0,1,0,0
+1970, vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+1971, senate person ,0,0,0,0,0,0,0,1,0,0,0
+1972, legislater ,0,0,0,0,0,0,0,1,0,0,0
+1973," has no idea, ",0,0,0,0,0,0,0,0,1,0,0
+1974, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1975, I don't know ,0,0,0,0,0,0,0,0,1,0,0
+1976, repulican  ,0,0,0,0,0,0,0,1,0,0,0
+1977, vice presi8dent ,0,0,1,0,0,0,0,0,0,0,0
+1978, does not really know ,0,0,0,0,0,0,0,0,1,0,0
+1980, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1981, Congress ,0,0,0,0,0,0,0,1,0,0,0
+1982, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1983, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1984, Vice-president ,0,0,1,0,0,0,0,0,0,0,0
+1985, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1986, in government ,0,0,0,0,0,0,0,1,0,0,0
+1987, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1989, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1990, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1991, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1992, Vice President ,0,0,1,0,0,0,0,0,0,0,0
+1993, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1994, vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+1995, dk//i've heard his name// ,0,0,0,0,0,0,0,0,1,0,1
+1996, vp ,0,0,1,0,0,0,0,0,0,0,0
+1997, vp ,0,0,1,0,0,0,0,0,0,0,0
+1998, vice president ,0,0,1,0,0,0,0,0,0,0,0
+1999, retired vice president ,0,0,1,0,0,0,0,1,0,0,0
+2000, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+2001, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2002, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2003, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2004, vp ,0,0,1,0,0,0,0,0,0,0,0
+2005, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2006, republican//vice president// ,0,0,1,0,0,0,0,1,0,0,0
+2007, dk;//don't remember; memory loss condition// ,0,0,0,0,0,0,0,0,1,0,1
+2008, GOVERNOR ,0,0,0,0,0,0,0,1,0,0,0
+2009, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+2010, VICE PRESIDNET ,0,0,1,0,0,0,0,0,0,0,0
+2011, He is the vice-president ,0,0,1,0,0,0,0,0,0,0,0
+2012," retired vice president, about to retire. ",0,0,1,0,0,0,0,1,0,0,0
+2013, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2014, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2015, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2016, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2017," I just hear about him, but no, I don't know what position he holds.//no ",0,0,0,0,0,0,0,0,1,1,1
+2018, yes.  secretary of state.// vice president.// ,0,0,1,0,0,0,0,1,0,0,1
+2019, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2020, I don't know.  //Vice president// ,0,0,1,0,0,0,0,0,1,0,0
+2021, He is the vice-president. ,0,0,1,0,0,0,0,0,0,0,0
+2023, vice president. ,0,0,1,0,0,0,0,0,0,0,0
+2024, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2026, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+2027, //vice president ,0,0,1,0,0,0,0,0,0,0,0
+2028, no.//vice president ,0,0,1,0,0,0,0,0,0,1,0
+2029, VICE-PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+2030, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2031, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2032, DON'T KNOW//DON'T KNOW//STOP ,0,0,0,0,0,0,0,0,1,1,0
+2034, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2035, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2036, //HOUSE OF REPRESENTATIVES//DON'T KNOW// ,0,0,0,0,0,0,0,1,1,0,0
+2037, no.//vice president.// no. ,0,0,1,0,0,0,0,0,0,1,0
+2038, no  //camara del congreso.//vice presidente ,0,0,1,0,0,0,0,1,0,1,0
+2040, VICE-PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+2041, VICE-PRESIDENT//RECOGNIZE THE NAME// ,0,0,1,0,0,0,0,0,0,0,1
+2042, no//congress //no ,0,0,0,0,0,0,0,1,0,1,0
+2043, no.//vice president ,0,0,1,0,0,0,0,0,0,1,0
+2044, CONGRESS//DON'T KNOW ,0,0,0,0,0,0,0,1,1,0,0
+2045, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2046, JUDGE//DON'T REALLY KNOW ,0,0,0,0,0,0,0,1,1,0,0
+2048, VICE PRESIDENT  ,0,0,1,0,0,0,0,0,0,0,0
+2049," He has been Vice President, (on his way out) ",0,0,1,0,0,0,0,1,0,0,0
+2050, He is the vice president. //none// ,0,0,1,0,0,0,0,0,0,1,0
+2051, //R:  I do not know Dick Cheney// //FI:  any idea? //R:  No// none ,0,0,0,0,0,0,0,0,1,1,0
+2052, r:  she is thinking.... I know he has something to do w/congress FI:  do you know if hold a specific office? R:  no... just something to do with congress. /none// NOTE:  R was abled to recall who this person after I asked her about John Roberts R:  He is the Vice-President //none//  ,0,0,1,0,0,0,0,1,1,1,1
+2053, he is the Vice_President ,0,0,1,0,0,0,0,0,0,0,0
+2054, R: he assists president Bush// FI:  could you try to remember his title?// R:  Vice-President// None// ,0,0,1,0,0,0,1,0,0,1,0
+2055, THE VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+2056," i do not remember, any idea> R:  No. //none// ",0,0,0,0,0,0,0,0,1,1,1
+2057, //recognize the name but do not know what he does.  I think I am too tired// ,0,0,0,0,0,0,0,0,1,0,1
+2058, I don't know.  (mumbles something) R:  any idea? fi: DON'T KNOW HIM... ,0,0,0,0,0,0,0,0,1,0,1
+2059, He is the vice President ,0,0,1,0,0,0,0,0,0,0,0
+2060, r:  laughter... it is terrible R:  He is the vice President ,0,0,1,0,0,0,0,0,0,0,1
+2061," do not know who he is//I have heard of him, but right of the bat, I am running a blank//none ",0,0,0,0,0,0,0,0,1,1,1
+2062," //I have no idea//I know who he is//do not know what position he holds//I am thinking, but cannot recall at this time//none ",0,0,0,0,0,0,0,0,1,1,1
+2063," r:  i guess, mmmmmm he is a democrat fi:  anything else you may know of him? R:  nO //NONE// ",0,0,0,0,0,0,0,1,0,1,1
+2064," I know it sounds really bad, but do not know what he does. FI:  any guess? r:  I think he may abe the Secretary of State. //none// ",0,0,0,0,0,0,0,1,1,1,1
+2065," R:  Again, I have not heard of his name. FI:  any idea whatsoever of who he is? R:  none //none// ",0,0,0,0,0,0,0,0,1,1,0
+2066," R:  I think is the vice president, I don't know //none// ",0,0,1,0,0,0,0,0,1,1,1
+2067," R:  he is in the House of Representatives, I think. //none// ",0,0,0,0,0,0,0,1,0,1,1
+2068, R:  I do not know the name FI:  any idea? R:  I do not recognize the name //none// ,0,0,0,0,0,0,0,0,1,1,0
+2069, R:  I do not know FI:  any idea who he might be? R:  No. //none// ,0,0,0,0,0,0,0,0,1,1,0
+2070, //vice president//none ,0,0,1,0,0,0,0,0,0,1,0
+2072," R:  yes FI:  what doe he do? R:  I know he works in the Congress, but cannot recall exactly what he does. //none// ",0,0,0,0,0,0,1,0,1,1,1
+2073, do not know// none ,0,0,0,0,0,0,0,0,1,1,0
+2074, R:  don't know. FI:  Any idea who Dick Chaney is? R:  no //none// ,0,0,0,0,0,0,0,0,1,1,0
+2075, R. does not know what position dick cheney holds  ,0,0,0,0,0,0,0,0,1,0,0
+2076, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2077, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2079, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2082, R. never heard about  dick cheney. ,0,0,0,0,0,0,0,0,1,0,0
+2083, vice president. ,0,0,1,0,0,0,0,0,0,0,0
+2084, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2085, R thinks cheney is a military man ,0,0,0,0,0,0,0,1,0,0,1
+2088, vice president. ,0,0,1,0,0,0,0,0,0,0,0
+2090, vice president. ,0,0,1,0,0,0,0,0,0,0,0
+2091, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2092, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2093, finansas ,0,0,0,0,0,0,0,1,0,0,0
+2094, senator. ,0,0,0,0,0,0,0,1,0,0,0
+2095, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2096, R. does not know what job or position he holds. ,0,0,0,0,0,0,0,0,1,0,0
+2097, R said republican ,0,0,0,0,0,0,0,1,0,0,0
+2098, vice president. ,0,0,1,0,0,0,0,0,0,0,0
+2100, not sure//no guess ,0,0,0,0,0,0,0,0,1,0,0
+2101, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2102, i dk//i hv no idea ,0,0,0,0,0,0,0,0,1,0,0
+2103, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2104, no idea//no ,0,0,0,0,0,0,0,0,1,1,0
+2105, all i know is he is a senator ,0,0,0,0,0,0,0,1,0,0,1
+2106, dk//no guess ,0,0,0,0,0,0,0,0,1,0,0
+2107," i have heard of him but i dont know//pues no se, es del gobierno, no? ",0,0,0,0,0,0,0,1,1,0,1
+2108, i really dont know//dont know//no ,0,0,0,0,0,0,0,0,1,1,0
+2109, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2110, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2111, dk//something with news ,0,0,0,0,0,0,0,1,1,0,0
+2112, vice president and president of halliburton ,0,0,1,0,0,0,0,1,0,0,0
+2113, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2114, dk//dk ,0,0,0,0,0,0,0,0,1,0,0
+2115, i went blank//i have no idea ,0,0,0,0,0,0,0,0,1,0,0
+2116, pues no se//pues sera algo tambien con las escuelas ,0,0,0,0,0,0,0,1,1,0,0
+2117, i have heard the name but i wouldnt know//sounds familiar//no ,0,0,0,0,0,0,0,0,1,1,1
+2118, i cant remember//vice president ,0,0,1,0,0,0,0,0,1,0,0
+2119, i dont know him either//i dont know ,0,0,0,0,0,0,0,0,1,0,0
+2120, dk//secretary also ,0,0,0,0,0,0,0,1,1,0,0
+2121, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2122, dk//dk ,0,0,0,0,0,0,0,0,1,0,0
+2123, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2124, dk//cant think of it ,0,0,0,0,0,0,0,0,1,0,0
+2125,  dk//democrat//vice president ,0,0,1,0,0,0,0,1,1,0,0
+2126, republican// i dk ,0,0,0,0,0,0,0,1,1,0,0
+2128, DONT KNOW ,0,0,0,0,0,0,0,0,1,0,0
+2129, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2130, governor? ,0,0,0,0,0,0,0,1,0,0,0
+2131, // // doing good in his job but i do not know// ,0,0,0,0,0,0,1,0,1,0,0
+2132, do not remember him ,0,0,0,0,0,0,0,0,1,0,0
+2133, //chairman// ,0,0,0,0,0,0,0,1,0,0,0
+2134, business man// ,0,0,0,0,0,0,0,1,0,0,0
+2135, CONGRESSMAN OR GOVERNOR  ,0,0,0,0,0,0,0,1,0,0,0
+2136, nothing.i do not know who he is ,0,0,0,0,0,0,0,0,1,1,0
+2137, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2138, DONT KNOW /// ,0,0,0,0,0,0,0,0,1,0,0
+2140, dont know ,0,0,0,0,0,0,0,0,1,0,0
+2141, sorry//i do not know who he is// ,0,0,0,0,0,0,0,0,1,0,1
+2142, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+2143, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2144, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2145, republican// ,0,0,0,0,0,0,0,1,0,0,0
+2147, appointed to the //he was from the war// ,0,0,0,0,0,0,0,1,0,0,0
+2148, //forgot his position// ,0,0,0,0,0,0,0,0,1,0,0
+2149, //i dont know him// ,0,0,0,0,0,0,0,0,1,0,0
+2150, //i dont know him either// ,0,0,0,0,0,0,0,0,1,0,0
+2151, //he is vice president// ,0,0,1,0,0,0,0,0,0,0,0
+2152, //i dont him// ,0,0,0,0,0,0,0,0,1,0,0
+2153, //I DONT KNOW// ,0,0,0,0,0,0,0,0,1,0,0
+2154, //i dont know him right now but i have heard him// ,0,0,0,0,0,0,0,0,1,0,1
+2155, //i dont know// ,0,0,0,0,0,0,0,0,1,0,0
+2156, //i dont know him// ,0,0,0,0,0,0,0,0,1,0,0
+2157, //i dont know him as to my mind it does not ring a bell// ,0,0,0,0,0,0,0,0,1,0,0
+2158, he is vice president// ,0,0,1,0,0,0,0,0,0,0,0
+2159, //i dont know// ,0,0,0,0,0,0,0,0,1,0,0
+2160, //i dont know who he is// ,0,0,0,0,0,0,0,0,1,0,0
+2161, //i dont know him// ,0,0,0,0,0,0,0,0,1,0,0
+2162, //DOES NOT KNOW WHO HE IS// ,0,0,0,0,0,0,0,0,1,0,0
+2163, //I HAVE HEARD HIM BUT I DONT KNOW WHAT POSITION HE HAS// ,0,0,0,0,0,0,0,0,1,0,1
+2164, //i have heard a little but i dont know// ,0,0,0,0,0,0,0,0,1,0,1
+2165, // ID ONT KNOW// ,0,0,0,0,0,0,0,0,1,0,0
+2166, //he is senate// ,0,0,0,0,0,0,0,1,0,0,0
+2167, //i dont know him// ,0,0,0,0,0,0,0,0,1,0,0
+2168, //i dont know him// ,0,0,0,0,0,0,0,0,1,0,0
+2169, vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+2170, vice pres.  ,0,0,1,0,0,0,0,0,0,0,0
+2171, politician ,0,0,0,0,0,0,0,1,0,0,0
+2172, senator ,0,0,0,0,0,0,0,1,0,0,0
+2173, vice pres. of the us ,1,0,0,0,0,0,0,0,0,0,0
+2174, vice prs. ,0,0,1,0,0,0,0,0,0,0,0
+2175, vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+2176, vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+2177, the vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+2178, senator ,0,0,0,0,0,0,0,1,0,0,0
+2179, vice pres.  ,0,0,1,0,0,0,0,0,0,0,0
+2180, vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+2181, vice pres.  ,0,0,1,0,0,0,0,0,0,0,0
+2182, vice pres.  ,0,0,1,0,0,0,0,0,0,0,0
+2183, vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+2184, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2186, dk//no idea// ,0,0,0,0,0,0,0,0,1,0,0
+2188, vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+2189, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2190, dk//shot somebody// ,0,0,0,0,0,0,1,0,1,0,0
+2191, dk//no idea// ,0,0,0,0,0,0,0,0,1,0,0
+2192," dk//i've heard of him, but that's about it.// ",0,0,0,0,0,0,0,0,1,0,1
+2193, dk//governor or pres ,0,0,0,0,0,0,0,1,1,0,0
+2194, dk//don't know much about politics;// ,0,0,0,0,0,0,0,0,1,0,1
+2195, dk//no idea// ,0,0,0,0,0,0,0,0,1,0,0
+2196, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2197, vp ,0,0,1,0,0,0,0,0,0,0,0
+2198, vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+2199, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+2200, sect. of defense  ,0,0,0,0,0,0,0,1,0,0,0
+2201, causes trouble// ,0,0,0,0,0,0,1,0,0,0,0
+2202, vice pres of the us ,1,0,0,0,0,0,0,0,0,0,0
+2203, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+2204, vice pres. ,0,0,1,0,0,0,0,0,0,0,0
+2205, vice pres.  ,0,0,1,0,0,0,0,0,0,0,0
+2206, vice pres. of the u.s. ,1,0,0,0,0,0,0,0,0,0,0
+2207, vice pres. of the u.s. ,1,0,0,0,0,0,0,0,0,0,0
+2208, vice pres.  ,0,0,1,0,0,0,0,0,0,0,0
+2209, vice pres.  ,0,0,1,0,0,0,0,0,0,0,0
+2211, vice pres ,0,0,1,0,0,0,0,0,0,0,0
+2212, vice pres//none ,0,0,1,0,0,0,0,0,0,1,0
+2213, vice pres.  ,0,0,1,0,0,0,0,0,0,0,0
+2214, vp ,0,0,1,0,0,0,0,0,0,0,0
+2215,"  congress isnt he?... oh, he's vp, the only reason i rem is bec he shot someone while hunting ",0,0,1,0,0,0,1,1,0,0,1
+2216, vp ,0,0,1,0,0,0,0,0,0,0,0
+2217, vp ,0,0,1,0,0,0,0,0,0,0,0
+2219, vp ,0,0,1,0,0,0,0,0,0,0,0
+2220," no, i d rem that either //  no, dont rem, i didnt like him anyway & dont pay much attn to him ",0,0,0,0,0,0,0,0,1,1,1
+2221, vp ,0,0,1,0,0,0,0,0,0,0,0
+2222, hear his name a lot but DK wh he does // no guess ,0,0,0,0,0,0,0,0,1,0,1
+2224, vp ,0,0,1,0,0,0,0,0,0,0,0
+2225, vp ,0,0,1,0,0,0,0,0,0,0,0
+2226," vp?? cant think, d rem rt now, vp???? ",0,0,1,0,0,0,0,0,1,0,1
+2227," dk // no guess, know but dk job ",0,0,0,0,0,0,0,0,1,0,1
+2228, vp ,0,0,1,0,0,0,0,0,0,0,0
+2229, dk // dk ,0,0,0,0,0,0,0,0,1,0,0
+2230," vp, he's a jerk, dont give him a gun ",0,0,1,0,0,0,0,1,0,0,1
+2231, vp ,0,0,1,0,0,0,0,0,0,0,0
+2232, vp ,0,0,1,0,0,0,0,0,0,0,0
+2234, vp ,0,0,1,0,0,0,0,0,0,0,0
+2235, vp ,0,0,1,0,0,0,0,0,0,0,0
+2236, vp & shooting peo in the face ,0,0,1,0,0,0,1,0,0,0,0
+2237, //he is vice president// ,0,0,1,0,0,0,0,0,0,0,0
+2238, dont know i have no idea ,0,0,0,0,0,0,0,0,1,0,0
+2239, one of the 25 people that go there i dont know ,0,0,0,0,0,0,0,1,1,0,0
+2240, VICE PRESIDENT ,0,0,1,0,0,0,0,0,0,0,0
+2241, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2242, dk // really dk ,0,0,0,0,0,0,0,0,1,0,0
+2243, vp ,0,0,1,0,0,0,0,0,0,0,0
+2244, vp ,0,0,1,0,0,0,0,0,0,0,0
+2245, senate but i dont know what he is now//he might retire//no ,0,0,0,0,0,0,0,1,1,1,0
+2246, i have no clue//i dont know//n0 ,0,0,0,0,0,0,0,0,1,1,0
+2247, //no guess//no ,0,0,0,0,0,0,0,0,1,1,0
+2248, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2249, // i really dont know//no ,0,0,0,0,0,0,0,0,1,1,0
+2250, vice  president ,0,0,1,0,0,0,0,0,0,0,0
+2251, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2252, i dont know//no ,0,0,0,0,0,0,0,0,1,1,0
+2253, vice kpresident ,0,0,1,0,0,0,0,0,0,0,0
+2254, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2255, idont have any idea//no//no ,0,0,0,0,0,0,0,0,1,1,0
+2256, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2257, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2258, //cant come up with it//no ,0,0,0,0,0,0,0,0,1,1,0
+2259, she know the name but does not know what he does. '' don't may much attention to all that stuff''//none ,0,0,0,0,0,0,0,0,1,1,1
+2260, vice president of u.s. ,1,0,0,0,0,0,0,0,0,0,0
+2261, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2262, the vice president ,0,0,1,0,0,0,0,0,0,0,0
+2263, has seen him on tv but does not know what office he holds//no ,0,0,0,0,0,0,0,0,1,1,1
+2264, vice present currently now ,0,0,1,0,0,0,0,0,0,0,0
+2265, vp ,0,0,1,0,0,0,0,0,0,0,0
+2266, r does not know him// he has heard of him// ,0,0,0,0,0,0,0,0,1,0,1
+2267, vice president. ,0,0,1,0,0,0,0,0,0,0,0
+2268, vice president. ,0,0,1,0,0,0,0,0,0,0,0
+2269, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2270, don't know him//no guess. ,0,0,0,0,0,0,0,0,1,0,0
+2271, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2272, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2273, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2274, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2276, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2277, vicepresident ,0,0,1,0,0,0,0,0,0,0,0
+2278, vice president. ,0,0,1,0,0,0,0,0,0,0,0
+2279, congressman ,0,0,0,0,0,0,0,1,0,0,0
+2280, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2281, dk// assistant to something ,0,0,0,0,0,0,0,1,1,0,0
+2282, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2283, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2284, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2285, no idea//no guess ,0,0,0,0,0,0,0,0,1,0,0
+2286, dont know??g ,0,0,0,0,0,0,0,0,1,0,0
+2287, dk// (no guess) ,0,0,0,0,0,0,0,0,1,0,0
+2288, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2289, vice presidency ,0,0,1,0,0,0,0,0,0,0,0
+2290, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2291, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2293, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2294, vice president duck/human hunter ,0,0,1,0,0,0,0,1,0,0,0
+2295, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2296, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2297, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2298, dk sometype of representative ,0,0,0,0,0,0,0,1,1,0,0
+2299, wasrunning for governor too ,0,0,0,0,0,0,1,0,0,0,0
+2300, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2301, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2302, //governor ,0,0,0,0,0,0,0,1,0,0,0
+2303, in the military for a lot of years ,0,0,0,0,0,0,0,1,0,0,0
+2304, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2305, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2306, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2307, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2308, //vice president ,0,0,1,0,0,0,0,0,0,0,0
+2309, senate ,0,0,0,0,0,0,0,1,0,0,0
+2310, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2311, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2312, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2313, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2316, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2317, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2318, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2319, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2320, //not sure ,0,0,0,0,0,0,0,0,1,0,0
+2321, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2322, vice president ,0,0,1,0,0,0,0,0,0,0,0
+2323, no guess ,0,0,0,0,0,0,0,0,1,0,0

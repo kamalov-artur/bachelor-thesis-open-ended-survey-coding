@@ -1,0 +1,31 @@
+dataset: dataset5
+title: 2008 TERRORISTS’ ATTACKS MASTER CODES
+questions: []
+notes:
+- Terrorists’ attacks (Terr1 to Terr11)
+codes:
+  '1': 'Cause fear: Cause fear, make people scared, scare people'
+  '2': 'Cause pain: Cause pain, cause hurt, hurt people'
+  '3': 'Cause chaos: Cause chaos, cause dissension among people, make people argue, disrupt people’s lives'
+  '4': 'Kill people: Kill, kill people'
+  '5': 'Prove that the United States is weak: US is weak, US is vulnerable, US not strong, US can be defeated, US can be hurt, the terrorists are strong, terrorists are not weak, terrorists are big, terrorists can hurt the US'
+  '6': 'Start a war with the United States: Start a war with the US, Get the US involved in a war'
+  '7': 'Destroy the United States: Destroy, hurt, ruin, damage, take over, or invade the US'
+  '8': 'Destroy democracy: Destroy, hurt, ruin, or damage democracy'
+  '9': 'Destroy Western civilization: Destroy, hurt, ruin, or damage Western civilization, our way of life, our culture, our society'
+  '10': 'Destroy the United States’ economy: Destroy, hurt, ruin, or damage the US economy or financial system'
+  '11': 'Destroy the United States government: Destroy, hurt, ruin, or damage the US government'
+  '12': 'The United States in the Middle East: Revenge for the US in the Middle East (or Israel, Iraq, Iran), Make the US leave the Middle East, US support for Israel,'
+  '13': 'Get even with the United States – Other reason: Get even, pay back, revenge'
+  '14': 'Destroy the twin towers: Destroy the World Trade Center, the twin towers, or buildings'
+  '15': 'Destroy a symbol of the United States: Destroy symbols or things that represent the US'
+  '16': 'Kill George Bush: Kill Bush, kill the president'
+  '17': 'They are crazy: They are crazy, insane, nuts, wacko'
+  '18': 'They are jealous: They are jealous or envious of other people, other religions, non-Muslims, the US, Western civilization, our way of life, democracy'
+  '19': 'They hate: They hate other people, other religions, non-Muslims, the US, Western civilization, our way of life, democracy'
+  '20': 'They want to be noticed: They want to be noticed, get noticed, make people notice them, be praised, get esteem, get prestige NOTE: Mentions of showing, warning, or proving something are assigned one of codes 5-13'
+  '21': 'The US government made them do it: Bush, the US, or our government made them do it'
+  '22': 'The Muslim religion made them do it: Their religion or the Muslim religion made them do it, they are religious fanatic, they wanted to go to heaven, they wanted get seven virgins'
+  '23': 'bin Laden made them do it: bin Laden made them do it'
+  '24': 'Other comments about the terrorists or attacks: Other ideas about the terrorists, attacks, bin Laden, or al Qaida that does not fit codes 1-23'
+  '25': 'Other comment: Any mention of something other than the terrorists or the attack and that is not about the respondent'

@@ -1,0 +1,26 @@
+model:
+  model_name: distilbert-base-uncased
+  max_len: 128
+  dropout: 0.20
+  local_files_only: false
+
+training:
+  batch_size: 16
+  epochs: 12
+  patience: 3
+  learning_rate: 0.00002
+  weight_decay: 0.01
+  threshold: 0.50
+  primary_metric: samples_f1
+  use_pos_weight: true
+  pos_weight_cap: 10.0
+  threshold_min: 0.05
+  threshold_max: 0.95
+  threshold_step: 0.05
+  random_state: 42
+
+grid:
+  learning_rate: [0.00002, 0.00005]
+  dropout: [0.10, 0.20]
+  encoder_trainable: [true, false]
+  threshold_strategy: ["global", "per_label"]
